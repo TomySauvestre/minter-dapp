@@ -146,7 +146,6 @@ header .container {
 /* CARD */
 
 .card {
-  position: absolute;
   background-color: var(--bg-color);
   border-radius: 5px;
   border: 3px solid var(--accent-color);
@@ -157,6 +156,7 @@ header .container {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
   top: 2px;
+  align-items: center;
 }
 
 .show-card {
