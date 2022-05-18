@@ -39,7 +39,7 @@ body {
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
-  border: solid 2px brown;
+  border: solid 2px rgb(28, 182, 67);
 }
 
 /* HEADER */
@@ -48,22 +48,19 @@ header {
   box-shadow: var(--header-shadow);
   position: fixed;
   width: 100%;
-  border: solid 2px red;
 }
 
 header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  
-  border: solid 2px black;
+
 }
 
 .menu {
   display: flex;
   gap: 2rem;
   align-items: center;
-  border: solid 2px green;
 }
 
 
