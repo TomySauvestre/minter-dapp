@@ -29,6 +29,7 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
+  height: 200%;
 }
 
 .container {
@@ -155,7 +156,7 @@ header .container {
   opacity: 0;
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
-  margin-top: 20px;
+  top: 40px;
 }
 
 .show-card {
