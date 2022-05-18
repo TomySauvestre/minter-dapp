@@ -44,6 +44,7 @@ body {
 header {
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
+  position: fixed;
   border: solid 2px red;
 }
 
