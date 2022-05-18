@@ -1,12 +1,13 @@
 /* FONTS */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Odibee+Sans&display=swap');
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Montserrat", sans-serif;
   --font-secondary: "Montserrat", serif;
-  --font-code: "Roboto", monospace;
+  --font-code: "Odibee Sans", monospace;
   --bg-color: #1b335f;
   --bg-color-transparent: #03143480;
   --font-color: #ffffff;
