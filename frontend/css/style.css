@@ -188,7 +188,7 @@ section {
   color: var(--font-color);
   font-size: 2rem;
   font-weight: 700;
-  font-family: var(--font-secondary);
+  font-family: var(--font-code);
   padding: 1rem;
   display: inline-block;
   width: 100%;
