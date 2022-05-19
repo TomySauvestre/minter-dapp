@@ -36,9 +36,6 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  width: auto;
-  height: auto;
-  
 }
 
 /* HEADER */
@@ -157,9 +154,9 @@ header .container {
   transition: all 0.5s ease-in-out;
   align-items: center;
   width: 50%;
-  position: absolute;
+  /*position: absolute;
   top: 100px;
-  margin: 0 auto;
+  margin: 0 auto;*/
 }
 
 .show-card {
