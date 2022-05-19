@@ -54,7 +54,7 @@ header .container {
   justify-content: space-between;
   align-items: center;
   border: solid 5px rgb(28, 182, 67);
-  opacity: 0.9;
+  opacity: 0.7;
 
 }
 
@@ -125,6 +125,7 @@ header .container {
   text-decoration: none;
   outline: none;
   border: solid 5px red;
+  opacity: 1;
 }
 .btn:hover {
   box-shadow: none;
