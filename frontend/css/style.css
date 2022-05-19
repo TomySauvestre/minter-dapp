@@ -79,6 +79,10 @@ header .container {
   left: 50%;
 }
 
+.not-connected h2{
+  font-size: medium;
+}
+
 .show-not-connected {
   opacity: 1;
 }
