@@ -157,7 +157,7 @@ header .container {
   transition: all 0.5s ease-in-out;
   align-items: center;
   width: 50%;
-  height: 500px;
+  height: auto;
   position: absolute;
   top: 200px;
   right: 25%;
@@ -253,7 +253,7 @@ section {
   justify-content: space-between;
   width: 100%;
   text-align: center;
-  /*margin-bottom: 2rem;*/
+  margin-bottom: 2rem;
 }
 
 .mint-qty {
