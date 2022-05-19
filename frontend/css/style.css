@@ -224,19 +224,19 @@ section {
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  margin: 2rem 0;
+  /*margin: 2rem 0;*/
   font-size: 3.5rem;
   text-align: center;
 }
 
 .countdown h2 {
-  margin-top: 1rem;
+  /*margin-top: 1rem;*/
 }
 
 .countdown > p {
   font-size: 1.1rem;
   font-family: var(--font-secondary);
-  margin-bottom: 2rem;
+  /*margin-bottom: 2rem;*/
   text-align: center;
 }
 
