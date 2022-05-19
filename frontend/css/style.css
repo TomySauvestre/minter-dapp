@@ -404,12 +404,3 @@ section {
   display: none;
 }
 
-.disappear{
-  transform: translateX(-100%);
-  opacity: 0;
-}
-
-.appear{
-  transform: translateX(100%);
-  opacity: 1;
-}
