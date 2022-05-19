@@ -202,7 +202,7 @@ section {
   font-size: 1rem;
   font-weight: 700;
   font-family: var(--font-code);
-  padding: 1rem;
+  padding: 0.5rem;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -214,7 +214,7 @@ section {
   font-family: var(--font-secondary);
   font-size: 0.6rem;
   color: var(--bg-color);
-  padding: 0.5rem 0.7rem;
+  padding: 0.4rem 0.5rem;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -260,7 +260,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 0.5rem;
   background-color: var(--accent-color);
   border-radius: 5px;
 }
@@ -278,7 +278,7 @@ section {
 
 .input-number {
   height: 100%;
-  padding: 1rem;
+  padding: 0.5rem;
   vertical-align: top;
   text-align: center;
   outline: none;
@@ -294,7 +294,7 @@ section {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 1rem 0 2rem;
+  padding: 0.5rem 0 1rem;
 }
 
 .total-price-container p {
@@ -359,13 +359,13 @@ section {
   }
   .wallet-btn {
     margin-left: 0;
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 0.6rem;
     max-width: 8rem;
   }
   .not-connected {
     background-color: var(--bg-color-transparent);
     border-radius: 5px;
-    padding: 2rem;
+    padding: 1rem;
     margin: 0 auto;
   }
   .countdown ul {
@@ -386,16 +386,16 @@ section {
     margin: 1rem 0;
   }
   .countdown h2 {
-    padding-top: 0.5rem;
+    padding-top: 0.3rem;
   }
   .countdown p {
     font-size: 0.5rem;
   }
   .card {
-    padding: 1rem;
+    padding: 0.5rem;
   }
   .mint-qty .btn {
-    padding: 1rem;
+    padding: 0.5rem;
     font-size: 8px;
   }
 }
