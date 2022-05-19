@@ -60,14 +60,14 @@ const updateConnectStatus = async () => {
       // HIDE SPINNER
       //spinner.classList.add('hidden');
       notConnected.classList.add('appear');
-      notConnected.classList.add('show-not-connected');
+      //notConnected.classList.add('show-not-connected');
     };
   } else if (accounts && accounts.length > 0) {
     onboardButton.innerText = `✔ ...${accounts[0].slice(-4)}`;
     window.address = accounts[0];
     onboardButton.disabled = true;
     onboarding.stopOnboarding();
-    notConnected.classList.remove('show-not-connected');
+    notConnected.classList.remove('appear');
     notConnected.classList.add('disappear');
     // SHOW SPINNER
     //spinner.classList.remove('hidden');
@@ -78,7 +78,7 @@ const updateConnectStatus = async () => {
     // HIDE SPINNER
     //spinner.classList.add('hidden');
     notConnected.classList.add('appear');
-    notConnected.classList.add('show-not-connected');
+    //notConnected.classList.add('show-not-connected');
     onboardButton.onclick = async () => {
       await window.ethereum
         .request({
@@ -86,7 +86,7 @@ const updateConnectStatus = async () => {
         })
         .then(function (accts) {
           onboardButton.innerText = `✔ ...${accts[0].slice(-4)}`;
-          notConnected.classList.remove('show-not-connected');
+          notConnected.classList.remove('appear');
           notConnected.classList.add('disappear');
           // SHOW SPINNER
           //spinner.classList.remove('hidden');

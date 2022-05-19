@@ -74,12 +74,13 @@ header .container {
   border: solid 5px black;
   position: absolute;
   top: 100px;
+  right: 25%;
   opacity: 0;
 }
 
-.show-not-connected {
+/*.show-not-connected {
   opacity: 1;
-}
+}*/
 
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
@@ -405,8 +406,10 @@ section {
 
 .disappear{
   transform: translateX(-100%);
+  opacity: 0;
 }
 
 .appear{
   transform: translateX(100%);
+  opacity: 1;
 }
