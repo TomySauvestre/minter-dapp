@@ -59,7 +59,7 @@ const updateConnectStatus = async () => {
       onboarding.startOnboarding();
       // HIDE SPINNER
       //spinner.classList.add('hidden');
-      notConnected.classList.remove('hide-not-connected');
+      notConnected.classList.remove('hidden');
       notConnected.classList.add('show-not-connected');
     };
   } else if (accounts && accounts.length > 0) {
@@ -68,16 +68,16 @@ const updateConnectStatus = async () => {
     onboardButton.disabled = true;
     onboarding.stopOnboarding();
     notConnected.classList.remove('show-not-connected');
-    notConnected.classList.add('hide-not-connected');
+    notConnected.classList.add('hidden');
     // SHOW SPINNER
     //spinner.classList.remove('hidden');
     window.contract = new web3.eth.Contract(abi, contractAddress);
     loadInfo();
   } else {
-    onboardButton.innerText = "Connect MetaMask !";
+    onboardButton.innerText = "Connect MetaMask!";
     // HIDE SPINNER
     //spinner.classList.add('hidden');
-    notConnected.classList.remove('hide-not-connected');
+    notConnected.classList.remove('hidden');
     notConnected.classList.add('show-not-connected');
     onboardButton.onclick = async () => {
       await window.ethereum
@@ -87,7 +87,7 @@ const updateConnectStatus = async () => {
         .then(function (accts) {
           onboardButton.innerText = `✔ ...${accts[0].slice(-4)}`;
           notConnected.classList.remove('show-not-connected');
-          notConnected.classList.add('hide-not-connected');
+          notConnected.classList.add('hidden');
           // SHOW SPINNER
           //spinner.classList.remove('hidden');
           onboardButton.disabled = true;
