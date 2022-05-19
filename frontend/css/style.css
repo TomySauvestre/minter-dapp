@@ -73,9 +73,8 @@ header .container {
   align-items: center;
   text-align: center;
   border: solid 5px black;
-
+  position: absolute;
   opacity: 0;
-  left: 50%;
 }
 
 .not-connected h2{
