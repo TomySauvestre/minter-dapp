@@ -72,7 +72,6 @@ header .container {
 .not-connected {
   align-items: center;
   text-align: center;
-  transform: translateY(10vh);
   border: solid 5px black;
   position: absolute;
   top: 100px;
