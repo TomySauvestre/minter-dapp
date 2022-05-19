@@ -76,10 +76,17 @@ header .container {
   top: 100px;
   right: 25%;
   opacity: 0;
+  transform: translateX(-100%);
 }
 
 .show-not-connected {
   opacity: 1;
+  transform: translateX(100%);
+}
+
+.hide-not-connected {
+  opacity: 0;
+  transform: translateX(-100%);
 }
 
 .not-connected h1 {
