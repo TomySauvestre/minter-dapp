@@ -155,6 +155,7 @@ header .container {
   align-items: center;
   width: 50%;
   margin: 0 25%;
+  position: absolute;
 }
 
 .show-card {
