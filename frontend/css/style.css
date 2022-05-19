@@ -78,7 +78,7 @@ header .container {
   top: 100px;
   position: absolute;
   top: 200px;
-  right: 25%;
+  right: 50%;
   opacity: 0;
 }
 
@@ -125,7 +125,6 @@ header .container {
   text-decoration: none;
   outline: none;
   border: solid 5px red;
-  opacity: 1;
 }
 .btn:hover {
   box-shadow: none;
@@ -168,7 +167,7 @@ header .container {
 }
 
 .show-card {
-  opacity: 0.7;
+  opacity: 1;
   transform: translateX(0);
 }
 
