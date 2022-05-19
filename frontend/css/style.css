@@ -154,9 +154,9 @@ header .container {
   transition: all 0.5s ease-in-out;
   align-items: center;
   width: 50%;
-  margin: 0 25%;
   position: absolute;
   top: 50px;
+  right: 25%;
 }
 
 .show-card {
