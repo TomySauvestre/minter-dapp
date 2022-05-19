@@ -157,7 +157,7 @@ header .container {
   width: 50%;
   position: absolute;
   top: 20px;
-  margin: auto;
+  box-align: center;
 }
 
 .show-card {
