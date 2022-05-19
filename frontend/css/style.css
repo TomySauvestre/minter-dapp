@@ -113,7 +113,7 @@ header .container {
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
-  font-size: 0.5rem;
+  font-size: 1rem;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
@@ -139,7 +139,7 @@ header .container {
 
 .hero-btn {
   border-radius: 4px;
-  font-size: 0.6rem;
+  font-size: 1.2rem;
   padding: 1.5rem 3rem;
 }
 
@@ -159,7 +159,7 @@ header .container {
   width: 50%;
   height: auto;
   position: absolute;
-  top: 100px;
+  top: 200px;
   right: 25%;
   padding: 80px;
 }
@@ -199,10 +199,10 @@ section {
 .countdown .clock-item .count-number {
   background: var(--accent-color);
   color: var(--font-color);
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 700;
   font-family: var(--font-code);
-  padding: 0.5rem;
+  padding: 1rem;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -212,9 +212,9 @@ section {
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
-  font-size: 0.6rem;
+  font-size: 1.1rem;
   color: var(--bg-color);
-  padding: 0.4rem 0.5rem;
+  padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -225,7 +225,7 @@ section {
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 3rem;
   text-align: center;
 }
 
@@ -234,7 +234,7 @@ section {
 }
 
 .countdown > p {
-  font-size: 0.6rem;
+  font-size: 1.1rem;
   font-family: var(--font-secondary);
   margin-bottom: 2rem;
   text-align: center;
@@ -260,7 +260,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem;
+  padding: 1rem;
   background-color: var(--accent-color);
   border-radius: 5px;
 }
@@ -278,7 +278,7 @@ section {
 
 .input-number {
   height: 100%;
-  padding: 0.5rem;
+  padding: 1rem;
   vertical-align: top;
   text-align: center;
   outline: none;
@@ -294,7 +294,7 @@ section {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 0.5rem 0 1rem;
+  padding: 1rem 0 2rem;
 }
 
 .total-price-container p {
@@ -312,12 +312,12 @@ section {
 }
 
 .minted-container h1 {
-  font-size: 2.5rem;
+  font-size: 5rem;
   margin-bottom: 2rem;
 }
 
 .minted-container h2 {
-  font-size: 1rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -359,13 +359,13 @@ section {
   }
   .wallet-btn {
     margin-left: 0;
-    padding: 0.3rem 0.6rem;
+    padding: 0.5rem 1rem;
     max-width: 8rem;
   }
   .not-connected {
     background-color: var(--bg-color-transparent);
     border-radius: 5px;
-    padding: 1rem;
+    padding: 2rem;
     margin: 0 auto;
   }
   .countdown ul {
@@ -376,27 +376,27 @@ section {
     width: 100%;
   }
   .countdown .clock-item .count-number {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
   .countdown .clock-item .count-text {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
   .countdown h1 {
-    font-size: 1rem;
+    font-size: 2rem;
     margin: 1rem 0;
   }
   .countdown h2 {
-    padding-top: 0.3rem;
+    padding-top: 0.5rem;
   }
   .countdown p {
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
   .card {
-    padding: 0.5rem;
+    padding: 1rem;
   }
   .mint-qty .btn {
-    padding: 0.5rem;
-    font-size: 8px;
+    padding: 1rem;
+    font-size: 13px;
   }
 }
 
