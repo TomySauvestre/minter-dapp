@@ -70,10 +70,11 @@ header .container {
 .not-connected {
   align-items: center;
   text-align: center;
-  opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
   border: solid 5px black;
+  position: absolute;
+  top: 100px;
 }
 
 .show-not-connected {
