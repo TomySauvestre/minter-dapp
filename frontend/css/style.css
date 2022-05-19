@@ -36,6 +36,7 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
+  border: dashed 1px black;
 }
 
 /* HEADER */
@@ -155,7 +156,7 @@ header .container {
   align-items: center;
   width: 50%;
   position: absolute;
-  top: 80px;
+  top: 100px;
   right: 25%;
 }
 
