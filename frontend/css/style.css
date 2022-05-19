@@ -73,8 +73,7 @@ header .container {
   align-items: center;
   text-align: center;
   border: solid 5px black;
-  position: absolute;
-  top: 100px;
+
   opacity: 0;
   left: 50%;
 }
