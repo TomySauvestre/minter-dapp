@@ -403,7 +403,7 @@ section {
 /* UTILITIES */
 
 .hidden {
-  transition-property: display;
-  transition-duration: 1s;
-  display: none;
+  transition-property: opacity;
+  transition-duration: 3s;
+  opacity: 0;
 }
