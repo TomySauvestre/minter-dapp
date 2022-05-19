@@ -161,8 +161,6 @@ header .container {
   position: absolute;
   top: 200px;
   right: 25%;
-
-  
 }
 
 .show-card {
@@ -226,7 +224,6 @@ section {
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  margin: 2rem 0;
   font-size: 3.5rem;
   text-align: center;
 }
