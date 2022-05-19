@@ -154,7 +154,7 @@ header .container {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
   align-items: center;
-  position: relative;
+  position: static;
 }
 
 .show-card {
