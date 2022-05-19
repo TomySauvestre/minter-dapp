@@ -404,6 +404,6 @@ section {
 
 .hidden {
   transition-property: opacity;
-  transition-duration: 3s;
+  transition-duration: 1s;
   opacity: 0;
 }
