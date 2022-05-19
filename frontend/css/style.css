@@ -29,14 +29,11 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: 200vh;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
-  padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
   
@@ -49,6 +46,7 @@ header {
   position: fixed;
   width: 100%;
   z-index: 1;
+  opacity: 0.8;
 }
 
 header .container {
@@ -71,9 +69,7 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  height: 100%;
   text-align: center;
-  margin: 0 auto 0 35vw;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
@@ -155,10 +151,9 @@ header .container {
   box-shadow: var(--card-shadow);
   padding: 2rem;
   opacity: 0;
-  /*transform: translateX(100vw);*/
+  transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
   align-items: center;
-  position: absolute;
 }
 
 .show-card {
