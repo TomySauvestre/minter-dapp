@@ -48,6 +48,7 @@ header {
   box-shadow: var(--header-shadow);
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 
 header .container {
