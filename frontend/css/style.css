@@ -78,9 +78,9 @@ header .container {
   opacity: 0;
 }
 
-/*.show-not-connected {
+.show-not-connected {
   opacity: 1;
-}*/
+}
 
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
