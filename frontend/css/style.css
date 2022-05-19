@@ -159,7 +159,7 @@ header .container {
   width: 50%;
   height: auto;
   position: absolute;
-  top: 200px;
+  top: 100px;
   right: 25%;
   padding: 80px;
 }
@@ -403,8 +403,7 @@ section {
 /* UTILITIES */
 
 .hidden {
-  /*transition-property: opacity;
+  transition-property: opacity;
   transition-duration: 1s;
-  opacity: 0;*/
-  display: none;
+  opacity: 0;
 }
