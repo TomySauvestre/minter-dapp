@@ -74,7 +74,6 @@ header .container {
   border: solid 5px black;
   position: absolute;
   top: 100px;
-  transition: all 0.3s ease;
   opacity: 1;
 }
 
@@ -402,5 +401,5 @@ section {
 /* UTILITIES */
 
 .hidden {
-  transform: translateX(-100%);
+  display: none;
 }
