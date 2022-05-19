@@ -36,7 +36,8 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  margin: auto;
+  width: auto;
+  height: auto;
   
 }
 
