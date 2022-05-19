@@ -113,7 +113,7 @@ header .container {
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 0.5rem;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
@@ -139,7 +139,7 @@ header .container {
 
 .hero-btn {
   border-radius: 4px;
-  font-size: 1.2rem;
+  font-size: 0.6rem;
   padding: 1.5rem 3rem;
 }
 
@@ -199,7 +199,7 @@ section {
 .countdown .clock-item .count-number {
   background: var(--accent-color);
   color: var(--font-color);
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 700;
   font-family: var(--font-code);
   padding: 1rem;
@@ -212,7 +212,7 @@ section {
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
-  font-size: 1.1rem;
+  font-size: 0.6rem;
   color: var(--bg-color);
   padding: 0.5rem 0.7rem;
   display: inline-block;
@@ -225,7 +225,7 @@ section {
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  font-size: 3rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 
@@ -234,7 +234,7 @@ section {
 }
 
 .countdown > p {
-  font-size: 1.1rem;
+  font-size: 0.6rem;
   font-family: var(--font-secondary);
   margin-bottom: 2rem;
   text-align: center;
@@ -312,12 +312,12 @@ section {
 }
 
 .minted-container h1 {
-  font-size: 5rem;
+  font-size: 2.5rem;
   margin-bottom: 2rem;
 }
 
 .minted-container h2 {
-  font-size: 2rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -376,27 +376,27 @@ section {
     width: 100%;
   }
   .countdown .clock-item .count-number {
-    font-size: 1.5rem;
-  }
-  .countdown .clock-item .count-text {
     font-size: 1rem;
   }
+  .countdown .clock-item .count-text {
+    font-size: 0.8rem;
+  }
   .countdown h1 {
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 1rem 0;
   }
   .countdown h2 {
     padding-top: 0.5rem;
   }
   .countdown p {
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .card {
     padding: 1rem;
   }
   .mint-qty .btn {
     padding: 1rem;
-    font-size: 13px;
+    font-size: 8px;
   }
 }
 
