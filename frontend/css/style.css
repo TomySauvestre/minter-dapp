@@ -104,7 +104,6 @@ header .container {
 }
 
 /* BUTTONS */
-
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
@@ -142,8 +141,10 @@ header .container {
   padding: 1.5rem 3rem;
 }
 
-/* CARD */
 
+
+
+/* CARD */
 .card {
   background-color: var(--bg-color);
   border-radius: 5px;
@@ -151,7 +152,7 @@ header .container {
   box-shadow: var(--card-shadow);
   padding: 2rem;
   opacity: 0;
-  transform: translateX(100vw);
+  /*transform: translateX(100vw);*/
   transition: all 0.5s ease-in-out;
   align-items: center;
   position: absolute;
@@ -162,8 +163,8 @@ header .container {
   transform: translateX(0);
 }
 
-/* COUNTDOWN SECTION */
 
+/* COUNTDOWN SECTION */
 section {
   flex: 1 1 auto;
 }
@@ -235,7 +236,6 @@ section {
 }
 
 /* MINT CONTAINER */
-
 .mint-container {
   width: 100%;
   display: flex;
