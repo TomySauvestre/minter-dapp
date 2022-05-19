@@ -71,12 +71,10 @@ header .container {
   align-items: center;
   text-align: center;
   transform: translateY(10vh);
-  transition: all 0.5s ease-in-out;
   border: solid 5px black;
   position: absolute;
   top: 100px;
   opacity: 1;
-  transition: all 4s ease;
 }
 
 .show-not-connected {
@@ -403,5 +401,6 @@ section {
 /* UTILITIES */
 
 .hidden {
+  transform: translateX(-100%);
   display: none;
 }
