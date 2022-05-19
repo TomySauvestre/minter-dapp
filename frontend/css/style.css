@@ -76,7 +76,7 @@ header .container {
   position: absolute;
   top: 100px;
   opacity: 0;
-  left: 25%;
+  left: 50%;
 }
 
 .show-not-connected {
