@@ -75,9 +75,6 @@ header .container {
   border: solid 5px black;
   position: absolute;
   top: 100px;
-  position: absolute;
-  top: 100px;
-
   opacity: 0;
 }
 
