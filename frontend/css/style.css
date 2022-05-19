@@ -403,3 +403,11 @@ section {
 .hidden {
   display: none;
 }
+
+.disappear{
+  transform: translateX(-100%);
+}
+
+.appear{
+  transform: translateX(100%);
+}
