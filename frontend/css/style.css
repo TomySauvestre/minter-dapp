@@ -157,7 +157,7 @@ header .container {
   width: 50%;
   position: absolute;
   top: 100px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .show-card {
