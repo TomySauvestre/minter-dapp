@@ -415,7 +415,8 @@ section {
 /* UTILITIES */
 
 .hidden {
-  transition-property: opacity;
+  /*transition-property: opacity;
   transition-duration: 1s;
-  opacity: 0;
+  opacity: 0;*/
+  display: none;
 }
