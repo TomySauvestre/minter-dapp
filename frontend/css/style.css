@@ -45,6 +45,7 @@ header {
   box-shadow: var(--header-shadow);
   position: fixed;
   width: 100%;
+  height: auto;
   opacity: 0.5;
   z-index: 1;
   border: solid black 2px;
