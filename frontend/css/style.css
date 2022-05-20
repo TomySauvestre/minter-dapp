@@ -54,7 +54,7 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 80%;
+  width: 90%;
   position: absolute;
   left: 100px;
 }
@@ -73,8 +73,8 @@ header .container {
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
-  height: auto;
-  width: auto;
+  height: 50px;
+  width: 50%;
 }
 
 .show-not-connected {
