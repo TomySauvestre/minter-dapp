@@ -62,7 +62,10 @@ header .container {
   right: 3%;
 }
 
-
+.logo img{
+  max-width : 200px;
+  max-height : 150px;
+}
 
 .menu {
   display: flex;
