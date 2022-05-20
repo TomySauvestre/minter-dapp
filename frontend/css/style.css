@@ -62,6 +62,11 @@ header .container {
   right: 3%;
 }
 
+.logo {
+  width: 417px;
+  height:198px;
+}
+
 .menu {
   display: flex;
   gap: 2rem;
