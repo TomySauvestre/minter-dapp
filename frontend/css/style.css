@@ -68,9 +68,8 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  height: 100%;
+  float: right;
   text-align: center;
-  margin: 0 auto 0 35vw;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
