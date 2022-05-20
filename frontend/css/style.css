@@ -37,7 +37,7 @@ body {
   overflow: hidden;
   background-color: black;
   border: solid 2px white;
-  max-height: 100%;
+  height: 100%;
 }
 
 /* HEADER */
