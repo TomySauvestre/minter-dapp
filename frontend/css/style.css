@@ -78,6 +78,7 @@ header .container {
   height: 50px;
   width: 50%;
   clear: right;
+  border: solid 2px white;
 }
 
 .show-not-connected {
