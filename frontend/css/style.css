@@ -23,7 +23,6 @@
 }
 
 body {
-  background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
   color: var(--font-color);
