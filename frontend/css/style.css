@@ -73,6 +73,8 @@ header .container {
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
+  height: auto;
+  width: auto;
 }
 
 .show-not-connected {
@@ -146,7 +148,6 @@ header .container {
   left: 50%;
   top: 70px;*/
   float: right;
-
   width: 50%;
   height: 90%;
   background-color: green;
