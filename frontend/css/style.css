@@ -35,6 +35,8 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
+  background-color: black;
+  border: solid 2px white;
 }
 
 /* HEADER */
