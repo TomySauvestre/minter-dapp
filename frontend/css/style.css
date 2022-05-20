@@ -26,17 +26,14 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  height: 200%;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
 }
@@ -46,6 +43,8 @@ body {
 header {
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
+  position: fixed;
+  opacity: 0.8;
 }
 
 header .container {
