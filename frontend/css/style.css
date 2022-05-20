@@ -76,9 +76,10 @@ header .container {
   transition: all 0.5s ease-in-out;
   height: 50px;
   width: 50%;
+
   position: absolute;
   left: 50%;
-  top: 80px;
+  top: 70px;
   border: solid 2px white;
 }
 
@@ -149,10 +150,9 @@ header .container {
 /* CARD */
 
 .card {
-  /*position: absolute;
+  position: absolute;
   left: 50%;
-  top: 70px;*/
-  float: right;
+  top: 70px;
   width: 50%;
   height: 90%;
   background-color: green;
