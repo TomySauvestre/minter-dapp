@@ -55,7 +55,7 @@ header .container {
   align-items: center;
   width: 80%;
   position: relative;
-  right: 100px;
+  left: 100px;
 }
 
 .menu {
