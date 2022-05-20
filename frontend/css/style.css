@@ -143,10 +143,12 @@ header .container {
 /* CARD */
 
 .card {
-  position: absolute;
-  top: 70px;
-  width: 50%;
+  /*position: absolute;
   left: 50%;
+  top: 70px;*/
+  float: right;
+
+  width: 50%;
   background-color: green;
   border-radius: 5px;
   border: 3px solid var(--accent-color);
