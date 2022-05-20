@@ -70,14 +70,15 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  float: right;
   text-align: center;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
   height: 50px;
   width: 50%;
-  clear: right;
+  position: absolute;
+  left: 50%;
+  top: 80px;
   border: solid 2px white;
 }
 
