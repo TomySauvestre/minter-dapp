@@ -63,8 +63,8 @@ header .container {
 }
 
 .logo img{
-  max-width : 200px;
-  max-height : 150px;
+  max-width : 139px;
+  max-height : 66px;
 }
 
 .menu {
@@ -82,10 +82,15 @@ header .container {
   display: flex;
 }
 
+.home > .title{
+  border: solid 3px rgb(90, 138, 90);
+}
+
 .home > .gifs
 {
   justify-content: space-between;
   gap: 300px;
+  border: solid 3px green;
 }
 
 /* NOT CONNECTED */
