@@ -41,14 +41,13 @@ body {
 /* HEADER */
 
 header {
-  background-color: purple;
+  background-color: grey;
   box-shadow: var(--header-shadow);
   position: fixed;
   width: 100%;
-  height: 80px;
+  height: 70px;
   opacity: 0.5;
   z-index: 1;
-  border: solid black 2px;
 }
 
 header .container {
