@@ -28,7 +28,7 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: 5000px;
+  height: 2000px;
 }
 
 .container {
@@ -53,6 +53,7 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  background-color: purple;
   width: 80%;
   position: absolute;
   left: 100px;
