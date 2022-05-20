@@ -28,6 +28,7 @@ body {
   color: var(--font-color);
   font-family: var(--font-primary);
   height: 2000px;
+  background-color: white;
 }
 
 .container {
@@ -76,6 +77,7 @@ header .container {
   transition: all 0.5s ease-in-out;
   height: 50px;
   width: 50%;
+  clear: right;
 }
 
 .show-not-connected {
