@@ -28,7 +28,7 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: 10000px;
+  height: 5000px;
 }
 
 .container {
@@ -142,7 +142,9 @@ header .container {
 /* CARD */
 
 .card {
-  position: relative;
+  position: absolute;
+  top: 100px;
+  width: 50%;
   background-color: green;
   border-radius: 5px;
   border: 3px solid var(--accent-color);
