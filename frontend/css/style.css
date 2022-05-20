@@ -47,7 +47,7 @@ header {
   box-shadow: var(--header-shadow);
   position: fixed;
   width: 100%;
-  height: 70px;
+  height: 10vh;
   opacity: 0.5;
   z-index: 1;
 }
@@ -84,7 +84,7 @@ header .container {
 .home > .title{
   position: absolute;
   border: solid 8px rgb(52, 78, 52);
-  height: 20%;
+  height: 20vh;
 }
 
 .home > .gifs
@@ -92,7 +92,7 @@ header .container {
   justify-content: space-between;
   gap: 300px;
   border: solid 3px green;
-  height: 80%;
+  height: 80vh;
 }
 
 /* NOT CONNECTED */
