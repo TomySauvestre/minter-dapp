@@ -44,13 +44,16 @@ header {
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
   position: fixed;
+  width: 100%;
   opacity: 0.8;
+  z-index: 1;
 }
 
 header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  width: 80%;
 }
 
 .menu {
