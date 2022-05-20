@@ -164,8 +164,8 @@ header .container {
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 0.8;
-  padding-right: 20px;
-  padding-right: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
   
 }
 
