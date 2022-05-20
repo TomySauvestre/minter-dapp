@@ -47,6 +47,7 @@ header {
   width: 100%;
   opacity: 0.5;
   z-index: 1;
+  border: solid black 2px;
 }
 
 header .container {
