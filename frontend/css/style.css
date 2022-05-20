@@ -104,7 +104,6 @@ header .container {
   transition: all 0.5s ease-in-out;
   height: 50px;
   width: 50%;
-
   position: absolute;
   left: 50%;
   top: 70px;
