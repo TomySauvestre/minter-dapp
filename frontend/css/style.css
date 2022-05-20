@@ -83,6 +83,7 @@ header .container {
 }
 
 .home > .title{
+  position: absolute;
   border: solid 3px rgb(90, 138, 90);
 }
 
