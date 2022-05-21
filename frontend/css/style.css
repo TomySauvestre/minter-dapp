@@ -27,6 +27,8 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
+  height: 100%;
+  width: 100%;
 }
 
 .container {
