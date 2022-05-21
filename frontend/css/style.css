@@ -82,7 +82,8 @@ header .container {
 }
 
 .home > .title{
-  position: absolute;
+  position: relative;
+  right: 25%;
   border: solid 8px rgb(52, 78, 52);
   height: 20vh;
 }
