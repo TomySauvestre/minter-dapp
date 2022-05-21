@@ -27,13 +27,11 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: 2000px;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   overflow: hidden;
   background-color: black;
   border: solid 2px white;
@@ -66,6 +64,7 @@ header .container {
   max-width : 139px;
   max-height : 66px;
 }
+
 
 .menu {
   display: flex;
