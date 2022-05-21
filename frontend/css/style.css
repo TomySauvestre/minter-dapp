@@ -85,7 +85,7 @@ header .container {
   height: 100%;
   align-items: center;
   display: flex;
-  width: 1000000px;
+  width: 100%;
 }
 
 #title{
