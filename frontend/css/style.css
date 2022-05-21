@@ -75,8 +75,10 @@ header .container {
 
 
 
+
 .home {
   background-color: rgb(9, 62, 84);
+  height: 100vh;
   align-items: center;
   display: flex;
 }
