@@ -101,6 +101,7 @@ header .container {
   gap: 400px;
   border: solid 3px green;
   height: 70vh;
+  align-items: center;
 }
 
 /* NOT CONNECTED */
