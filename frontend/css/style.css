@@ -87,7 +87,6 @@ header .container {
 #title{
   position: relative;
   left: 50%;
-  border: solid 8px rgb(52, 78, 52);
   height: 20vh;
 }
 
@@ -96,7 +95,6 @@ header .container {
   display: flex;
   justify-content: space-between;
   gap: 400px;
-  border: solid 3px green;
   height: 70vh;
   align-items: center;
 }
@@ -113,7 +111,6 @@ header .container {
   position: absolute;
   left: 50%;
   top: 70px;
-  border: solid 2px white;
 }
 
 .show-not-connected {
