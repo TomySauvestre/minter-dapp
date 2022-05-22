@@ -27,13 +27,9 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: 100%;
-  width: 100%;
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
   overflow: hidden;
   background-color: black;
   border: solid 2px white;
@@ -56,6 +52,7 @@ header {
 }
 
 header .container {
+  display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
@@ -89,13 +86,15 @@ header .container {
 
 #title{
   position: relative;
-  right: 25%;
+  left: 50%;
   border: solid 8px rgb(52, 78, 52);
   height: 20vh;
 }
 
 .gifs
 {
+  display: flex;
+  justify-content: space-between;
   gap: 400px;
   border: solid 3px green;
   height: 70vh;
