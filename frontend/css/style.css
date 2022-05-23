@@ -33,7 +33,7 @@ body {
   overflow: hidden;
   background-color: black;
   border: solid 2px white;
-  max-height: 100vh;
+  height: 100vh;
   position: static;
 }
 
