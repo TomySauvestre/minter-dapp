@@ -89,7 +89,6 @@ header .container {
 
 #title{
   position: relative;
-  left: 25%;
   height: 10vh;
   width: 100%;
   border: solid 2px red;
