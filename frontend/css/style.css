@@ -34,6 +34,7 @@ body {
   background-color: black;
   border: solid 2px white;
   max-height: 100vh;
+  position: static;
 }
 
 
@@ -78,8 +79,10 @@ header .container {
 
 /*HOME */
 .home {
-  height: 100vh;
+  height: 90vh;
   align-items: center;
+  position: relative;
+  top: 10vh;
   width: 100%;
 }
 
@@ -87,7 +90,6 @@ header .container {
   position: relative;
   left: 25%;
   height: 20vh;
-  top: 10vh;
   border: solid 2px red;
 }
 
