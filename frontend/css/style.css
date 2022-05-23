@@ -86,14 +86,15 @@ header .container {
   width: 100%;
   border: solid 2px purple;
 }
-/*
+
 #title{
   position: relative;
   left: 25%;
-  height: 20vh;
+  height: 10vh;
+  width: 100%;
   border: solid 2px red;
 }
-
+/*
 .gifs
 {
   position: relative;
