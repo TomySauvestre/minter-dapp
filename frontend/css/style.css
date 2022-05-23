@@ -89,15 +89,19 @@ header .container {
   position: relative;
   left: 50%;
   height: 20vh;
+  bottom: 70vh;
 }
 
 .gifs
 {
+  position: relative;
+  top: 20vh;
   display: flex;
   justify-content: space-between;
   gap: 300px;
   height: 70vh;
-  align-items: center;
+  align-items:center
+  border: solid 2px green
 }
 
 /* NOT CONNECTED */
