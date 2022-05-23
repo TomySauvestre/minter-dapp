@@ -76,6 +76,7 @@ header .container {
 
 
 
+
 /*HOME */
 .home {
   background-color: rgb(9, 62, 84);
@@ -94,7 +95,7 @@ header .container {
 {
   display: flex;
   justify-content: space-between;
-  gap: 400px;
+  gap: 300px;
   height: 70vh;
   align-items: center;
 }
