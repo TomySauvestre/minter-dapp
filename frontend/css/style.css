@@ -84,6 +84,7 @@ header .container {
   position: relative;
   top: 10vh;
   width: 100%;
+  border: solid 2px purple;
 }
 
 #title{
