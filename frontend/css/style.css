@@ -67,7 +67,6 @@ header .container {
   max-height : 66px;
 }
 
-
 .menu {
   display: flex;
   gap: 2rem;
@@ -79,31 +78,27 @@ header .container {
 
 /*HOME */
 .home {
-  background-color: rgb(9, 62, 84);
-  height: 90vh;
+  height: 100vh;
   align-items: center;
   width: 100%;
-  position: absolute;
-  top: 10vh;
 }
 
 #title{
   position: relative;
   left: 50%;
   height: 20vh;
-  bottom: 70vh;
+  top: 10vh;
 }
 
 .gifs
 {
   position: relative;
-  top: 20vh;
+  top: 30vh;
   display: flex;
   justify-content: space-between;
   gap: 300px;
   height: 70vh;
   align-items:center
-  border: solid 2px green
 }
 
 /* NOT CONNECTED */
