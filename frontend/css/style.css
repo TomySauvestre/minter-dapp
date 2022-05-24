@@ -158,6 +158,16 @@ header .container {
   font-weight: bold;
 }*/
 
+
+
+
+/* THE COLLECTION */
+
+.collection > .container{
+  height: 100vh;
+  background-color: #168126;
+}
+
 /* BUTTONS */
 
 .btn {
