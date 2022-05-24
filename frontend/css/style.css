@@ -209,7 +209,7 @@ header .container {
   top: 27vh;
   width: 40%;
   height: 72vh;
-  background-color: rgb(9, 78, 108);
+  background-color: rgb(12, 94, 129);
   border-radius: 5px;
   border: 3px solid var(--accent-color);
   box-shadow: var(--card-shadow);
@@ -382,7 +382,7 @@ section {
   left: 29%;
   top: 27vh;
   height: 72vh;
-  background-color: rgb(9, 78, 108);
+  background-color: rgb(12, 94, 129);
   border-radius: 5px;
   border: 3px solid var(--accent-color);
   box-shadow: var(--card-shadow);
