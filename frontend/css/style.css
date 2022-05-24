@@ -56,6 +56,7 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  height: 10vh;
   background-color: rgb(8, 0, 26);
   width: 94%;
   position: absolute;
@@ -64,8 +65,8 @@ header .container {
 }
 
 .logo img{
-  max-width : 139px;
-  max-height : 66px;
+  max-width : 163px;
+  max-height : 444px;
 }
 
 .menu {
