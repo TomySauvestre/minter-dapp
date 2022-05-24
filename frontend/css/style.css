@@ -89,9 +89,6 @@ header .container {
 }
 
 #title{
-  
-
-
   position: absolute;
   top: 12vh;
 }
@@ -135,6 +132,7 @@ header .container {
   position: absolute;
   left: 25%;
   top: 30vh;
+  background-color: rgb(5, 0, 24);
 }
 
 .show-not-connected {
@@ -145,7 +143,7 @@ header .container {
 .not-connected h2 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  font-size: 3.5rem;
+  font-size: 1rem;
 }
 
 /*
