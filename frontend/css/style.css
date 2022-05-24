@@ -83,7 +83,7 @@ header .container {
 .home > .container{
   align-items: center;
   background-color: rgb(5, 0, 24);
-  position: static;
+  position: relative;
 }
 
 #title{
