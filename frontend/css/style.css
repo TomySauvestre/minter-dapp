@@ -114,6 +114,7 @@ header .container {
   align-items: center;
   border: solid 3px green;
   margin: 0 0;
+  z-index: 2;
 }
 
 
