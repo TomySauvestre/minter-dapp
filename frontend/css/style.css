@@ -105,6 +105,7 @@ header .container {
   height: 70vh;
   align-items: center;
   border: solid 3px green;
+  margin: 0 0;
 }
 
 /* NOT CONNECTED */
