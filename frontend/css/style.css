@@ -203,10 +203,10 @@ header .container {
 
 .card {
   position: absolute;
-  left: 40%;
-  top: 10vh;
+  left: 30%;
+  top: 30vh;
   width: 40%;
-  height: 70vh;
+  height: 72vh;
   background-color: green;
   border-radius: 5px;
   border: 3px solid var(--accent-color);
