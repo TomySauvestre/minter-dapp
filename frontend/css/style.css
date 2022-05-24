@@ -100,6 +100,7 @@ header .container {
   opacity: 0.4;
   z-index: 1;
   position: relative;
+  border: solid 2px grey;
 }
 
 .gifs
