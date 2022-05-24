@@ -33,8 +33,8 @@ body {
 .container {
   overflow: hidden;
   background-color: black;
-  border: solid 2px white;
   max-height: 100vh;
+  max-width: 100%;
 }
 
 
@@ -56,6 +56,7 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  background-color: rgb(8, 0, 26);
   width: 94%;
   position: absolute;
   left: 3%;
