@@ -110,7 +110,7 @@ header .container {
   position: absolute;
   display: flex;
   justify-content: space-evenly;
-  gap: 200px;
+  gap: 100px;
   width: 100%;
   height: 70vh;
   top: 30vh;
