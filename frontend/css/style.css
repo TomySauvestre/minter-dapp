@@ -85,11 +85,12 @@ header .container {
 }
 
 #title{
-  position: absolute;
+  
   height: 20vh;
-  width: 100wh;
+  width: 100%;
+  position: absolute;
   top: 10vh;
-}/*
+}
 
 #rain
 {
@@ -99,7 +100,7 @@ header .container {
   z-index: 1;
   position: absolute;
 }
-
+/*
 .gifs
 {
   position: absolute;
