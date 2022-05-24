@@ -83,14 +83,14 @@ header .container {
 .home > .container{
   align-items: center;
   background-color: rgb(5, 0, 24);
+  position: relative;
 }
 
 #title{
-  position: relative;
+  position: absolute;
   height: 20vh;
   width: 100%;
   top: 10vh;
-  border: solid 2px red;
 }
 
 #rain
@@ -99,17 +99,12 @@ header .container {
   width: 100%;
   opacity: 0.4;
   z-index: 1;
-  position: relative;
-  border: solid 2px grey;
-  top: 0%;
-  left: 0%;
-  right: 0%;
-  bottom: 0%;
+  position: absolute;
 }
 
 .gifs
 {
-  position: relative;
+  position: absolute;
   display: flex;
   justify-content: space-evenly;
   gap: 100px;
@@ -117,12 +112,7 @@ header .container {
   height: 70vh;
   top: 30vh;
   align-items: center;
-  border: solid 3px green;
   margin: 0 0;
-  top: 0%;
-  left: 0%;
-  right: 0%;
-  bottom: 0%;
 }
 
 
