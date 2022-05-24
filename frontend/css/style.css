@@ -131,10 +131,10 @@ header .container {
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
   height: 50px;
-  width: 50%;
+  width: 100%;
   position: absolute;
-  left: 50%;
-  top: 70px;
+  left: 25%;
+  top: 30vh;
 }
 
 .show-not-connected {
@@ -142,13 +142,13 @@ header .container {
   transform: translateY(0);
 }
 
-.not-connected h1 {
+.not-connected h2 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  margin: 2rem 0;
   font-size: 3.5rem;
 }
 
+/*
 .not-connected p {
   font-size: 1.1rem;
   font-family: var(--font-secondary);
@@ -160,7 +160,7 @@ header .container {
   color: var(--accent-color);
   font-size: 1.5rem;
   font-weight: bold;
-}
+}*/
 
 /* BUTTONS */
 
