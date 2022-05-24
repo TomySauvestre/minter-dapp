@@ -35,7 +35,7 @@ body {
   background-color: black;
   border: solid 2px white;
   max-height: 100vh;
-  position: relative;
+  position: static;
 }
 
 
@@ -86,7 +86,7 @@ header .container {
 }
 
 #title{
-  position: absolute;
+  position: relative;
   height: 20vh;
   width: 100%;
   top: 10vh;
@@ -99,12 +99,12 @@ header .container {
   width: 100%;
   opacity: 0.4;
   z-index: 1;
-  position: absolute;
+  position: relative;
 }
 
 .gifs
 {
-  position: absolute;
+  position: relative;
   display: flex;
   justify-content: space-evenly;
   gap: 100px;
