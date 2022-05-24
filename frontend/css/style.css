@@ -34,7 +34,7 @@ body {
   overflow: hidden;
   background-color: black;
   border: solid 2px white;
-  height: 100vh;
+  max-height: 100vh;
   position: static;
 }
 
@@ -80,11 +80,8 @@ header .container {
 
 /*HOME */
 
-.home {
-  height: 100vh;
+.home > .container{
   align-items: center;
-  position: absolute;
-  width: 100%;
   background-color: rgb(5, 0, 24);
 }
 
