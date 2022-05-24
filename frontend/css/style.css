@@ -188,7 +188,7 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 2rem;
+  border-radius: 0;
   margin-left: 2rem;
   border-color: transparent;
 }
