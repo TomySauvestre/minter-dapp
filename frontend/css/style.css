@@ -78,9 +78,8 @@ header .container {
 
 
 /*HOME */
-/*
+
 .home > .container{
-  align-items: center;
   background-color: rgb(5, 0, 24);
   position: relative;
 }
@@ -90,7 +89,7 @@ header .container {
   height: 20vh;
   width: 100%;
   top: 10vh;
-}
+}/*
 
 #rain
 {
