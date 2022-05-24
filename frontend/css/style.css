@@ -188,7 +188,7 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 5rem;
+  border-radius: 2rem;
   margin-left: 2rem;
   border-color: transparent;
 }
@@ -204,7 +204,7 @@ header .container {
 .card {
   position: absolute;
   left: 29%;
-  top: 26vh;
+  top: 27vh;
   width: 40%;
   height: 72vh;
   background-color: green;
