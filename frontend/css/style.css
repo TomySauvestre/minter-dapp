@@ -168,7 +168,7 @@ header .container {
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
-  font-size: 0.5rem;
+  font-size: 1rem;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
@@ -280,7 +280,7 @@ section {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
-  font-size: 3.5rem;
+  font-size: 2rem;
   text-align: center;
 }
 
