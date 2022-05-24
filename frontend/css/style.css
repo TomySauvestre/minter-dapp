@@ -247,11 +247,11 @@ section {
 
 .countdown ul {
   display: flex;
-  gap: 3rem;
+  gap: 2rem;
 }
 .countdown .clock-item {
   list-style: none;
-  width: 150px;
+  width: 120px;
   height: auto;
 }
 .countdown .clock-item .count-number {
