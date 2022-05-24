@@ -314,11 +314,16 @@ section {
   margin-bottom: 1rem;
 }
 
+.info-container h3
+{
+  margin-bottom: 2px;
+}
+
 .mint-qty {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 1.4rem;
   background-color: var(--accent-color);
   border-radius: 5px;
 }
