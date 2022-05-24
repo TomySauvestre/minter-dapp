@@ -306,15 +306,6 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 72vh;
-  position: absolute;
-  left: 29%;
-  top: 27vh;
-  background-color: rgb(9, 102, 141);
-  border-radius: 5px;
-  border: 3px solid var(--accent-color);
-  box-shadow: var(--card-shadow);
-  z-index: 2;
 
 }
 
