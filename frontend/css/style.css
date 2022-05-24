@@ -142,6 +142,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   font-size: 1rem;
+  color:rgb(217, 208, 255);
 }
 
 /*
