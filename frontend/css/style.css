@@ -107,7 +107,7 @@ header .container {
 
 .gifs
 {
-  position: relative;
+  position: absolute;
   display: flex;
   justify-content: space-evenly;
   gap: 200px;
