@@ -99,7 +99,7 @@ header .container {
 {
   position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   gap: 200px;
   height: 70vh;
   align-items: center;
