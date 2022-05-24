@@ -107,8 +107,8 @@ header .container {
 {
   position: absolute;
   display: flex;
-  width: 80%;
-
+  width: 90%;
+  right: 5%;
 
   height: 70vh;
   top: 30vh;
