@@ -91,6 +91,7 @@ header .container {
 #title{
   position: absolute;
   top: 12vh;
+  width: 100%;
 }
 
 #rain
