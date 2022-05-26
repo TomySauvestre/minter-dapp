@@ -174,15 +174,15 @@ header .container {
 .collection > .container > img
 {
   position: absolute;
-  left: 8%;
-  top: 15%;
+  left: 3%;
+  top: 13%;
 }
 
 .collection > .container > h1
 {
   position: absolute;
-  left: 50%;
-  top: 10%;
+  left: 30%;
+  top: 25%;
   font-size: 50px;
 }
 
