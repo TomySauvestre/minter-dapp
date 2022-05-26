@@ -178,6 +178,13 @@ header .container {
   top: 5%;
 }
 
+.collection > .container > h1
+{
+  position: absolute;
+  left: 50%;
+  top: 5%;
+}
+
 /* BUTTONS */
 
 .btn {
