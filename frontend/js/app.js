@@ -380,3 +380,29 @@ async function mint() {
     }
   }
 }
+/*
+var img = [];
+img[0] = "img1.png";
+img[1] = "img2.png";
+img[2] = "img3.png";
+img[3] = "img4.png";
+img[4] = "img5.png";
+img[5] = "img6.png";
+img[6] = "img7.png";
+img[7] = "img8.png";
+var i = 0;
+var timer = 3000;
+
+function changeImage(){
+  document.diapo.src = img[i];
+  if (i < 7)
+  {
+    i++;
+  }
+  else
+  {
+    i = 0;
+  }
+  setTimeout("changeImage()", timer);
+}
+window.onload = changeImage;*/
