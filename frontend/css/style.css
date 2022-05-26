@@ -168,6 +168,14 @@ header .container {
 .collection > .container{
   height: 100vh;
   background-color: #165481;
+  position: relative;
+}
+
+.collection > .container > img
+{
+  position: absolute;
+  left: 5%;
+  top: 5%;
 }
 
 /* BUTTONS */
