@@ -380,7 +380,7 @@ async function mint() {
     }
   }
 }
-/*
+
 var img = [];
 img[0] = "img1.png";
 img[1] = "img2.png";
@@ -405,4 +405,4 @@ function changeImage(){
   }
   setTimeout("changeImage()", timer);
 }
-window.onload = changeImage;*/
+window.onload = changeImage;
