@@ -199,6 +199,15 @@ header .container {
   
 }
 
+.number
+{
+  position: absolute;
+  left: 4%;
+  top: 70%;
+  font-family: "Odibee Sans";
+  font-size: 30px;
+}
+
 
 /* BUTTONS */
 
