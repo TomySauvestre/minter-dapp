@@ -382,14 +382,14 @@ async function mint() {
 }
 
 var img = [];
-img[0] = "img1.png";
-img[1] = "img2.png";
-img[2] = "img3.png";
-img[3] = "img4.png";
-img[4] = "img5.png";
-img[5] = "img6.png";
-img[6] = "img7.png";
-img[7] = "img8.png";
+img[0] = "../images/x-icon/img1.png";
+img[1] = "../images/x-icon/img2.png";
+img[2] = "../images/x-icon/img3.png";
+img[3] = "../images/x-icon/img4.png";
+img[4] = "../images/x-icon/img5.png";
+img[5] = "../images/x-icon/img6.png";
+img[6] = "../images/x-icon/img7.png";
+img[7] = "../images/x-icon/img8.png";
 var i = 0;
 var timer = 3000;
 
