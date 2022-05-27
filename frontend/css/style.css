@@ -169,7 +169,7 @@ header .container {
   height: 100vh;
   background-color: #165481;
   position: relative;
-  background-image: "../images/x-icon/bricks.png";
+  background-image: url("../images/x-icon/bricks.png");
 }
 
 .collection > .container > img
