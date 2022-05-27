@@ -194,7 +194,7 @@ header .container {
   font-size: 25px;
 }
 
-.collection > .container > p
+.collection > .container > .para > p
 {
   border: solid 2px black;
 }
