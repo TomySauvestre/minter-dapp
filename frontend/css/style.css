@@ -194,6 +194,11 @@ header .container {
   font-size: 25px;
 }
 
+.collection > .container > p
+{
+  border: solid 2px black;
+}
+
 /* BUTTONS */
 
 .btn {
