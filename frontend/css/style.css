@@ -202,10 +202,9 @@ header .container {
 #number1
 {
   position: absolute;
-  left: 4%;
+  left: 10%;
   top: 75%;
-  font-family: "Odibee Sans";
-  font-size: 30px;
+  font-size: 60px;
 }
 
 
