@@ -185,6 +185,7 @@ header .container {
   left: 40%;
   top: 22%;
   font-size: 60px;
+  text-shadow: 1px 1px 2px var(--header-shadow);
 }
 
 .para
@@ -195,6 +196,7 @@ header .container {
   font-size: 25px;
   line-height: 40px;
   margin-right: 50px;
+  
 }
 
 
