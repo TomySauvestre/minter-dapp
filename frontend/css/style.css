@@ -188,7 +188,7 @@ header .container {
   text-shadow: 1px 1px 2px var(--header-shadow);
 }
 
-.para
+#para1
 {
   position: absolute;
   left: 40%;
@@ -199,7 +199,7 @@ header .container {
   
 }
 
-.number
+#number1
 {
   position: absolute;
   left: 4%;
