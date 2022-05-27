@@ -181,8 +181,16 @@ header .container {
 .collection > .container > h1
 {
   position: absolute;
-  left: 44%;
+  left: 40%;
   top: 25%;
+  font-size: 50px;
+}
+
+.para
+{
+  position: absolute;
+  left: 40%;
+  top: 30%;
   font-size: 50px;
 }
 
