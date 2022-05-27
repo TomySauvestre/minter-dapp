@@ -391,7 +391,7 @@ img[5] = "../images/x-icon/img6.png";
 img[6] = "../images/x-icon/img7.png";
 img[7] = "../images/x-icon/img8.png";
 var i = 0;
-var timer = 3000;
+var timer = 1000;
 
 function changeImage(){
   document.diapo.src = img[i];
