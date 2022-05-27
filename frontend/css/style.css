@@ -192,6 +192,7 @@ header .container {
   left: 40%;
   top: 40%;
   font-size: 25px;
+  line-height: 10px;
 }
 
 .collection > .container > .para > p
