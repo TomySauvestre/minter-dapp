@@ -423,14 +423,14 @@ prev.addEventListener('click', function() {
     direction = 1;
   }
   carousel.style.justifyContent = 'flex-end';
-  slider.style.transform = 'translate(20%)';
+  slider.style.transform = 'translate(10%)';
 
 });
 
 next.addEventListener('click', function() {
   direction = -1;
   carousel.style.justifyContent = 'flex-start';
-  slider.style.transform = 'translate(-20%)';
+  slider.style.transform = 'translate(-10%)';
 });
 
 slider.addEventListener('transitionend', function() {
