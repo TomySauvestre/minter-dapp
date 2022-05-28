@@ -262,7 +262,7 @@ header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 50px;
+  gap: 20px;
 }
 
 
@@ -283,7 +283,7 @@ header .container {
 {
   width: 400px;
   height: 400px;
-  border-radius: 50px;
+  border-radius: 30px;
 }
 /* BUTTONS */
 .btn {
