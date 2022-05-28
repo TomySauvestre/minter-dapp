@@ -412,7 +412,7 @@ window.onload = changeImage;
 const slider = document.querySelector('.slider');
 const carousel = document.querySelector('.carousel');
 
-const next = document.querySelector('.next');
+const next = document.querySelector('.arrow');
 
 var direction;
 
