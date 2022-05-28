@@ -235,7 +235,7 @@ header .container {
   display: flex;
   justify-content: flex-start;
   position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 .slider
