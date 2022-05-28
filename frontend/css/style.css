@@ -276,20 +276,14 @@ header .container {
 }
 
 
-.arrow
+#arrow
 {
   position: absolute;
   top: 10px;
   cursor: pointer;
 }
 
-
-.arrow.next
-{
-  right: 10px;
-}
-
-.sneak-peek img
+.sneak-peek img:not(#arrow)
 {
   width: 400px;
   height: 400px;
