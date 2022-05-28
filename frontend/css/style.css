@@ -259,6 +259,8 @@ header .container {
   align-items: center;
   justify-content: center;
 }
+
+
 .arrow
 {
   position: absolute;
@@ -270,6 +272,11 @@ header .container {
 .arrow.next
 {
   right: 10px;
+}
+
+.sneak-peek > img{
+  width: 20%;
+  height: 20%;
 }
 /* BUTTONS */
 .btn {
