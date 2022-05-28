@@ -406,3 +406,26 @@ function changeImage(){
   setTimeout("changeImage()", timer);
 }
 window.onload = changeImage;
+
+
+/* CAROUSEL */
+const slider = document.querySelector('.slider');
+const carousel = document.querySelector('.carousel');
+
+const prev = document.querySelector('.prev');
+const next = document.querySelector('.next');
+
+var direction;
+
+prev.addEventListener('click', function() {
+  if (direction === -1) {
+    slider.appendChild(slider.firstElementChild);
+    direction = 1;
+  }
+  carousel 
+}
+
+
+
+
+)
