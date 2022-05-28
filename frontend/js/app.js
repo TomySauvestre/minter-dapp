@@ -419,7 +419,7 @@ var direction;
 next.addEventListener('click', function() {
   direction = -1;
   carousel.style.justifyContent = 'flex-start';
-  slider.style.transform = 'translate(-10%)';
+  slider.style.transform = 'translate(-20%)';
 });
 
 slider.addEventListener('transitionend', function() {
