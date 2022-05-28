@@ -222,7 +222,8 @@ header .container {
 .carousel-container
 {
   height: 60vh;
-  width: 10%;
+  width: 90%;
+  margin: 20px 200px;
 }
 
 .carousel
@@ -234,6 +235,7 @@ header .container {
   display: flex;
   justify-content: flex-start;
   position: relative;
+  overflow: hidden;
 }
 
 .slider
