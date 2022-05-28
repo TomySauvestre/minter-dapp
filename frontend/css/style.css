@@ -211,6 +211,13 @@ header .container {
 
 
 
+/* SNEAK PEEK */
+.sneak-peek > .container
+{
+  height: 100vh;
+  background-color: #5394c2;
+  position: relative;
+}
 /* BUTTONS */
 .btn {
   display: inline-block;
@@ -276,6 +283,7 @@ header .container {
   opacity: 1;
   transform: translateY(0);
 }
+
 
 
 
