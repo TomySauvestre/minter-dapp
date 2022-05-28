@@ -222,8 +222,10 @@ header .container {
 .carousel-container
 {
   height: 60vh;
-  width: 90%;
+  width: 80%;
   margin: 20px auto;
+  position: absolute;
+  top: 20vh;
 }
 
 .carousel
