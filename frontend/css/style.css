@@ -279,7 +279,7 @@ header .container {
 #arrow
 {
   position: absolute;
-  top: 15px;
+  top: 15vh;
   cursor: pointer;
   z-index: 1;
   left: 70%;
