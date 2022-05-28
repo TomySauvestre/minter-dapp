@@ -274,9 +274,10 @@ header .container {
   right: 10px;
 }
 
-.sneak-peek > img{
-  width: 400px;
-  height: 400px;
+.sneak-peek > img
+{
+  width: 300px;
+  height: 300px;
 }
 /* BUTTONS */
 .btn {
