@@ -412,20 +412,9 @@ window.onload = changeImage;
 const slider = document.querySelector('.slider');
 const carousel = document.querySelector('.carousel');
 
-const prev = document.querySelector('.prev');
 const next = document.querySelector('.next');
 
 var direction;
-
-prev.addEventListener('click', function() {
-  if (direction === -1) {
-    slider.appendChild(slider.firstElementChild);
-    direction = 1;
-  }
-  carousel.style.justifyContent = 'flex-end';
-  slider.style.transform = 'translate(10%)';
-
-});
 
 next.addEventListener('click', function() {
   direction = -1;
