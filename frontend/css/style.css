@@ -226,7 +226,8 @@ header .container {
   margin: 20px auto;
   position: absolute;
   top: 20vh;
-  left: 20%;
+  left: 10%;
+  overflow: hidden;
 }
 
 .carousel
