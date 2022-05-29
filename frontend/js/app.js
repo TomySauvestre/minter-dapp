@@ -456,10 +456,14 @@ const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
   opensea.src = "../images/header/opensea_red.png";
+  opensea.style.height = "32px";
+  opensea.style.width = "32px";
 })
 
 opensea.addEventListener("mouseout", ()=> {
   opensea.src = "../images/header/opensea.png";
+  opensea.style.height = "32px";
+  opensea.style.width = "32px";
 })
 
 
@@ -469,10 +473,14 @@ const twitter = document.querySelector('#twitter');
 
 twitter.addEventListener("mouseenter", ()=> {
   twitter.src = "../images/header/twitter_red.png";
+  twitter.style.height = "32px";
+  twitter.style.width = "32px";
 })
 
 twitter.addEventListener("mouseout", ()=> {
   twitter.src = "../images/header/twitter.png";
+  twitter.style.height = "32px";
+  twitter.style.width = "32px";
 })
 
 
