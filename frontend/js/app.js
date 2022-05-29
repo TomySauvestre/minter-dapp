@@ -483,10 +483,14 @@ const discord = document.querySelector('#discord');
 
 discord.addEventListener("mouseenter", ()=> {
   discord.src = "../images/header/discord_red.png";
+  discord.style.height = "40";
+  discord.style.width = "40"
 })
 
 discord.addEventListener("mouseout", ()=> {
   discord.src = "../images/header/discord.png";
+  discord.style.height = "32";
+  discord.style.width = "32";
 })
 
 
