@@ -185,8 +185,8 @@ header .container {
   left: 40%;
   top: 22%;
   font-size: 60px;
-  text-shadow: 2px 2px 0 var(--accent-color);
-  color:rgb(231, 226, 255);
+  text-shadow: 5px 5px 0 var(--accent-color);
+  color:rgb(255, 255, 255);
 }
 
 #para1
@@ -226,8 +226,8 @@ header .container {
   left: 10%;
   top: 15vh;
   font-size: 60px;
-  text-shadow: 2px 2px 0 var(--accent-color);
-  color:rgb(231, 226, 255);
+  text-shadow: 5px 5px 0 var(--accent-color);
+  color:rgb(255, 255, 255);
 }
 
 .carousel-container
