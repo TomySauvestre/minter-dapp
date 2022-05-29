@@ -498,7 +498,7 @@ const wallet_btn = document.querySelector('.wallet-btn');
 
 wallet_btn.addEventListener("mouseenter", () => {
   wallet_btn.style.color = "white";
-  wallet_btn.style.background  = "#55000a";
+  wallet_btn.style.background  = "#E00000";
 })
 
 wallet_btn.addEventListener("mouseout", () => {
