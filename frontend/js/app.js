@@ -449,3 +449,42 @@ arrow.addEventListener("mouseenter", ()=> {
 arrow.addEventListener("mouseout", ()=> {
   arrow.src = "../images/x-icon/arrow.png";
 })
+
+
+
+const opensea = document.querySelector('#opensea');
+
+opensea.addEventListener("mouseenter", ()=> {
+  opensea.src = "../images/x-icon/opensea_red.png";
+})
+
+opensea.addEventListener("mouseout", ()=> {
+  opensea.src = "../images/x-icon/opensea.png";
+})
+
+
+
+
+const twitter = document.querySelector('#twitter');
+
+twitter.addEventListener("mouseenter", ()=> {
+  twitter.src = "../images/x-icon/twitter_red.png";
+})
+
+twitter.addEventListener("mouseout", ()=> {
+  twitter.src = "../images/x-icon/twitter.png";
+})
+
+
+
+
+
+const discord = document.querySelector('#discord');
+
+discord.addEventListener("mouseenter", ()=> {
+  discord.src = "../images/x-icon/discord_red.png";
+})
+
+discord.addEventListener("mouseout", ()=> {
+  discord.src = "../images/x-icon/discord.png";
+})
