@@ -197,6 +197,8 @@ header .container {
   font-size: 25px;
   line-height: 40px;
   margin-right: 50px;
+  text-shadow: 5px 5px 0 black;
+  color:rgb(255, 255, 255);
   
 }
 
