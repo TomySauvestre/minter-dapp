@@ -208,7 +208,7 @@ header .container {
   left: 9%;
   top: 75%;
   font-size: 60px;
-  text-shadow: 5px 5px 0 black;
+  text-shadow: 3px 3px 0 black;
   color:rgb(11, 139, 178);
 }
 
@@ -285,6 +285,10 @@ header .container {
   cursor: pointer;
   z-index: 1;
   left: 68%;
+}
+#arrow:hover
+{
+  background: url('images/x-icon/arrow_red.png');
 }
 
 .sneak-peek img:not(#arrow, #space)
