@@ -64,11 +64,15 @@ header .container {
   right: 3%;
 }
 
+.logo img{
+  max-width : 163px;
+  max-height : 444px;
+}
+
 .menu {
   display: flex;
   gap: 2rem;
   align-items: center;
-  border: 2px red solid;
 }
 
 
