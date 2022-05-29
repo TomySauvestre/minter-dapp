@@ -185,7 +185,7 @@ header .container {
   left: 39%;
   top: 22%;
   font-size: 60px;
-  text-shadow: 5px 5px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--accent-color);
   color:rgb(255, 255, 255);
 }
 
