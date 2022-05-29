@@ -283,7 +283,7 @@ header .container {
 #arrow
 {
   position: absolute;
-  top: 13vh;
+  top: 15vh;
   cursor: pointer;
   z-index: 1;
   left: 60%;
