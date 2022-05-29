@@ -182,7 +182,7 @@ header .container {
 .collection > .container > h1
 {
   position: absolute;
-  left: 40%;
+  left: 39%;
   top: 22%;
   font-size: 60px;
   text-shadow: 5px 5px 0 var(--accent-color);
