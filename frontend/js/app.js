@@ -456,8 +456,8 @@ const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
   opensea.src = "../images/header/opensea_red.png";
-  opensea.style.height = "32px";
-  opensea.style.width = "32px";
+  opensea.style.height = "40px";
+  opensea.style.width = "40px";
 })
 
 opensea.addEventListener("mouseout", ()=> {
@@ -473,8 +473,8 @@ const twitter = document.querySelector('#twitter');
 
 twitter.addEventListener("mouseenter", ()=> {
   twitter.src = "../images/header/twitter_red.png";
-  twitter.style.height = "32px";
-  twitter.style.width = "32px";
+  twitter.style.height = "40px";
+  twitter.style.width = "40px";
 })
 
 twitter.addEventListener("mouseout", ()=> {
