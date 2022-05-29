@@ -444,5 +444,8 @@ const arrow = document.querySelector('#arrow');
 
 arrow.addEventListener("mouseenter", ()=> {
   arrow.src = "../images/x-icon/arrow_red.png";
+})
 
+arrow.addEventListener("mouseout", ()=> {
+  arrow.src = "../images/x-icon/arrow.png";
 })
