@@ -455,11 +455,11 @@ arrow.addEventListener("mouseout", ()=> {
 const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
-  opensea.src = "../images/x-icon/opensea_red.png";
+  opensea.src = "../images/header/opensea_red.png";
 })
 
 opensea.addEventListener("mouseout", ()=> {
-  opensea.src = "../images/x-icon/opensea.png";
+  opensea.src = "../images/header/opensea.png";
 })
 
 
@@ -468,11 +468,11 @@ opensea.addEventListener("mouseout", ()=> {
 const twitter = document.querySelector('#twitter');
 
 twitter.addEventListener("mouseenter", ()=> {
-  twitter.src = "../images/x-icon/twitter_red.png";
+  twitter.src = "../images/header/twitter_red.png";
 })
 
 twitter.addEventListener("mouseout", ()=> {
-  twitter.src = "../images/x-icon/twitter.png";
+  twitter.src = "../images/header/twitter.png";
 })
 
 
@@ -482,9 +482,9 @@ twitter.addEventListener("mouseout", ()=> {
 const discord = document.querySelector('#discord');
 
 discord.addEventListener("mouseenter", ()=> {
-  discord.src = "../images/x-icon/discord_red.png";
+  discord.src = "../images/header/discord_red.png";
 })
 
 discord.addEventListener("mouseout", ()=> {
-  discord.src = "../images/x-icon/discord.png";
+  discord.src = "../images/header/discord.png";
 })
