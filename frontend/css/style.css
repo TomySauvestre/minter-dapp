@@ -291,6 +291,20 @@ header .container {
   height: 400px;
   border-radius: 10px;
 }
+
+#space
+{
+  height: 100vh;
+  width: 100%;
+  opacity: 0.4;
+  z-index: 1;
+  position: absolute;
+}
+
+
+
+
+
 /* BUTTONS */
 .btn {
   display: inline-block;
