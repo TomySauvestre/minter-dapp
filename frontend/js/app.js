@@ -490,7 +490,7 @@ discord.addEventListener("mouseout", ()=> {
 })
 
 
-const wallet_btn = document.querySelector('wallet-btn');
+const wallet_btn = document.querySelector('.wallet-btn');
 
 wallet_btn.addEventListener("mouseenter", () => {
   wallet_btn.style.color = "white";
