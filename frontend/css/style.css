@@ -309,6 +309,23 @@ header .container {
 
 
 
+.roadmap > .container 
+{
+  position: relative;
+  height: 300vh;
+}
+
+
+#space2
+{
+  height: 300vh;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+}
+
+
+
 /* BUTTONS */
 .btn {
   display: inline-block;
