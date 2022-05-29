@@ -224,7 +224,7 @@ header .container {
   left: 10%;
   top: 15vh;
   font-size: 60px;
-  text-shadow: 1px 1px 2px var(--header-shadow);
+  text-shadow: 3px 3px 4px white;
 }
 
 .carousel-container
