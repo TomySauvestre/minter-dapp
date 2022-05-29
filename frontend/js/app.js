@@ -436,3 +436,13 @@ slider.addEventListener('transitionend', function() {
     slider.style.transition = 'all 0.5s';
   })
 })
+
+
+
+
+const arrow = document.querySelector('#arrow');
+
+arrow.addEventListener("mouseenter", ()=> {
+  arrow.src = "../images/x-icon/arrow_red.png";
+
+})
