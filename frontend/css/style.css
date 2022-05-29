@@ -285,7 +285,7 @@ header .container {
   left: 70%;
 }
 
-.sneak-peek img:not(#arrow)
+.sneak-peek img:not(#arrow, #space)
 {
   width: 400px;
   height: 400px;
