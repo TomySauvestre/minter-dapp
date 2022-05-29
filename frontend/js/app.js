@@ -488,3 +488,16 @@ discord.addEventListener("mouseenter", ()=> {
 discord.addEventListener("mouseout", ()=> {
   discord.src = "../images/header/discord.png";
 })
+
+
+const wallet_btn = document.querySelector('wallet-btn');
+
+wallet_btn.addEventListener("mouseenter", () => {
+  wallet_btn.style.color = "white";
+  wallet_btn.style.background  = "#55000a";
+})
+
+wallet_btn.addEventListener("mouseout", () => {
+  wallet_btn.style.color = "#55000a";
+  wallet_btn.style.background  = "white";
+})
