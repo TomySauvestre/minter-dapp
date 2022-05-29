@@ -288,7 +288,7 @@ header .container {
 }
 #arrow:hover
 {
-  background: url('images/x-icon/arrow_red.png');
+  background: url("../images/x-icon/arrow_red.png");
   left: 65%;
 }
 
