@@ -277,10 +277,10 @@ header .container {
 #arrow
 {
   position: absolute;
-  top: 15vh;
+  top: 14vh;
   cursor: pointer;
   z-index: 1;
-  left: 70%;
+  left: 68%;
 }
 
 .sneak-peek img:not(#arrow, #space)
