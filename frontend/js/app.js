@@ -444,14 +444,10 @@ const arrow = document.querySelector('#arrow');
 
 arrow.addEventListener("mouseenter", ()=> {
   arrow.src = "../images/x-icon/arrow_red.png";
-  arrow.style.height = "100px";
-  arrow.style.width = "100px";
 })
 
 arrow.addEventListener("mouseout", ()=> {
   arrow.src = "../images/x-icon/arrow.png";
-  arrow.style.height = "80px";
-  arrow.style.width = "80px";
 })
 
 
