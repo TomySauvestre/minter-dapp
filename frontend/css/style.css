@@ -208,6 +208,8 @@ header .container {
   left: 9%;
   top: 75%;
   font-size: 60px;
+  text-shadow: 5px 5px 0 black;
+  color:rgb(11, 139, 178);
 }
 
 
