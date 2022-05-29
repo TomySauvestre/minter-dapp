@@ -32,7 +32,6 @@ body {
 
 .container {
   overflow: hidden;
-  background-color: black;
   max-height: 100vh;
   max-width: 100%;
 }
@@ -215,7 +214,6 @@ header .container {
 .sneak-peek > .container
 {
   height: 100vh;
-  background-color: #5394c2;
   position: relative;
 }
 
