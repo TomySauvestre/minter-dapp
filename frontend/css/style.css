@@ -289,6 +289,7 @@ header .container {
 #arrow:hover
 {
   background: url('images/x-icon/arrow_red.png');
+  left: 65%;
 }
 
 .sneak-peek img:not(#arrow, #space)
