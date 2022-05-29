@@ -67,7 +67,8 @@ header .container {
 .logo img{
   max-width : 163px;
   max-height : 444px;
-  top: 4px;
+  position: absolute;
+  top: 5px;
 }
 
 .menu {
