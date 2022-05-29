@@ -229,7 +229,7 @@ header .container {
 .sneak-peek h1
 {
   position: absolute;
-  left: 10%;
+  left: 8%;
   top: 15vh;
   font-size: 60px;
   text-shadow: 5px 5px 0 var(--accent-color);
