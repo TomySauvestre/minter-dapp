@@ -286,11 +286,7 @@ header .container {
   z-index: 1;
   left: 68%;
 }
-#arrow:hover
-{
-  background: url("../images/x-icon/arrow_red.png");
-  left: 65%;
-}
+
 
 .sneak-peek img:not(#arrow, #space)
 {
