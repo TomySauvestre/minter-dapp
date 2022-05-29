@@ -242,23 +242,20 @@ header .container {
 {
   width: 100%;
   height: 100%;
-  border: 2px solid orange;
   border-radius: 3px;
   display: flex;
   justify-content: flex-start;
   position: relative;
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
 
 .slider
 {
-  border: 3px solid green;
   display: flex;
   height: 100%;
   width: 500%;
   flex-shrink: 0;
   transition: all 0.5s;
-  
 }
 
 .slider section
@@ -277,7 +274,7 @@ header .container {
 #arrow
 {
   position: absolute;
-  top: 14vh;
+  top: 13vh;
   cursor: pointer;
   z-index: 1;
   left: 68%;
