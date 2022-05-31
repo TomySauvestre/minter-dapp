@@ -325,6 +325,12 @@ header .container {
   position: absolute;
 }
 
+.box
+{
+  height: 25%;
+  width: 50%;
+  border: solid 2px red;
+}
 
 
 /* BUTTONS */
