@@ -312,6 +312,7 @@ header .container {
 {
   position: relative;
   height: 300vh;
+  border: solid 2px white;
 }
 
 
