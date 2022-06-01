@@ -319,7 +319,7 @@ header .container {
 .roadmap > .container > .informations
 {
   margin-top: 300px;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
   margin-left: 12%;
 }
 
@@ -353,7 +353,6 @@ header .container {
   width: 70%;
   position: absolute;
   left: 20%;
-  border: solid 3px yellow;
   align-items: center;
   gap: 100px;
 }
@@ -362,7 +361,6 @@ header .container {
 {
   height: 700px;
   width: 700px;
-  border: solid 2px red;
   font-size: 25px;
   
 }
