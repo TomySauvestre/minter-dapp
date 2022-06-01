@@ -333,8 +333,8 @@ header .container {
 
 .box
 {
-  height: 400px;
-  width: 400px;
+  height: 1000px;
+  width: 1000px;
   border: solid 2px red;
   font-size: 25px;
 }
