@@ -320,6 +320,7 @@ header .container {
 {
   border-top: 10%;
   font-size: 40px;
+  border: solid 2px red;
 }
 
 #space2
