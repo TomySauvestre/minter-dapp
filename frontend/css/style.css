@@ -318,9 +318,8 @@ header .container {
 
 .roadmap > .container > h5
 {
-  border-top: 10%;
+  margin-top: 10%;
   font-size: 40px;
-  border: solid 2px red;
 }
 
 #space2
