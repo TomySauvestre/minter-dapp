@@ -338,7 +338,7 @@ header .container {
   flex-direction: column;
   width: 80%;
   position: absolute;
-  left: 50%;
+  left: 20%;
   border: solid 3px yellow;
 }
 
