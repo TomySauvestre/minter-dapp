@@ -362,6 +362,8 @@ header .container {
   height: 700px;
   width: 700px;
   font-size: 25px;
+  background-color: #122b58;
+  border-radius: 100px;
   
 }
 strong
