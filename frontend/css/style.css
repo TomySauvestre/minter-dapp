@@ -346,12 +346,13 @@ strong
 #b1, #b3
 {
   position: relative;
-  left: 10%;
+  float: left;
 }
 
 #b2, #b4
 {
-  left: 70%;
+  position: relative;
+  float: right;
 }
 
 
