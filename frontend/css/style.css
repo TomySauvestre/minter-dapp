@@ -316,7 +316,7 @@ header .container {
   border: solid 2px white;
 }
 
-.roadmap > h5
+.roadmap > .container > h5
 {
   font-size: 50px;
 }
