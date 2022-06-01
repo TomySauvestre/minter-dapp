@@ -318,6 +318,7 @@ header .container {
 
 .roadmap > .container > h5
 {
+  border-top: 10%;
   font-size: 40px;
 }
 
