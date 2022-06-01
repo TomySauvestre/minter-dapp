@@ -307,7 +307,7 @@ header .container {
 
 
 
-
+/* ROADMAP */
 .roadmap > .container 
 {
   position: relative;
@@ -316,11 +316,19 @@ header .container {
   border: solid 2px white;
 }
 
-.roadmap > .container > h5
+.roadmap > .container > .informations
 {
   margin-top: 300px;
+}
+
+.roadmap > .container > .informations > h5
+{
   font-size: 40px;
-  text-align: center;
+}
+
+.roadmap > .container > .informations > p
+{
+  font-size: 25px;
 }
 
 #space2
