@@ -336,12 +336,14 @@ header .container {
   display: flex;
   height: 300vh;
   flex-direction: column;
+  width: 80%;
+  align-self: center;
 }
 
 .box
 {
-  height: 80vh;
-  width: 700px;
+  height: 200px;
+  width: 200px;
   border: solid 2px red;
   font-size: 25px;
 }
