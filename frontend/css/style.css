@@ -337,7 +337,7 @@ header .container {
   height: 300vh;
   flex-direction: column;
   width: 80%;
-  align-self: center;
+  margin: auto;
 }
 
 .box
