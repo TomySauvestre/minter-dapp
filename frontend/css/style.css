@@ -319,16 +319,18 @@ header .container {
 .roadmap > .container > .informations
 {
   margin-top: 300px;
+  margin-bottom: 100px;
 }
 
 .roadmap > .container > .informations > h5
 {
-  font-size: 40px;
+  font-size: 50px;
 }
 
 .roadmap > .container > .informations > p
 {
   font-size: 25px;
+  padding-top: 50px;
 }
 
 #space2
