@@ -320,6 +320,7 @@ header .container {
 {
   margin-top: 300px;
   font-size: 40px;
+  text-align: center;
 }
 
 #space2
@@ -332,14 +333,25 @@ header .container {
 
 .box
 {
-  height: 10%;
-  width: 50%;
+  height: 400px;
+  width: 400px;
   border: solid 2px red;
   font-size: 25px;
 }
 strong
 {
   font-size: 35px;
+}
+
+#b1, #b3
+{
+  position: relative;
+  left: 10%;
+}
+
+#b2, #b4
+{
+  left: 70%;
 }
 
 
