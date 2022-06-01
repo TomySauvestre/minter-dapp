@@ -345,14 +345,12 @@ strong
 
 #b1, #b3
 {
-  position: relative;
-  float: left;
+  align-self: left;
 }
 
 #b2, #b4
 {
-  position: relative;
-  float: right;
+  align-self: right;
 }
 
 
