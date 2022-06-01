@@ -340,6 +340,7 @@ header .container {
   position: absolute;
   left: 20%;
   border: solid 3px yellow;
+  align-items: center;
 }
 
 .box
@@ -348,7 +349,7 @@ header .container {
   width: 700px;
   border: solid 2px red;
   font-size: 25px;
-  align-items: center;
+  
 }
 strong
 {
