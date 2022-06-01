@@ -333,8 +333,8 @@ header .container {
 
 .box
 {
-  height: 1000px;
-  width: 1000px;
+  height: 700px;
+  width: 700px;
   border: solid 2px red;
   font-size: 25px;
 }
@@ -352,7 +352,7 @@ strong
 #b2, #b4
 {
   position: relative;
-  left: 400px;
+  left: 500px;
 }
 
 
