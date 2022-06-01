@@ -344,8 +344,8 @@ header .container {
 
 .box
 {
-  height: 300px;
-  width: 300px;
+  height: 700px;
+  width: 700px;
   border: solid 2px red;
   font-size: 25px;
 }
