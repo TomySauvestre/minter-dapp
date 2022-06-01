@@ -331,6 +331,12 @@ header .container {
   position: absolute;
 }
 
+.roadmapContainer
+{
+  display: flex;
+  height: 300vh;
+}
+
 .box
 {
   height: 80vh;
@@ -341,18 +347,6 @@ header .container {
 strong
 {
   font-size: 35px;
-}
-
-#b1, #b3
-{
-  position: relative;
-  left: 200px;
-}
-
-#b2, #b4
-{
-  position: relative;
-  left: 500px;
 }
 
 
