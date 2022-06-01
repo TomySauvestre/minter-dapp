@@ -332,8 +332,9 @@ header .container {
 
 .roadmap > .container > .informations > p
 {
-  font-size: 15px;
+  font-size: 18px;
   padding-top: 50px;
+  line-height: 10px;
 }
 
 #space2
