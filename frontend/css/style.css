@@ -363,7 +363,7 @@ strong
 
 #b2, #b4
 {
-  align-self: right;
+  align-self: flex-end;
 }
 
 /* BUTTONS */
