@@ -348,6 +348,7 @@ header .container {
   width: 700px;
   border: solid 2px red;
   font-size: 25px;
+  align-items: center;
 }
 strong
 {
