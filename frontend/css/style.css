@@ -339,6 +339,7 @@ header .container {
   width: 80%;
   position: absolute;
   left: 50%;
+  border: solid 3px yellow;
 }
 
 .box
