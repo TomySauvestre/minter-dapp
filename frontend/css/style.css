@@ -358,7 +358,7 @@ strong
 
 #b1, #b3
 {
-  align-self: left;
+  align-self: flex-start;
 }
 
 #b2, #b4
