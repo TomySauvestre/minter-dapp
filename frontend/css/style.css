@@ -311,7 +311,7 @@ header .container {
 .roadmap > .container 
 {
   position: relative;
-  height: 300vh;
+  height: 500vh;
   width: 100%;
   border: solid 2px white;
 }
