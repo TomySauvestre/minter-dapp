@@ -352,7 +352,7 @@ header .container {
   flex-direction: column;
   width: 80%;
   position: absolute;
-  left: 20%;
+  left: 10%;
   align-items: center;
   gap: 50px;
 }
