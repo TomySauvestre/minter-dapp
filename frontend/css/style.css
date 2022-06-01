@@ -350,11 +350,11 @@ header .container {
   display: flex;
   height: 300vh;
   flex-direction: column;
-  width: 70%;
+  width: 80%;
   position: absolute;
   left: 20%;
   align-items: center;
-  gap: 100px;
+  gap: 50px;
 }
 
 .box
@@ -363,7 +363,7 @@ header .container {
   width: 700px;
   font-size: 25px;
   background-color: #122b58;
-  border-radius: 100px;
+  border-radius: 50px;
   
 }
 strong
