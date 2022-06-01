@@ -341,6 +341,7 @@ header .container {
   left: 20%;
   border: solid 3px yellow;
   align-items: center;
+  gap: 100px;
 }
 
 .box
