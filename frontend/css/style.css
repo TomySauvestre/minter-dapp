@@ -345,11 +345,13 @@ strong
 
 #b1, #b3
 {
+  position: relative;
   align-self: left;
 }
 
 #b2, #b4
 {
+  position: relative;
   align-self: right;
 }
 
