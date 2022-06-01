@@ -313,7 +313,6 @@ header .container {
   position: relative;
   height: 500vh;
   width: 100%;
-  border: solid 2px white;
 }
 
 .roadmap > .container > .informations
