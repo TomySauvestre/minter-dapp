@@ -320,12 +320,14 @@ header .container {
 {
   margin-top: 300px;
   margin-bottom: 100px;
-  margin-left: 10%;
+  margin-left: 12%;
 }
 
 .roadmap > .container > .informations > h5
 {
   font-size: 60px;
+  text-shadow: 5px 5px 0 var(--accent-color);
+  color:rgb(255, 255, 255);
 }
 
 .roadmap > .container > .informations > p
