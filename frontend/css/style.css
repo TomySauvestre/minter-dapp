@@ -329,18 +329,9 @@ header .container {
   margin-left: 12%;
 }
 
-.roadmap > .container > .informations > h5
-{
-  font-size: 60px;
-  text-shadow: 5px 5px 0 var(--accent-color);
-  color:rgb(255, 255, 255);
-}
-
 .roadmap > .container > .informations > p
 {
-  font-size: 18px;
   padding-top: 50px;
-  line-height: 25px;
 }
 
 #space2
@@ -367,7 +358,6 @@ header .container {
 {
   height: 700px;
   width: 700px;
-  font-size: 25px;
   background-color: rgb(5, 0, 24);
   border-radius: 25px;
   
