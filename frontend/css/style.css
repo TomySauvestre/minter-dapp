@@ -15,6 +15,8 @@
   --accent-color: #55000a;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
+  --text-size: ;
+  --title-size: 60px;
 }
 
 * {
@@ -35,7 +37,13 @@ body {
   max-width: 100%;
 }
 
-
+p
+{
+  font-size: 25px;
+  line-height: 40px;
+  text-shadow: 2px 2px 0 black;
+  color:rgb(255, 255, 255);
+}
 
 
 
@@ -144,7 +152,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   color:rgb(255, 255, 255);
   font-style: italic;
-  font-size: 1rem;
+  font-size: 10px;
   
 }
 
@@ -186,21 +194,18 @@ header .container {
   position: absolute;
   left: 39%;
   top: 22%;
-  font-size: 60px;
+  font-size: var(--title-size);
   text-shadow: 5px 5px 0 var(--accent-color);
   color:rgb(255, 255, 255);
 }
 
-#para1
+#boxP1
 {
   position: absolute;
   left: 40%;
   top: 35%;
-  font-size: 25px;
-  line-height: 40px;
   margin-right: 50px;
-  text-shadow: 2px 2px 0 black;
-  color:rgb(255, 255, 255);
+  
   
 }
 
