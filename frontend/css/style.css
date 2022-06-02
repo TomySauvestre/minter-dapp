@@ -10,7 +10,7 @@
   --font-code: "Odibee Sans", monospace;
   --bg-color: #062867;
   --bg-color-transparent: #00163f80;
-  --font-color: #ffffff;
+  --font-color: #000000;
   --btn-bg-color: #ffffff;
   --accent-color: #55000a;
   --header-shadow: var(--accent-color) 0px 0px 5px;
@@ -48,6 +48,7 @@ header {
   opacity: 0.8;
   z-index: 10;
   align-items: center;
+  box-shadow: var(--header-shadow);
 }
 
 header .container {
