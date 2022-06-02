@@ -155,7 +155,7 @@ header .container {
   transform: translateY(0);
 }
 
-.not-connected h2 {
+.not-connected h3 {
   text-shadow: 2px 2px 0 var(--accent-color);
   color:rgb(255, 255, 255);
   font-style: italic;
@@ -196,7 +196,7 @@ header .container {
   top: 13%;
 }
 
-.collection > .container > h1
+.collection > .container > h2
 {
   position: absolute;
   left: 39%;
@@ -235,14 +235,11 @@ header .container {
 }
 
 
-.sneak-peek h1
+.sneak-peek h2
 {
   position: absolute;
   left: 12%;
   top: 15vh;
-  font-size: 60px;
-  text-shadow: 5px 5px 0 var(--accent-color);
-  color:rgb(255, 255, 255);
 }
 
 .carousel-container
