@@ -50,9 +50,11 @@ p
 
 h2
 {
-  font-size: var(--title-size);
+  font-size: var(--title-size), auto;
   text-shadow: 5px 5px 0 var(--accent-color);
   color:rgb(255, 255, 255);
+  width: 100%;
+  height: auto;
 }
 
 
@@ -204,8 +206,7 @@ header .container {
   position: absolute;
   left: 39%;
   top: 22%;
-  width: 100%;
-  height: auto;
+  
 }
 
 #boxP1
