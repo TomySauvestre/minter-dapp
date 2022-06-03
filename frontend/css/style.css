@@ -357,6 +357,14 @@ strong
   align-self: flex-end;
 }
 
+#r1
+{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  color: #000000;
+}
+
 /* BUTTONS */
 .btn {
   display: inline-block;
