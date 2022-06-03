@@ -121,7 +121,6 @@ header .container {
 
 #rain
 {
-  height: 100vh;
   width: 100%;
   opacity: 0.4;
   z-index: 1;
@@ -132,15 +131,19 @@ header .container {
 {
   position: absolute;
   display: flex;
-  max-width: 90%;
+  width: 90%;
   left: 2%;
   height: auto;
-  top: 32vh;
-  gap: 650px;
+  top: 30%;
+  gap: 50%;
   align-items: center;
   margin: 0 0;
 }
 
+.gifs img
+{
+  width: 100%;
+}
 
 
 
