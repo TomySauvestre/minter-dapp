@@ -50,11 +50,9 @@ p
 
 h2
 {
-  font-size: var(--title-size), auto;
+  font-size: 40vw;
   text-shadow: 5px 5px 0 var(--accent-color);
   color:rgb(255, 255, 255);
-  width: 100%;
-  height: auto;
 }
 
 
