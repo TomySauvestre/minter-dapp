@@ -90,6 +90,7 @@ header .container {
   display: flex;
   gap: 40px;
   align-items: center;
+  width: 40%;
 }
 
 .menu img
