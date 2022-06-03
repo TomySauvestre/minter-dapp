@@ -336,32 +336,12 @@ header .container {
 
 #space2
 {
-  height: 300vh;
+  height: 500vh;
   width: 100%;
   z-index: -1;
   position: absolute;
 }
 
-.roadmapContainer
-{
-  display: flex;
-  height: 300vh;
-  flex-direction: column;
-  width: 80%;
-  position: absolute;
-  left: 10%;
-  align-items: center;
-  gap: 50px;
-}
-
-.box
-{
-  height: 700px;
-  width: 700px;
-  background-color: rgb(5, 0, 24);
-  border-radius: 25px;
-  
-}
 strong
 {
   font-size: 35px;
