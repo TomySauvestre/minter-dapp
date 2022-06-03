@@ -80,8 +80,6 @@ header .container {
 }
 
 .logo img{
-  width: 444px;
-  height: 163px;
   max-width : 100%;
   max-height : auto;
   position: absolute;
