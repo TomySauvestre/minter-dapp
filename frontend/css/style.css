@@ -97,6 +97,7 @@ header .container {
 .menu img
 {
   width: 100%;
+  border: solid 2px green;
 }
 
 
