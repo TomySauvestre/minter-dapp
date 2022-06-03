@@ -30,7 +30,6 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  height: auto;
   max-width: 100%;
 }
 
@@ -41,11 +40,10 @@ body {
 
 p
 {
-  font-size: 100%;
-  line-height: 40px;
+  font-size: 5vw;
+  line-height: 10px;
   text-shadow: 2px 2px 0 black;
   color:rgb(255, 255, 255);
-  border: 5px solid green;
 }
 
 h2
