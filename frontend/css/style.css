@@ -398,6 +398,7 @@ strong
   border-radius: 0.5rem;
   margin-left: 20px;
   border-color: transparent;
+  display: none;
 }
 
 .hero-btn {
