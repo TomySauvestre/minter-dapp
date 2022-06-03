@@ -92,12 +92,11 @@ header .container {
   align-items: center;
   width: 30%;
   border: solid 2px red;
-  height: 60%;
 }
 
 .menu img
 {
-  width: 40%;
+  width: 100%;
   border: solid 2px green;
   height: auto;
 }
@@ -140,11 +139,12 @@ header .container {
   gap: 40%;
   align-items: center;
   border: solid 2px red;
+  height: 60%;
 }
 
 .gifs img
 {
-  width: auto;
+  width: 20%;
   height: 100%;
   border: solid 2px green;
 }
