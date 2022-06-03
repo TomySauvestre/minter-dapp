@@ -92,11 +92,12 @@ header .container {
   align-items: center;
   width: 30%;
   border: solid 2px red;
+  height: 60%;
 }
 
 .menu img
 {
-  width: 100%;
+  width: 40%;
   border: solid 2px green;
   height: auto;
 }
