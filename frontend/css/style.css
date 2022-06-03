@@ -138,6 +138,7 @@ header .container {
   gap: 50%;
   align-items: center;
   margin: 0 0;
+  border: solid 2px red;
 }
 
 .gifs img
