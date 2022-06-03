@@ -30,8 +30,8 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
-  width: 100%;
-  height: 800%;
+  height: auto;
+  max-width: 100%;
 }
 
 .container {
@@ -339,8 +339,8 @@ header .container {
 
 #space2
 {
-  height: 500vh;
-  width: 100%;
+  height: auto;
+  max-width: 100%;
   z-index: -1;
   position: absolute;
 }
