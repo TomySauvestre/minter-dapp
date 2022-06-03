@@ -30,6 +30,7 @@ body {
   flex-flow: column;
   color: var(--font-color);
   font-family: var(--font-primary);
+  width: 100%;
 }
 
 .container {
