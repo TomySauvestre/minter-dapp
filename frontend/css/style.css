@@ -80,9 +80,10 @@ header .container {
 }
 
 .logo img{
-  width: 100%;
+  width: auto;
+  height: auto;
   position: absolute;
-  top: 2%;
+  top: 10%;
 }
 
 .menu {
