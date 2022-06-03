@@ -204,6 +204,8 @@ header .container {
   position: absolute;
   left: 39%;
   top: 22%;
+  width: 100%
+  height: auto;
 }
 
 #boxP1
