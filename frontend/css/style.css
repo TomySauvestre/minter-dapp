@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
-
 :root {
   --font-primary: "Press Start 2P", sans-serif;
   --font-secondary: "Press Start 2P", serif;
@@ -94,6 +93,8 @@ header .container {
   gap: 40px;
   align-items: center;
 }
+
+
 
 
 
