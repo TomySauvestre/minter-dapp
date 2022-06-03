@@ -133,11 +133,9 @@ header .container {
   display: flex;
   width: 90%;
   left: 2%;
-  height: auto;
   top: 30%;
   gap: 30%;
   align-items: center;
-  margin: 0 0;
   border: solid 2px red;
 }
 
