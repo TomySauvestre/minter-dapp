@@ -651,50 +651,7 @@ section {
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 768px) {
-  .menu {
-    gap: 1rem;
-  }
-  .wallet-btn {
-    margin-left: 0;
-    padding: 0.5rem 1rem;
-    max-width: 8rem;
-  }
-  .not-connected {
-    background-color: var(--bg-color-transparent);
-    border-radius: 5px;
-    padding: 2rem;
-    margin: 0 auto;
-  }
-  .countdown ul {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .countdown .clock-item {
-    width: 100%;
-  }
-  .countdown .clock-item .count-number {
-    font-size: 1.5rem;
-  }
-  .countdown .clock-item .count-text {
-    font-size: 1rem;
-  }
-  .countdown h3 {
-    font-size: 2rem;
-    margin: 1rem 0;
-  }
-  .countdown h4 {
-    padding-top: 0.5rem;
-  }
-  .countdown p {
-    font-size: 1rem;
-  }
-  .card {
-    padding: 1rem;
-  }
-  .mint-qty .btn {
-    padding: 1rem;
-    font-size: 13px;
-  }
+  body{width:50%;}
 }
 
 
