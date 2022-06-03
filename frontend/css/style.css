@@ -145,7 +145,7 @@ header .container {
 .gifs img
 {
   max-width: 40%;
-  height: 100%;
+  height: auto;
   border: solid 2px green;
 }
 
