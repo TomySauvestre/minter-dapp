@@ -134,7 +134,7 @@ header .container {
   width: 90%;
   left: 2%;
   top: 30%;
-  gap: 30%;
+  gap: 50%;
   align-items: center;
   border: solid 2px red;
   height: 60%;
@@ -142,8 +142,8 @@ header .container {
 
 .gifs img
 {
-  width: 100%;
-  height: 100%;
+  max-width: 100%;
+  height: auto%;
 }
 
 
