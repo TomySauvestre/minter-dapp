@@ -74,7 +74,7 @@ header .container {
   height: 5vw;
   background-color: rgb(5, 0, 24);
   width: 96%;
-  position: absolute;
+  position: relative;
   left: 2%;
   right: 2%;
 }
