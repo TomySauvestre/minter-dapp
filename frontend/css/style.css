@@ -136,7 +136,7 @@ header .container {
   width: 90%;
   left: 2%;
   top: 30%;
-  gap: 40%;
+  justify-content: space-between;
   align-items: center;
   border: solid 2px red;
   height: 60%;
