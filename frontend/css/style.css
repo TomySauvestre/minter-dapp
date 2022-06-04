@@ -92,13 +92,11 @@ header .container {
   gap: 40px;
   align-items: center;
   width: 30%;
-  border: solid 2px red;
 }
 
 .menu img
 {
   width: 100%;
-  border: solid 2px green;
   height: auto;
 }
 
@@ -140,7 +138,6 @@ header .container {
   top: 30%;
   justify-content: space-between;
   align-items: center;
-  border: solid 2px red;
   height: 60%;
 }
 
@@ -148,7 +145,6 @@ header .container {
 {
   max-width: 40%;
   max-height: 100%;
-  border: solid 2px green;
 }
 
 
@@ -214,7 +210,7 @@ header .container {
 {
   position: absolute;
   left: 41%;
-  top: 12%;
+  top: 10%;
   
 }
 
@@ -231,16 +227,15 @@ header .container {
 {
   position: absolute;
   left: 2%;
-  top: 12%;
+  top: 10%;
   width: 38%;
-  border: 2px solid purple;
 }
 
 #number1
 {
   position: absolute;
   top: 90%;
-  left: 40%;
+  left: 30%;
   font-size: 3vw;
   text-shadow: 2px 2px 0 black;
   color:rgb(0, 90, 117);
