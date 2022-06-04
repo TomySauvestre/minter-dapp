@@ -245,7 +245,7 @@ header .container {
   color:rgb(0, 90, 117);
 }
 
-.collection > .container > img
+.collection > .container > .Cimg > img
 {
   width: 100%;
 }
