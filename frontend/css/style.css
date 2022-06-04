@@ -134,7 +134,7 @@ header .container {
   position: absolute;
   display: flex;
   width: 90%;
-  left: 2%;
+  left: 5%;
   top: 30%;
   justify-content: space-between;
   align-items: center;
