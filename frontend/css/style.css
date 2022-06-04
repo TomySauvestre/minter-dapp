@@ -218,7 +218,7 @@ header .container {
 {
   position: absolute;
   left: 41%;
-  top: 20%;
+  top: 15%;
   
 }
 
@@ -232,8 +232,8 @@ header .container {
 #number1
 {
   position: absolute;
-  left: 20%;
-  top: 80%;
+  left: 12%;
+  top: 83%;
   font-size: 3vw;
   text-shadow: 3px 3px 0 black;
   color:rgb(11, 139, 178);
