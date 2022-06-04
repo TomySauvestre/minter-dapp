@@ -40,7 +40,7 @@ body {
 p
 {
   font-size: 2vw;
-  line-height: 2vw;
+  line-height: 2.5vw;
   text-shadow: 2px 2px 0 black;
   color:rgb(255, 255, 255);
 }
@@ -209,16 +209,16 @@ header .container {
 .collection > .container > img
 {
   position: absolute;
-  left: 3%;
-  top: 13%;
-  width: 40%;
+  left: 2%;
+  top: 12%;
+  width: 30%;
 }
 
 .collection > .container > h2
 {
   position: absolute;
-  left: 45%;
-  top: 22%;
+  left: 40%;
+  top: 20%;
   
 }
 
