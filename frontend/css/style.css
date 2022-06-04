@@ -217,7 +217,7 @@ header .container {
 .collection > .container > h2
 {
   position: absolute;
-  left: 40%;
+  left: 41%;
   top: 20%;
   
 }
@@ -225,16 +225,16 @@ header .container {
 #boxP1
 {
   position: absolute;
-  left: 40%;
-  top: 50%;
+  left: 41%;
+  top: 40%;
 }
 
 #number1
 {
   position: absolute;
-  left: 10%;
+  left: 20%;
   top: 80%;
-  font-size: 2vw;
+  font-size: 3vw;
   text-shadow: 3px 3px 0 black;
   color:rgb(11, 139, 178);
 }
