@@ -207,13 +207,7 @@ header .container {
   background-image: url("../images/x-icon/bricks.png");
 }
 
-.collection > .container > img
-{
-  position: absolute;
-  left: 2%;
-  top: 12%;
-  width: 38%;
-}
+
 
 .collection > .container > h2
 {
@@ -230,14 +224,27 @@ header .container {
   top: 42%;
 }
 
+
+
+.Cimg
+{
+  position: absolute;
+  left: 2%;
+  top: 20%;
+  width: 38%;
+}
 #number1
 {
   position: absolute;
-  left: 13%;
-  top: 83%;
+  top: 90%;
   font-size: 3vw;
   text-shadow: 2px 2px 0 black;
   color:rgb(0, 90, 117);
+}
+
+.collection > .container > img
+{
+  width: 38%;
 }
 
 
