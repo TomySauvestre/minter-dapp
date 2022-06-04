@@ -217,7 +217,7 @@ header .container {
 .collection > .container > h2
 {
   position: absolute;
-  left: 39%;
+  left: 45%;
   top: 22%;
   
 }
@@ -226,10 +226,7 @@ header .container {
 {
   position: absolute;
   left: 45%;
-  top: 35%;
-  margin-right: 10%;
-  
-  
+  top: 50%;
 }
 
 #number1
