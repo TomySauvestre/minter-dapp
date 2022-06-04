@@ -111,7 +111,7 @@ header .container {
 .home > .container{
   background-color: rgb(5, 0, 24);
   position: relative;
-  height: 100vh;
+  height: 50vw;
   width: 100%;
 }
 
