@@ -233,11 +233,11 @@ header .container {
 #number1
 {
   position: absolute;
-  left: 12%;
+  left: 13%;
   top: 83%;
   font-size: 3vw;
-  text-shadow: 3px 3px 0 black;
-  color:rgb(11, 139, 178);
+  text-shadow: 2px 2px 0 black;
+  color:rgb(0, 90, 117);
 }
 
 
