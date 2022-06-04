@@ -211,6 +211,7 @@ header .container {
   position: absolute;
   left: 3%;
   top: 13%;
+  width: 40%;
 }
 
 .collection > .container > h2
