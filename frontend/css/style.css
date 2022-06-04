@@ -225,9 +225,9 @@ header .container {
 #boxP1
 {
   position: absolute;
-  left: 40%;
+  left: 45%;
   top: 35%;
-  margin-right: 50px;
+  margin-right: 10%;
   
   
 }
@@ -235,9 +235,9 @@ header .container {
 #number1
 {
   position: absolute;
-  left: 9%;
-  top: 75%;
-  font-size: 60px;
+  left: 10%;
+  top: 80%;
+  font-size: 2vw;
   text-shadow: 3px 3px 0 black;
   color:rgb(11, 139, 178);
 }
