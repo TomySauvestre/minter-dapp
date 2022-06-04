@@ -50,6 +50,7 @@ h2
   font-size: 5vw;
   text-shadow: 5px 5px 0 var(--accent-color);
   color:rgb(255, 255, 255);
+  line-height: 2vw;
 }
 
 
@@ -226,7 +227,7 @@ header .container {
 {
   position: absolute;
   left: 41%;
-  top: 40%;
+  top: 42%;
 }
 
 #number1
