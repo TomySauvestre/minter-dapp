@@ -111,8 +111,8 @@ header .container {
 .home > .container{
   background-color: rgb(5, 0, 24);
   position: relative;
-  height: 100%;
   width: 100%;
+  height: auto;
 }
 
 #title{
@@ -201,7 +201,8 @@ header .container {
 
 /* THE COLLECTION */
 .collection > .container{
-  height: 100%;
+  width: 100%;
+  height: auto;
   background-color: #165481;
   position: relative;
   background-image: url("../images/x-icon/bricks.png");
