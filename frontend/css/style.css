@@ -271,11 +271,12 @@ header .container {
 {
   height: 20vw;
   width: 80%;
- /*margin: 20px auto;*/
+ margin: 20px auto;
   position: absolute;
   top: 30%;
   left: 10%;
   overflow: hidden;
+  border: solid 2px red;
 }
 
 .carousel
@@ -287,6 +288,7 @@ header .container {
   justify-content: flex-start;
   position: relative;
   overflow: hidden;
+  border: solid 2px green;
 }
 
 .slider
@@ -296,6 +298,7 @@ header .container {
   width: 500%;
   flex-shrink: 0;
   transition: all 0.5s;
+  border: solid 2px yellow;
 }
 
 .slider section
@@ -308,6 +311,7 @@ header .container {
   align-items: center;
   justify-content: center;
   gap: 250px;
+  border: solid 2px purple;
 }
 
 
