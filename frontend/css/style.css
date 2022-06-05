@@ -342,8 +342,9 @@ header .container {
 .roadmap > .container 
 {
   position: relative;
-  /*height: 235vw;*/
+  height: 282vw;
   width: 100%;
+  border: solid 10px green;
 }
 
 .roadmap > .container > .informations
@@ -351,7 +352,7 @@ header .container {
   margin-top: 300px;
   margin-bottom: 150px;
   margin-left: 12%;
-  border: solid 10px green;
+
 }
 
 .roadmap > .container > .informations > p
