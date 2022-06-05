@@ -351,6 +351,7 @@ header .container {
   margin-top: 300px;
   margin-bottom: 150px;
   margin-left: 12%;
+  border: solid 10px green;
 }
 
 .roadmap > .container > .informations > p
