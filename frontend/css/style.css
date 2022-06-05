@@ -264,16 +264,16 @@ header .container {
 {
   position: absolute;
   left: 12%;
-  top: 15vh;
+  top: 10%;
 }
 
 .carousel-container
 {
-  height: 60vh;
+  height: 20vw;
   width: 80%;
-  margin: 20px auto;
+ /*margin: 20px auto;*/
   position: absolute;
-  top: 30vh;
+  top: 20%;
   left: 10%;
   overflow: hidden;
 }
@@ -313,8 +313,9 @@ header .container {
 
 #arrow
 {
+  width: 20%;
   position: absolute;
-  top: 13vh;
+  top: 10%;
   cursor: pointer;
   z-index: 1;
   left: 65%;
