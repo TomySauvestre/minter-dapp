@@ -324,7 +324,7 @@ header .container {
 
 .sneak-peek img:not(#arrow, #space)
 {
-  width: 50%;
+  width: 30%;
   height: 100%;
   border-radius: 10px;
 }
