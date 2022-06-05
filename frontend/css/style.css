@@ -197,7 +197,7 @@ header .container {
 
 /* THE COLLECTION */
 .collection > .container{
-  height: 48vw;
+  height: 47vw;
   width: 100%;
   background-color: #165481;
   position: relative;
@@ -253,7 +253,7 @@ header .container {
 /* SNEAK PEEK */
 .sneak-peek > .container
 {
-  height: 45vw;
+  height: 47vw;
   width: 100%;
   position: relative;
 }
@@ -342,7 +342,7 @@ header .container {
 .roadmap > .container 
 {
   position: relative;
-  height: 240vw;
+  height: 235vw;
   width: 100%;
 }
 
