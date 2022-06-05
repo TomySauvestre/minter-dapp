@@ -342,7 +342,7 @@ header .container {
 .roadmap > .container 
 {
   position: relative;
-  height: 235vw;
+  /*height: 235vw;*/
   width: 100%;
 }
 
