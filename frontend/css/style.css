@@ -317,9 +317,9 @@ header .container {
 
 #arrow
 {
-  width: 10%;
+  width: 8%;
   position: absolute;
-  top: 8%;
+  top: 7%;
   cursor: pointer;
   z-index: 1;
   left: 65%;
