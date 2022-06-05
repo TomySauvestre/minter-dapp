@@ -107,11 +107,10 @@ header .container {
 
 /*HOME */
 .home > .container{
-  /*background-color: rgb(5, 0, 24);*/
-  background-color: rgb(179, 122, 0);
+  background-color: rgb(5, 0, 24);
   position: relative;
-  height: 40vw;
-  width: 80%;
+  height: 42vw;
+  width: 100%;
 }
 
 #title{
