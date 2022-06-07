@@ -371,24 +371,24 @@ header .container {
 
 strong
 {
-  font-size: 35px;
+  font-size: 40px;
+  font-style: italic;
 }
 
-#b1, #b3
-{
-  align-self: flex-start;
-}
-
-#b2, #b4
-{
-  align-self: flex-end;
-}
 
 #r1
 {
   position: absolute;
   top: 20%;
   left: 20%;
+  color: #6b1313;
+}
+
+#r1
+{
+  position: absolute;
+  top: 40%;
+  left: 40%;
   color: #6b1313;
 }
 
