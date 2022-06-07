@@ -391,6 +391,20 @@ strong
   left: 40%;
   color: #6b1313;
 }
+#r3
+{
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  color: #6b1313;
+}
+#r4
+{
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  color: #6b1313;
+}
 
 /* BUTTONS */
 .btn {
