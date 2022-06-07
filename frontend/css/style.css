@@ -350,8 +350,7 @@ header .container {
 
 .roadmap > .container > .informations
 {
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 15%;
   margin-left: 12%;
 
 }
@@ -395,14 +394,14 @@ strong
 {
   position: absolute;
   top: 60%;
-  left: 20%;
+  left: 15%;
   color: #6b1313;
 }
 #r4
 {
   position: absolute;
   top: 80%;
-  left: 40%;
+  left: 35%;
   color: #6b1313;
 }
 
