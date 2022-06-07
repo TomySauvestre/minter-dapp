@@ -350,15 +350,15 @@ header .container {
 
 .roadmap > .container > .informations
 {
-  margin-top: 300px;
-  margin-bottom: 150px;
+  margin-top: 5%;
+  margin-bottom: 5%;
   margin-left: 12%;
 
 }
 
 .roadmap > .container > .informations > p
 {
-  padding-top: 50px;
+  padding-top: 10%;
 }
 
 #space2
@@ -371,7 +371,7 @@ header .container {
 
 strong
 {
-  font-size: 40px;
+  font-size: 10%;
   font-style: italic;
 }
 
