@@ -360,13 +360,6 @@ header .container {
   padding-top: 5%;
 }
 
-#space2
-{
-  height: 100%;
-  width: 100%;
-  z-index: -1;
-  position: absolute;
-}
 
 strong
 {
