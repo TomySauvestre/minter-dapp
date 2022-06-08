@@ -329,6 +329,12 @@ header .container {
   border-radius: 10px;
 }
 
+.bigContainer
+{
+  width: 100%;
+  height: 329vw;
+}
+
 #space
 {
   height: 100%;
