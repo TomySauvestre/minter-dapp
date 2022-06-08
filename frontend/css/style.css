@@ -379,7 +379,9 @@ strong
   position: absolute;
   top: 25%;
   left: 20%;
+  
   color: #6b1313;
+  border: solid 2px green;
 }
 
 #r2
@@ -388,6 +390,7 @@ strong
   top: 40%;
   left: 40%;
   color: #6b1313;
+  border: solid 2px green;
 }
 #r3
 {
@@ -395,6 +398,7 @@ strong
   top: 60%;
   left: 15%;
   color: #6b1313;
+  border: solid 2px green;
 }
 #r4
 {
@@ -402,6 +406,7 @@ strong
   top: 80%;
   left: 35%;
   color: #6b1313;
+  border: solid 2px green;
 }
 
 /* BUTTONS */
