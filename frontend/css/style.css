@@ -387,8 +387,8 @@ strong
 #r2
 {
   position: absolute;
-  top: 41.5%;
-  left: 39%;
+  top: 41%;
+  left: 40%;
   color: #6b1313;
   border: solid 2px green;
 }
@@ -403,7 +403,7 @@ strong
 #r4
 {
   position: absolute;
-  top: 78%;
+  top: 80%;
   left: 34%;
   color: #6b1313;
   border: solid 2px green;
