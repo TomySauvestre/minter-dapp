@@ -335,6 +335,7 @@ header .container {
   width: 100%;
   height: 329vw;
   border: solid 2px  green;
+  position: relative;
 }
 
 #space
