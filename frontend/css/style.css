@@ -272,9 +272,9 @@ header .container {
 {
   height: 25vw;
   width: 80%;
- margin: 20px auto;
+  margin: 20px auto;
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 10%;
   overflow: hidden;
 }
