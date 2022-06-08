@@ -257,6 +257,7 @@ header .container {
   height: 47vw;
   width: 100%;
   position: relative;
+  border: solid 2px  purple;
 }
 
 
@@ -333,6 +334,7 @@ header .container {
 {
   width: 100%;
   height: 329vw;
+  border: solid 2px  green;
 }
 
 #space
@@ -352,6 +354,7 @@ header .container {
   position: relative;
   height: 282vw;
   width: 100%;
+  border: solid 2px  red;
 }
 
 .roadmap > .container > .informations
