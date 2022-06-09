@@ -409,6 +409,22 @@ strong
   border: solid 2px green;
 }
 
+
+
+.genetics > .container
+{
+  height: 47vw;
+  width: 100%;
+  position: relative;
+}
+
+#genetic
+{
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
 /* BUTTONS */
 .btn {
   display: inline-block;
