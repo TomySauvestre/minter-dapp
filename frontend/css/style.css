@@ -425,6 +425,12 @@ strong
   z-index: -1;
 }
 
+.characteristics > .container > .h2
+{
+  position: absolute;
+  left: 20%;
+}
+
 /* BUTTONS */
 .btn {
   display: inline-block;
