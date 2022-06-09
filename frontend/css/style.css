@@ -429,6 +429,7 @@ strong
 {
   position: absolute;
   left: 20%;
+  z-index: 2;
 }
 
 /* BUTTONS */
