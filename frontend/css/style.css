@@ -432,10 +432,11 @@ strong
   left: 12%;
 }
 
-.characteristics > p
+.characteristics > .container > #signR, #signL > p
 {
   font-size: 2vw;
 }
+#signL
 {
   position: absolute;
   top: 3%;
