@@ -432,6 +432,21 @@ strong
   left: 12%;
 }
 
+
+#signR
+{
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+
+#signL
+{
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
+
 /* BUTTONS */
 .btn {
   display: inline-block;
