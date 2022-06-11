@@ -432,7 +432,12 @@ strong
   left: 12%;
 }
 
-.characteristics > .container > #signR, #signL > p
+.characteristics > .container > #signR > p
+{
+  font-size: 2vw;
+}
+
+.characteristics > .container > #signL > p
 {
   font-size: 2vw;
 }
