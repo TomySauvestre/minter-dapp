@@ -432,19 +432,28 @@ strong
   left: 12%;
 }
 
+.characteristics > p
+{
+  font-size: 5vw;
+}
+{
+  position: absolute;
+  top: 3%;
+  left: 12%;
+}
 
 #signR
 {
   position: absolute;
   top: 20%;
-  left: 20%;
+  left: 62%;
 }
 
 #signL
 {
   position: absolute;
   top: 20%;
-  left: 60%;
+  left: 18%;
 }
 
 /* BUTTONS */
