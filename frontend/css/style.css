@@ -411,56 +411,26 @@ strong
 
 
 
-.characteristics > .container
+.game > .container
 {
   height: 47vw;
   width: 100%;
   position: relative;
+  background-color: black;
 }
 
-#characteristics
-{
-  width: 100%;
-  height: 100%;
-  z-index: -1;
+.left{
+  height: 40vw;
+  top: 5%;
+  width: 50%;
+}
+.left{
+  height: 40vw;
+  top: 5%;
+  width: 50%;
+  left: 50%;
 }
 
-.characteristics > .container > h2
-{
-  position: absolute;
-  top: 3%;
-  left: 12%;
-}
-
-.characteristics > .container > #signR > p
-{
-  font-size: 2vw;
-}
-
-.characteristics > .container > #signL > p
-{
-  font-size: 2vw;
-}
-#signL
-{
-  position: absolute;
-  top: 3%;
-  left: 12%;
-}
-
-#signR
-{
-  position: absolute;
-  top: 20%;
-  left: 62%;
-}
-
-#signL
-{
-  position: absolute;
-  top: 20%;
-  left: 18%;
-}
 
 /* BUTTONS */
 .btn {
