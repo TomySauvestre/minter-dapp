@@ -419,17 +419,18 @@ strong
   background-color: black;
 }
 
-.left{
+.game > .container > h2
+{
+  text-align: center;
+}
+
+.center{
   height: 40vw;
   top: 5%;
-  width: 50%;
+  width: 100%;
+  text-align: center;
 }
-.left{
-  height: 40vw;
-  top: 5%;
-  width: 50%;
-  left: 50%;
-}
+
 
 
 /* BUTTONS */
