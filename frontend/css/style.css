@@ -429,6 +429,7 @@ strong
 .game > .container > *
 {
   position: absolute;
+  line-height: 10%;
 }
 
 
@@ -437,15 +438,12 @@ strong
   top: 30%;
   width: 45%;
   left: 5%;
-
-
   position: absolute;
 }
 
 .right{
   height: 55%;
   top: 30%;
-
   width: 45%;
   left: 50%;
   position: absolute;
