@@ -413,16 +413,16 @@ strong
 
 .game > .container
 {
-  height: 30vw;
+  height: 23vw;
   width: 100%;
   position: relative;
-  background-color: black;
+  background-color: #0a224e;
 }
 
 .game > .container > h2
 {
   text-align: center;
-  background-color: #0a224e;
+  
 }
 
 .center{
