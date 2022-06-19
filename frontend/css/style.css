@@ -435,7 +435,7 @@ strong
 .left{
   height: 80%;
   top: 30%;
-  width: 35%;
+  width: 40%;
   left: 5%;
   border: 2px solid red;
 
@@ -447,7 +447,7 @@ strong
   top: 30%;
   border: 2px solid red;
   width: 35%;
-  left: 65%;
+  left: 50%;
   position: absolute;
 }
 
