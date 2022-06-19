@@ -424,13 +424,13 @@ strong
   text-align: center;
 }
 
-.center{
+/*.center{
   height: 80%;
   top: 5%;
   width: 100%;
   text-align: center;
   position: absolute;
-}
+}*/
 
 #game{
   width: 100%;
