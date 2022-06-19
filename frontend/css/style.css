@@ -433,7 +433,7 @@ strong
 
 .game > .container > * > p
 {
-  line-height: 150%;
+  margin: 10%;
 }
 
 .left{
