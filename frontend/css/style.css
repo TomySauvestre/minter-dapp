@@ -416,7 +416,6 @@ strong
   height: 47vw;
   width: 100%;
   position: relative;
-  border: 2px solid green;
 }
 
 .game > .container > h2
@@ -425,7 +424,6 @@ strong
   position: absolute;
   top: 5%;
   width: 100%;
-  border: 2px solid purple;
 }
 
 .game > .container > *
