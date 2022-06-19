@@ -437,7 +437,7 @@ strong
   top: 30%;
   width: 35%;
   left: 5%;
-  text-align: center;
+
   position: absolute;
 }
 
@@ -446,7 +446,6 @@ strong
   top: 30%;
   width: 35%;
   left: 65%;
-  text-align: center;
   position: absolute;
 }
 
