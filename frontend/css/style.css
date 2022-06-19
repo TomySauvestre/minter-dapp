@@ -429,7 +429,8 @@ strong
 .game > .container > *
 {
   position: absolute;
-  line-height: 20%;
+  line-height: 30%;
+  border: 2px solid red;
 }
 
 
