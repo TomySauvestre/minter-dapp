@@ -434,7 +434,7 @@ strong
 .game > .container > * > p
 {
   border: 2px solid red;
-  line-height: 100%;
+  line-height: 150%;
 }
 
 .left{
