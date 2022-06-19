@@ -422,20 +422,22 @@ strong
 .game > .container > h2
 {
   text-align: center;
+  position: absolute;
 }
 
-/*.center{
+.center{
   height: 80%;
   top: 5%;
   width: 100%;
   text-align: center;
   position: absolute;
-}*/
+}
 
 #game{
   width: 100%;
   height: 100%;
   z-index: -1;
+  position: absolute;
 }
 
 
