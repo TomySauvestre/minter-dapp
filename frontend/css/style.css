@@ -433,7 +433,7 @@ strong
 
 
 .left{
-  height: 50%;
+  height: 55%;
   top: 30%;
   width: 45%;
   left: 5%;
@@ -443,7 +443,7 @@ strong
 }
 
 .right{
-  height: 50%;
+  height: 55%;
   top: 30%;
   border: 2px solid red;
   width: 45%;
