@@ -466,6 +466,12 @@ strong
   position: absolute;
 }
 
+.join > .container{
+  height: 5vw;
+  width: 100%;
+  position: relative;
+}
+
 .end > .container {
   height: 5vw;
   width: 100%;
