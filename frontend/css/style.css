@@ -464,11 +464,16 @@ strong
   height: 5vw;
   width: 100%;
   background-color: black;
-  left: 10%;
-  font-size: 2vw;
+  
   border: solid 2px green;
+  position: relative;
 }
 
+.end > .container p {
+  font-size: 2vw;
+  position: absolute;
+  left: 10%;
+}
 
 /* BUTTONS */
 .btn {
