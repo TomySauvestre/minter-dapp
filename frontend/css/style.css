@@ -138,7 +138,8 @@ header .container {
   top: 35%;
   justify-content: space-between;
   align-items: center;
-  height: 70%;
+  height: 80%;
+  border: 2px solid green;
 }
 
 .gifs img
