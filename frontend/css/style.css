@@ -459,6 +459,11 @@ strong
   position: absolute;
 }
 
+.end > .container {
+  height: 5vw;
+  width: 100%;
+  background-color: black;
+}
 
 
 /* BUTTONS */
