@@ -469,8 +469,8 @@ strong
   position: relative;
 }
 
-.end > .container > p {
-  font-size: 2vw;
+.end > .container > p{
+  font-size: 1vw;
   position: absolute;
   left: 10%;
 }
