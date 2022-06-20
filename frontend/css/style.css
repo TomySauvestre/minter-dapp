@@ -432,12 +432,12 @@ strong
   position: absolute;
 }
 
-.game > .container > right > p
+.game > .container > .right > p
 {
   margin-bottom: 3%;
 }
 
-.game > .container > left > p
+.game > .container > .left > p
 {
   margin-bottom: 6%;
 }
