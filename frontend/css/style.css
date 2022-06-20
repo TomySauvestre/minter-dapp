@@ -432,10 +432,16 @@ strong
   position: absolute;
 }
 
-.game > .container > * > p
+.game > .container > right > p
 {
   margin-bottom: 3%;
 }
+
+.game > .container > left > p
+{
+  margin-bottom: 6%;
+}
+
 
 .left{
   height: 55%;
@@ -470,7 +476,7 @@ strong
 }
 
 .end > .container > p{
-  font-size: 1vw;
+  font-size: 0.9vw;
   position: absolute;
   left: 5%;
 }
