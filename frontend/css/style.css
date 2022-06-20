@@ -472,6 +472,11 @@ strong
   position: relative;
 }
 
+.join > .container > p{
+  position: absolute;
+  left: 10%;
+}
+
 .end > .container {
   height: 5vw;
   width: 100%;
