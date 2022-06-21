@@ -605,6 +605,7 @@ section {
   list-style: none;
   width: 115px;
   height: auto;
+  border: 2px solid brown;
 }
 .countdown .clock-item .count-number {
   background: var(--accent-color);
