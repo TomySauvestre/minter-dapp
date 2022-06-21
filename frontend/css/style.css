@@ -489,7 +489,8 @@ strong
 .end > .container > p{
   font-size: 0.9vw;
   position: absolute;
-  left: 2%;
+  left: 1%;
+  top: 50%;
 }
 
 
