@@ -603,9 +603,8 @@ section {
 }
 .countdown .clock-item {
   list-style: none;
-  width: 115px;
+  width: 10vw;
   height: auto;
-  border: 2px solid brown;
 }
 .countdown .clock-item .count-number {
   background: var(--accent-color);
