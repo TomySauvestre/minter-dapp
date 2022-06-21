@@ -470,11 +470,13 @@ strong
   height: 5vw;
   width: 100%;
   position: relative;
+  background-color: black;
 }
 
 .join > .container > p{
   position: absolute;
   left: 10%;
+  width: 60%;
 }
 
 .end > .container {
@@ -488,6 +490,17 @@ strong
   font-size: 0.9vw;
   position: absolute;
   left: 5%;
+}
+
+
+.jDiscord{
+  position: absolute;
+  left: 60%;
+}
+
+.jTwitter{
+  position: absolute;
+  left: 80%;
 }
 
 /* BUTTONS */
