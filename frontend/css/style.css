@@ -477,6 +477,7 @@ strong
   position: absolute;
   left: 5%;
   width: 60%;
+  top: 10%;
 }
 
 .end > .container {
@@ -497,11 +498,15 @@ strong
 .jDiscord{
   position: absolute;
   left: 60%;
+  text-decoration-color: rgb(0, 0, 65);
+  top: 10%;
 }
 
 .jTwitter{
   position: absolute;
-  left: 80%;
+  left: 75%;
+  text-decoration-color: rgb(0, 0, 65);
+  top: 10%;
 }
 
 /* BUTTONS */
