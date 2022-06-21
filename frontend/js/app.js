@@ -35,7 +35,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     width: '30vw',
     autoHeight: true,
   });
-  splide.mount();
+  splide.mount();*/
 
   updateConnectStatus();
   if (MetaMaskOnboarding.isMetaMaskInstalled()) {
@@ -44,7 +44,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       updateConnectStatus();
     });
   }
-});*/
+});
 const updateConnectStatus = async () => {
   const onboarding = new MetaMaskOnboarding();
   const onboardButton = document.getElementById("connectWallet");
