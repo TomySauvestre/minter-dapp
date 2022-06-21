@@ -603,7 +603,7 @@ section {
 }
 .countdown .clock-item {
   list-style: none;
-  width: 6vw;
+  width: 8vw;
   height: auto;
 }
 .countdown .clock-item .count-number {
