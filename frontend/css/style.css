@@ -517,7 +517,7 @@ strong
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1vw;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
