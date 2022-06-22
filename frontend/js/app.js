@@ -531,3 +531,16 @@ jTwitter.addEventListener("mouseout", () => {
   jTwitter.style.color = "#55000a";
   jTwitter.style.background  = "white";
 })
+
+
+const actionBTN = document.querySelector('#actionButton');
+
+actionBTN.addEventListener("mouseenter", () => {
+  actionBTN.style.color = "white";
+  actionBTN.style.background  = "#E00000";
+})
+
+actionBTN.addEventListener("mouseout", () => {
+  actionBTN.style.color = "#55000a";
+  actionBTN.style.background  = "white";
+})
