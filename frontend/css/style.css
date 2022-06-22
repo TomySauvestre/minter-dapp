@@ -555,7 +555,7 @@ strong
 .card {
   position: absolute;
   left: 29%;
-  top: 30vh;
+  top: 27vh;
   width: 40%;
   height: 72vh;
   background-color: rgb(12, 94, 129);
@@ -566,7 +566,7 @@ strong
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
-  border: solid 2px red;
+  border: solid 3px red;
 }
 
 .show-card {
@@ -594,12 +594,12 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 40%;
+  height: auto;
   padding-top: 0.5vw;
   padding-left: 0.5vw;
   padding-top: 0.8vw;
   padding-bottom: 0.8vw;
-  width: 100%;
-  height: 100%;
 }
 
 .countdown ul {
