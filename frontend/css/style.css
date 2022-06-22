@@ -638,7 +638,7 @@ section {
 .countdown h3 {
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
-  font-size: 2vw;
+  font-size: 1.5vw;
   text-align: center;
 }
 
@@ -647,7 +647,7 @@ section {
 }*/
 
 .countdown > p {
-  /*font-size: 1.1vw;*/
+  font-size: 1.1vw;
   font-family: var(--font-secondary);
   /*margin-bottom: 0.5vw;*/
   text-align: center;
