@@ -596,12 +596,16 @@ section {
   align-items: center;
   width: 40%;
   height: auto;
+  padding-top: 0.5vw;
+  padding-left: 0.5vw;
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
 }
 
 .countdown ul {
   display: flex;
   gap: 1.9vw;
-  padding-top: 0.1vw;
+  
 }
 .countdown .clock-item {
   list-style: none;
@@ -638,7 +642,7 @@ section {
 .countdown h3 {
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
-  margin: 1vw 0;
+  margin: 0.5vw 0;
   font-size: 2vw;
   text-align: center;
 }
@@ -650,7 +654,7 @@ section {
 .countdown > p {
   font-size: 1.1vw;
   font-family: var(--font-secondary);
-  margin-bottom: 1vw;
+  margin-bottom: 0.5vw;
   text-align: center;
 }
 
