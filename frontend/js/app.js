@@ -528,6 +528,6 @@ jTwitter.addEventListener("mouseenter", () => {
 })
 
 jTwitter.addEventListener("mouseout", () => {
-  jTwitter.style.color = "white";
-  jTwitter.style.background  = "#55000a";
+  jTwitter.style.color = "#55000a";
+  jTwitter.style.background  = "white";
 })

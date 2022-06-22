@@ -503,6 +503,7 @@ strong
   top: 10%;
   color: var(--accent-color);
   border-radius: 0.5vw;
+  width: 10%;
 }
 
 .jTwitter{
@@ -513,6 +514,8 @@ strong
   color: var(--accent-color);
   top: 10%;
   border-radius: 0.5vw;
+  width: 10%;
+
 }
 
 /* BUTTONS */
