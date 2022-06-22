@@ -33,6 +33,7 @@ body {
 .container {
   overflow: hidden;
   max-width: 100%;
+  position: relative;
 }
 
 p
@@ -554,7 +555,7 @@ strong
 .card {
   position: absolute;
   left: 29%;
-  top: 27vh;
+  top: 35vh;
   width: 40%;
   height: 72vh;
   background-color: rgb(12, 94, 129);
@@ -565,8 +566,6 @@ strong
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
-  padding-right: 0.1vw;
-  padding-left: 0.1vw;
 }
 
 .show-card {
@@ -594,12 +593,12 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 40%;
+  width: 100%;
   height: auto;
   padding-top: 0.5vw;
   padding-left: 0.5vw;
-  padding-top: 0.5vw;
-  padding-bottom: 0.5vw;
+  padding-top: 0.8vw;
+  padding-bottom: 0.8vw;
 }
 
 .countdown ul {
