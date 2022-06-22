@@ -559,7 +559,7 @@ strong
   height: 72vh;
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
-  border: 0.1vw solid var(--accent-color);
+  border: 1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   opacity: 0;
   transform: translateY(100vw);
