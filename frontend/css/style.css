@@ -566,6 +566,7 @@ strong
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
+  border: solid 2px red;
 }
 
 .show-card {
@@ -593,8 +594,6 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  height: auto;
   padding-top: 0.5vw;
   padding-left: 0.5vw;
   padding-top: 0.8vw;
