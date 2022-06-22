@@ -636,19 +636,19 @@ section {
 .countdown h3 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  margin: 2vw 0;
+  margin: 1vw 0;
   font-size: 2vw;
   text-align: center;
 }
 
 .countdown h4 {
-  margin-top: 1vw;
+  margin-top: 0.5w;
 }
 
 .countdown > p {
   font-size: 1.1vw;
   font-family: var(--font-secondary);
-  margin-bottom: 2vw;
+  margin-bottom: 1vw;
   text-align: center;
 }
 
