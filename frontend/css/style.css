@@ -565,8 +565,6 @@ strong
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
-  padding-right: 0.1vw;
-  padding-left: 0.1vw;
 }
 
 .show-card {
