@@ -156,7 +156,7 @@ header .container {
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
-  height: 50px;
+  height: 2vw;
   width: 100%;
   position: absolute;
   top: 27vh;
@@ -236,7 +236,7 @@ header .container {
   top: 90%;
   left: 30%;
   font-size: 3vw;
-  text-shadow: 2px 2px 0 black;
+  text-shadow: 0.1vw 0.1vw 0 black;
   color:rgb(0, 90, 117);
 }
 
@@ -535,7 +535,7 @@ strong
 
 .wallet-btn {
   border-radius: 0.5vw;
-  margin-left: 20px;
+  margin-left: 0.5vw;
   border-color: transparent;
   /*display: none;*/
 }
@@ -559,14 +559,14 @@ strong
   height: 72vh;
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
-  border: 3px solid var(--accent-color);
+  border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   opacity: 0;
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-right: 0.1vw;
+  padding-left: 0.1vw;
 }
 
 .show-card {
@@ -634,7 +634,7 @@ section {
 }
 
 .countdown h3 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
   margin: 1vw 0;
   font-size: 2vw;
@@ -740,7 +740,7 @@ section {
   height: 72vh;
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
-  border: 3px solid var(--accent-color);
+  border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   z-index: 2;
   padding-right: 30px;
