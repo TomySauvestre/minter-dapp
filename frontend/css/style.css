@@ -633,7 +633,7 @@ section {
   line-height: 1;
   border-radius: 4px 4px 0 0;
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
-  padding: 0.1vw;
+  padding: 0.3vw;
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
@@ -645,7 +645,7 @@ section {
   text-align: center;
   line-height: 1;
   border-radius: 0 0 4px 4px;
-  padding: 0.2vw;
+  padding: 0.3vw;
 }
 
 .countdown h3 {
