@@ -516,7 +516,7 @@ jDiscord.addEventListener("mouseenter", () => {
   jDiscord.style.background  = "#55000a";
 })
 
-wallet_btn.addEventListener("mouseout", () => {
+jDiscord.addEventListener("mouseout", () => {
   jDiscord.style.color = "#55000a";
   jDiscord.style.background  = "white";
 })
