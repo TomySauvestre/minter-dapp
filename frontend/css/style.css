@@ -33,7 +33,6 @@ body {
 .container {
   overflow: hidden;
   max-width: 100%;
-  position: relative;
 }
 
 p
@@ -566,7 +565,8 @@ strong
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
   z-index: 2;
-  border: solid 3px red;
+  padding-right: 0.1vw;
+  padding-left: 0.1vw;
 }
 
 .show-card {
