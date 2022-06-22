@@ -509,6 +509,7 @@ strong
   font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
+  font-size: 2vw;
 }
 
 .jTwitter{
@@ -525,6 +526,7 @@ strong
   font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
+  font-size: 2vw;
 }
 
 /* BUTTONS */
