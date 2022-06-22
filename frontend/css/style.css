@@ -553,10 +553,10 @@ strong
 /* CARD */
 
 .CountCard{
-  position: absolute;
+  position: relative;
   border: 5px solid rgb(150, 12, 35);
   left: 29%;
-  top: 20vw;
+  top: 10vw;
   width: 45%;
   height: 72vw;
 }
