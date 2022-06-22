@@ -600,7 +600,7 @@ section {
 .countdown ul {
   display: flex;
   gap: 1.9vw;
-  padding-top: 1vw;
+  padding-top: 0.5vw;
 }
 .countdown .clock-item {
   list-style: none;
@@ -619,6 +619,7 @@ section {
   text-align: center;
   line-height: 1;
   border-radius: 4px 4px 0 0;
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
