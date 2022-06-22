@@ -629,6 +629,7 @@ section {
   line-height: 1;
   border-radius: 4px 4px 0 0;
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
+  padding: 0.1vw;
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
@@ -640,6 +641,7 @@ section {
   text-align: center;
   line-height: 1;
   border-radius: 0 0 4px 4px;
+  padding: 0.1vw;
 }
 
 .countdown h3 {
@@ -649,14 +651,14 @@ section {
   text-align: center;
 }
 
-/*.countdown h4 {
+.countdown h4 {
   margin-top: 0.5w;
-}*/
+}
 
 .countdown > p {
   font-size: 1.1vw;
   font-family: var(--font-secondary);
-  /*margin-bottom: 0.5vw;*/
+  margin-bottom: 0.5vw;
   text-align: center;
 }
 
