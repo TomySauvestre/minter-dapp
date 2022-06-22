@@ -635,7 +635,7 @@ section {
   background: var(--btn-bg-color);
   font-family: var(--font-secondary);
   font-size: 1.1vw;
-  color: white;
+  color: black;
   display: inline-block;
   width: 100%;
   text-align: center;
