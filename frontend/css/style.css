@@ -649,7 +649,7 @@ section {
   font-style: italic;
   font-size: 1.5vw;
   text-align: center;
-  border: solid 2px red;
+  margin-top: 1vw;
 }
 
 .countdown h4 {
