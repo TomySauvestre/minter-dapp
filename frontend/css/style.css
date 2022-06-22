@@ -676,13 +676,14 @@ section {
   margin-top: 1.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
+  border: solid 2px red;
 }
 
 .countdown h4 {
   margin-top: 0.5w;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
-  margin-bottom: 0.5vw;
+  border: solid 2px purple;
 }
 
 .countdown > p {
