@@ -502,6 +502,7 @@ strong
   background-color: white;
   top: 10%;
   color: var(--accent-color);
+  border-radius: 0.1vw
 }
 
 .jTwitter{
@@ -511,6 +512,7 @@ strong
   background-color: white;
   color: var(--accent-color);
   top: 10%;
+  border-radius: 0.1vw
 }
 
 /* BUTTONS */
