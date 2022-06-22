@@ -478,7 +478,7 @@ strong
   position: absolute;
   left: 5%;
   width: 60%;
-  top: 15%;
+  top: 18%;
 }
 
 .end > .container {
@@ -498,7 +498,7 @@ strong
 
 .jDiscord{
   position: absolute;
-  left: 60%;
+  left: 55%;
   text-decoration: none;
   background: white;
   color: #55000a;
@@ -515,7 +515,7 @@ strong
 
 .jTwitter{
   position: absolute;
-  left: 55%;
+  left: 60%;
   text-decoration: none;
   background: white;
   color: #55000a;
