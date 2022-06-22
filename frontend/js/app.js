@@ -513,7 +513,7 @@ const jTwitter = document.querySelector('.jTwitter');
 
 jDiscord.addEventListener("mouseenter", () => {
   jDiscord.style.color = "white";
-  jDiscord.style.background  = "#E00000";
+  jDiscord.style.background  = "#55000a";
 })
 
 wallet_btn.addEventListener("mouseout", () => {
@@ -524,10 +524,10 @@ wallet_btn.addEventListener("mouseout", () => {
 
 jTwitter.addEventListener("mouseenter", () => {
   jTwitter.style.color = "white";
-  jTwitter.style.background  = "#E00000";
+  jTwitter.style.background  = "#55000a";
 })
 
 jTwitter.addEventListener("mouseout", () => {
-  jTwitter.style.color = "#55000a";
-  jTwitter.style.background  = "white";
+  jTwitter.style.color = "white";
+  jTwitter.style.background  = "#55000a";
 })

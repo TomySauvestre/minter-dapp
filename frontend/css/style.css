@@ -502,7 +502,7 @@ strong
   background-color: white;
   top: 10%;
   color: var(--accent-color);
-  border-radius: 0.1vw
+  border-radius: 0.5vw;
 }
 
 .jTwitter{
@@ -512,7 +512,7 @@ strong
   background-color: white;
   color: var(--accent-color);
   top: 10%;
-  border-radius: 0.1vw
+  border-radius: 0.5vw;
 }
 
 /* BUTTONS */
@@ -553,7 +553,7 @@ strong
 }
 
 .hero-btn {
-  border-radius: 0.1vw;
+  border-radius: 0.5vw;
   font-size: 1.2vw;
   padding: 1.5vw 3vw;
   z-index: 2;
@@ -636,7 +636,7 @@ section {
   width: 100%;
   text-align: center;
   line-height: 1;
-  border-radius: 0.1vw 0.1vw 0 0;
+  border-radius: 0.5vw 0.5vw 0 0;
   text-shadow: 0.1vw 0.1vw 0 black;
   padding: 0.5vw;
 }
@@ -650,7 +650,7 @@ section {
   width: 100%;
   text-align: center;
   line-height: 1;
-  border-radius: 0 0 0.1vw 0.1vw;
+  border-radius: 0 0 0.5vw 0.5vw;
   padding: 0.3vw;
 }
 
@@ -711,7 +711,7 @@ section {
   align-items: center;
   padding: 1.4vw;
   background-color: var(--accent-color);
-  border-radius: 0.1vw;
+  border-radius: 0.5vw;
 }
 
 .mint-qty > span {
@@ -766,7 +766,7 @@ section {
   top: 27vw;
   height: 72vw;
   background-color: rgb(12, 94, 129);
-  border-radius: 0.1vw;
+  border-radius: 0.5vw;
   border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   z-index: 2;
