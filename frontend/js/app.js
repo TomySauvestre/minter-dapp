@@ -506,3 +506,28 @@ wallet_btn.addEventListener("mouseout", () => {
   wallet_btn.style.color = "#55000a";
   wallet_btn.style.background  = "white";
 })
+
+
+const jDiscord = document.querySelector('.jDiscord');
+const jTwitter = document.querySelector('.jTwitter');
+
+jDiscord.addEventListener("mouseenter", () => {
+  jDiscord.style.color = "white";
+  jDiscord.style.background  = "#E00000";
+})
+
+wallet_btn.addEventListener("mouseout", () => {
+  jDiscord.style.color = "#55000a";
+  jDiscord.style.background  = "white";
+})
+
+
+jTwitter.addEventListener("mouseenter", () => {
+  jTwitter.style.color = "white";
+  jTwitter.style.background  = "#E00000";
+})
+
+jTwitter.addEventListener("mouseout", () => {
+  jTwitter.style.color = "#55000a";
+  jTwitter.style.background  = "white";
+})

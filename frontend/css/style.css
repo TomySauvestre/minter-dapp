@@ -498,14 +498,18 @@ strong
 .jDiscord{
   position: absolute;
   left: 60%;
-  text-decoration-color: rgb(0, 0, 80);
+  text-decoration: none;
+  background-color: white;
   top: 10%;
+  color: var(--accent-color);
 }
 
 .jTwitter{
   position: absolute;
   left: 79%;
-  text-decoration-color: rgb(0, 0, 80);
+  text-decoration: none;
+  background-color: white;
+  color: var(--accent-color);
   top: 10%;
 }
 
