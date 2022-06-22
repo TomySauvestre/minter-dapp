@@ -538,6 +538,7 @@ strong
   border-radius: 0.5vw;
   margin-left: 0.5vw;
   border-color: transparent;
+  z-index: 5;
   /*display: none;*/
 }
 
@@ -545,6 +546,7 @@ strong
   border-radius: 4px;
   font-size: 1.2vw;
   padding: 1.5vw 3vw;
+  z-index: 5;
 }
 
 
