@@ -567,7 +567,6 @@ strong
 }
 
 .card {
-  box-shadow: var(--card-shadow);
   opacity: 0;
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
