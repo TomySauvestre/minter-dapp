@@ -680,10 +680,9 @@ section {
 }
 
 .countdown h4 {
-  margin-top: 0.5w;
+  margin-top: 0.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
-  border: solid 2px purple;
 }
 
 .countdown > p {
