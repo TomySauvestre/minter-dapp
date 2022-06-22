@@ -507,6 +507,7 @@ strong
   height: 3vw;
   align-items: center;
   position: relative;
+  font-family: var(--font-primary);
 }
 
 .jTwitter{
@@ -521,6 +522,7 @@ strong
   height: 3vw;
   align-items: center;
   position: relative;
+  font-family: var(--font-primary);
 }
 
 /* BUTTONS */
