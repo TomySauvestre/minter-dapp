@@ -154,12 +154,12 @@ header .container {
   align-items: center;
   text-align: center;
   opacity: 0;
-  transform: translateY(10vh);
+  transform: translateY(10vw);
   transition: all 0.5s ease-in-out;
   height: 2vw;
   width: 100%;
   position: absolute;
-  top: 27vh;
+  top: 27vw;
   background-color: rgb(5, 0, 24);
 }
 
@@ -556,9 +556,9 @@ strong
   position: absolute;
   border: 5px solid rgb(150, 12, 35);
   left: 29%;
-  top: 35vh;
-  width: 10%;
-  height: 72vh;
+  top: 35vw;
+  width: 50%;
+  height: 72vw;
 }
 
 .card {
@@ -744,8 +744,8 @@ section {
   width: 40%;
   position: absolute;
   left: 29%;
-  top: 27vh;
-  height: 72vh;
+  top: 27vw;
+  height: 72vw;
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
   border: 0.1vw solid var(--accent-color);
