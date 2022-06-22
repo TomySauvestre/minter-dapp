@@ -506,6 +506,7 @@ strong
   width: 20%;
   height: 2vw;
   align-items: center;
+  position: relative;
 }
 
 .jTwitter{
@@ -519,7 +520,7 @@ strong
   width: 20%;
   height: 2vw;
   align-items: center;
-
+  position: relative;
 }
 
 /* BUTTONS */
