@@ -133,11 +133,11 @@ header .container {
   position: absolute;
   display: flex;
   width: 100%;
-  left: 5%;
   top: 28%;
   justify-content: space-between;
   align-items: center;
   height: 80%;
+  border: solid 2px red;
 }
 
 .gifs img
