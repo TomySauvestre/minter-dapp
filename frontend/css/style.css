@@ -641,7 +641,7 @@ section {
   text-align: center;
   line-height: 1;
   border-radius: 0 0 4px 4px;
-  padding: 0.1vw;
+  padding: 0.2vw;
 }
 
 .countdown h3 {
@@ -649,6 +649,7 @@ section {
   font-style: italic;
   font-size: 1.5vw;
   text-align: center;
+  border: solid 2px red;
 }
 
 .countdown h4 {
