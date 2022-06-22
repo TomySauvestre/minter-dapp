@@ -682,12 +682,12 @@ section {
   margin-top: 0.5w;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
+  margin-bottom: 0.5vw;
 }
 
 .countdown > p {
   font-size: 1.1vw;
   font-family: var(--font-secondary);
-  margin-bottom: 0.5vw;
   text-align: center;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
