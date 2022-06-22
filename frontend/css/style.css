@@ -557,12 +557,11 @@ strong
   border: 5px solid rgb(150, 12, 35);
   left: 29%;
   top: 35vh;
-  width: 30vw;
+  width: 10%;
   height: 72vh;
 }
 
 .card {
-  
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
   border: 0.1vw solid var(--accent-color);
