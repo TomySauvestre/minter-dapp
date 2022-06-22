@@ -12,7 +12,7 @@
   --font-color: #000000;
   --btn-bg-color: #ffffff;
   --accent-color: #55000a;
-  --header-shadow: var(--accent-color) 0vw 0vw 0.2vw;
+  --header-shadow: black 0vw 0vw 0.2vw;
   --card-shadow: var(--accent-color) 0vw 0vw 0.2vw;
 }
 
