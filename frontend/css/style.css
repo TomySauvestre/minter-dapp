@@ -556,8 +556,9 @@ strong
 
 .CountCard{
   position: relative;
-  border-left: 1vw solid black;
-  border-right: 1vw solid black;
+  border-left: 0.5vw solid black;
+  border-right: 0.5vw solid black;
+  border-top: 0.5vw solid black;
   left: 29%;
   top: 15vw;
   width: 40%;
@@ -650,7 +651,7 @@ section {
   font-style: italic;
   font-size: 1.5vw;
   text-align: center;
-  margin-top: 1vw;
+  margin-top: 1.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
