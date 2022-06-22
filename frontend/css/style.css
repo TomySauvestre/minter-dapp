@@ -595,12 +595,13 @@ section {
   justify-content: center;
   align-items: center;
   width: 40%;
+  height: auto;
 }
 
 .countdown ul {
   display: flex;
   gap: 1.9vw;
-  padding-top: 0.5vw;
+  padding-top: 0.1vw;
 }
 .countdown .clock-item {
   list-style: none;
