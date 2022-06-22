@@ -628,7 +628,7 @@ section {
   text-align: center;
   line-height: 1;
   border-radius: 4px 4px 0 0;
-  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
+  text-shadow: 0.1vw 0.1vw 0 white;
   padding: 0.5vw;
 }
 .countdown .clock-item .count-text {
