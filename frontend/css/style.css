@@ -132,7 +132,7 @@ header .container {
 {
   position: absolute;
   display: flex;
-  width: 90%;
+  width: 100%;
   left: 5%;
   top: 28%;
   justify-content: space-between;
