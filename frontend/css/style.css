@@ -154,7 +154,7 @@ header .container {
   align-items: center;
   text-align: center;
   opacity: 0;
-  transform: translateY(10vw);
+  transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
   height: 2vw;
   width: 100%;
