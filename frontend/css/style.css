@@ -619,7 +619,7 @@ section {
 }
 .countdown .clock-item .count-number {
   background: rgb(30, 0, 0);
-  color: rgb(255, 226, 226);
+  color: rgb(255, 239, 239);
   font-size: 2vw;
   font-weight: 700;
   font-family: var(--font-secondary);
@@ -632,11 +632,11 @@ section {
   padding: 0.5vw;
 }
 .countdown .clock-item .count-text {
-  background: rgb(30, 0, 0);
+  background: rgb(0, 0, 0);
   font-family: var(--font-secondary);
   text-shadow: 0.1vw 0.1vw 0 black;
   font-size: 1.1vw;
-  color: rgb(255, 226, 226);
+  color: rgb(255, 239, 239);
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -651,13 +651,13 @@ section {
   font-size: 1.5vw;
   text-align: center;
   margin-top: 1vw;
-  color: rgb(255, 226, 226);
+  color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
 .countdown h4 {
   margin-top: 0.5w;
-  color: rgb(255, 226, 226);
+  color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
@@ -666,7 +666,7 @@ section {
   font-family: var(--font-secondary);
   margin-bottom: 0.5vw;
   text-align: center;
-  color: rgb(255, 226, 226);
+  color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
