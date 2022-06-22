@@ -557,7 +557,8 @@ strong
 
 .CountCard{
   position: relative;
-  border: 5px solid rgb(150, 12, 35);
+  border-left: 2px solid black;
+  border-right: 2px solid black;
   left: 29%;
   top: 15vw;
   width: 40%;
@@ -566,8 +567,6 @@ strong
 }
 
 .card {
-  background-color: rgb(12, 94, 129);
-  border-radius: 5px;
   border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   opacity: 0;
@@ -633,7 +632,7 @@ section {
   line-height: 1;
   border-radius: 4px 4px 0 0;
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
-  padding: 0.3vw;
+  padding: 0.5vw;
 }
 .countdown .clock-item .count-text {
   background: var(--btn-bg-color);
