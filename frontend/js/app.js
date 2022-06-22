@@ -455,14 +455,12 @@ const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
   opensea.src = "../images/header/opensea_red.png";
-  opensea.style.height = "40px";
-  opensea.style.width = "40px";
+  opensea.style.width = "2.5vw";
 })
 
 opensea.addEventListener("mouseout", ()=> {
   opensea.src = "../images/header/opensea.png";
-  opensea.style.height = "32px";
-  opensea.style.width = "32px";
+  opensea.style.width = "2vw";
 })
 
 
@@ -472,14 +470,12 @@ const twitter = document.querySelector('#twitter');
 
 twitter.addEventListener("mouseenter", ()=> {
   twitter.src = "../images/header/twitter_red.png";
-  twitter.style.height = "40px";
-  twitter.style.width = "40px";
+  twitter.style.width = "2.5vw";
 })
 
 twitter.addEventListener("mouseout", ()=> {
   twitter.src = "../images/header/twitter.png";
-  twitter.style.height = "32px";
-  twitter.style.width = "32px";
+  twitter.style.width = "2vw";
 })
 
 
@@ -490,14 +486,12 @@ const discord = document.querySelector('#discord');
 
 discord.addEventListener("mouseenter", ()=> {
   discord.src = "../images/header/discord_red.png";
-  discord.style.height = "40px";
-  discord.style.width = "40px"
+  discord.style.width = "2.5vw"
 })
 
 discord.addEventListener("mouseout", ()=> {
   discord.src = "../images/header/discord.png";
-  discord.style.height = "32px";
-  discord.style.width = "32px";
+  discord.style.width = "2vw";
 })
 
 
