@@ -503,8 +503,8 @@ strong
   top: 10%;
   color: #55000a;
   border-radius: 0.5vw;
-  width: 10%;
-  height: 3vw;
+  width: 15%;
+  height: 4vw;
   align-items: center;
   position: relative;
   font-family: var(--font-primary);
@@ -519,8 +519,8 @@ strong
   color: #55000a;
   top: 10%;
   border-radius: 0.5vw;
-  width: 10%;
-  height: 3vw;
+  width: 15%;
+  height: 4vw;
   align-items: center;
   position: relative;
   font-family: var(--font-primary);
