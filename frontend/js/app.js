@@ -513,7 +513,7 @@ const jTwitter = document.querySelector('.jTwitter');
 
 jDiscord.addEventListener("mouseenter", () => {
   jDiscord.style.color = "white";
-  jDiscord.style.background  = "#55000a";
+  jDiscord.style.background  = "#E00000";
 })
 
 jDiscord.addEventListener("mouseout", () => {
@@ -524,7 +524,7 @@ jDiscord.addEventListener("mouseout", () => {
 
 jTwitter.addEventListener("mouseenter", () => {
   jTwitter.style.color = "white";
-  jTwitter.style.background  = "#55000a";
+  jTwitter.style.background  = "#E00000";
 })
 
 jTwitter.addEventListener("mouseout", () => {
