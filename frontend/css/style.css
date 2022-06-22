@@ -471,13 +471,14 @@ strong
   width: 100%;
   position: relative;
   background-color: black;
+  border: solid 2px red;
 }
 
 .join > .container > p{
   position: absolute;
   left: 5%;
   width: 60%;
-  top: 10%;
+  top: 15%;
 }
 
 .end > .container {
@@ -509,12 +510,12 @@ strong
   font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 
 .jTwitter{
   position: absolute;
-  left: 60%;
+  left: 55%;
   text-decoration: none;
   background: white;
   color: #55000a;
@@ -526,7 +527,7 @@ strong
   font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 
 /* BUTTONS */
