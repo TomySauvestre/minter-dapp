@@ -562,12 +562,11 @@ strong
   left: 29%;
   top: 15vw;
   width: 40%;
-  height: 25vw;
+  height: 28vw;
   z-index: 2;
 }
 
 .card {
-  border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   opacity: 0;
   transform: translateY(100vw);
