@@ -499,9 +499,9 @@ strong
   position: absolute;
   left: 60%;
   text-decoration: none;
-  background-color: white;
+  background: white;
   top: 10%;
-  color: var(--accent-color);
+  color: #55000a;
   border-radius: 0.5vw;
   width: 10%;
 }
@@ -510,8 +510,8 @@ strong
   position: absolute;
   left: 79%;
   text-decoration: none;
-  background-color: white;
-  color: var(--accent-color);
+  background: white;
+  color: #55000a;
   top: 10%;
   border-radius: 0.5vw;
   width: 10%;
