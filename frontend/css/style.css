@@ -566,7 +566,7 @@ strong
   left: 29%;
   top: 15vw;
   width: 40%;
-  height: 28vw;
+  height: 26vw;
   z-index: 2;
 }
 
@@ -580,6 +580,7 @@ strong
   border-left: 0.5vw dashed black;
   border-right: 0.5vw dashed black;
   border-top: 0.5vw dashed black;
+
 }
 
 .show-card {
