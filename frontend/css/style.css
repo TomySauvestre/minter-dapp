@@ -87,7 +87,7 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 40px;
+  gap: 2vw;
   align-items: center;
   width: 30%;
   border: solid 2px red;
