@@ -616,7 +616,6 @@ section {
   font-size: 2vw;
   font-weight: 700;
   font-family: var(--font-secondary);
-  padding: 1vw;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -629,7 +628,6 @@ section {
   font-family: var(--font-secondary);
   font-size: 1.1vw;
   color: var(--bg-color);
-  padding: 0.5rem 0.7rem;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -640,19 +638,18 @@ section {
 .countdown h3 {
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
-  margin: 0.5vw 0;
   font-size: 2vw;
   text-align: center;
 }
 
-.countdown h4 {
+/*.countdown h4 {
   margin-top: 0.5w;
-}
+}*/
 
 .countdown > p {
-  font-size: 1.1vw;
+  /*font-size: 1.1vw;*/
   font-family: var(--font-secondary);
-  margin-bottom: 0.5vw;
+  /*margin-bottom: 0.5vw;*/
   text-align: center;
 }
 
