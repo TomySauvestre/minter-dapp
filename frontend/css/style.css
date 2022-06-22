@@ -562,7 +562,7 @@ strong
   top: 15vw;
   width: 40%;
   height: 25vw;
-  z-index: 1;
+  z-index: 2;
 }
 
 .card {
@@ -573,7 +573,7 @@ strong
   opacity: 0;
   transform: translateY(100vw);
   transition: all 0.5s ease-in-out;
-  z-index: 1;
+  z-index: 2;
   width: 100%;
   height: 100%;
 }
@@ -757,7 +757,7 @@ section {
   border-radius: 5px;
   border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
-  z-index: 1;
+  z-index: 2;
   padding-right: 30px;
   padding-left: 30px;
 }
