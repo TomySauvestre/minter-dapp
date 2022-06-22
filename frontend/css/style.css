@@ -497,10 +497,10 @@ strong
 
 .jDiscord{
   position: absolute;
-  left: 50%;
+  left: 60%;
   text-decoration: none;
   background: white;
-  top: 10%;
+  top: 2%;
   color: #55000a;
   border-radius: 0.5vw;
   width: 15%;
@@ -509,6 +509,7 @@ strong
   position: relative;
   font-family: var(--font-primary);
   font-style: italic;
+  cursor: pointer;
 }
 
 .jTwitter{
@@ -517,7 +518,7 @@ strong
   text-decoration: none;
   background: white;
   color: #55000a;
-  top: 10%;
+  top: 2%;
   border-radius: 0.5vw;
   width: 15%;
   height: 4vw;
@@ -525,6 +526,7 @@ strong
   position: relative;
   font-family: var(--font-primary);
   font-style: italic;
+  cursor: pointer;
 }
 
 /* BUTTONS */
