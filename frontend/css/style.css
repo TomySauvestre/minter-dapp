@@ -555,11 +555,11 @@ strong
   position: absolute;
   left: 29%;
   top: 35vh;
-  width: 40%;
+  width: 38%;
   height: 72vh;
   background-color: rgb(12, 94, 129);
   border-radius: 5px;
-  border: 1vw solid var(--accent-color);
+  border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
   opacity: 0;
   transform: translateY(100vw);
