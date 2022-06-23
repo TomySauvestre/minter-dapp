@@ -1,6 +1,4 @@
 /* FONTS */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 :root {
@@ -11,7 +9,7 @@
   --bg-color-transparent: #00163f80;
   --font-color: #000000;
   --btn-bg-color: #ffffff;
-  --accent-color: #860010;
+  --accent-color: #9d0012;
   --header-shadow: black 0vw 0vw 0.2vw;
   --card-shadow: var(--accent-color) 0vw 0vw 0.2vw;
 }
