@@ -478,7 +478,6 @@ strong
   left: 5%;
   width: 60%;
   top: 18%;
-  margin-top: 5vw;
 }
 
 .end > .container {
@@ -548,6 +547,7 @@ strong
   justify-content: center;
   align-items: flex-start;
   background: #000000;
+  margin-bottom: 5vw;
 }
 
 .faq > .container > h2{
