@@ -560,13 +560,12 @@ strong
   align-items: center;
   border-radius: 0.5vw;
   position: relative;
-  border: solid 2px red;
 }
 
 .visible-panel h4{
   margin-left: 0.5vw;
   padding: 0.2vw 0.2vw;
-  font-size: 1vw;
+  font-size: 1.5vw;
   color: white;
 }
 
