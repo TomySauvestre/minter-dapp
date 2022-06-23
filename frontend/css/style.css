@@ -653,6 +653,7 @@ section {
   border-radius: 0.5vw 0.5vw 0 0;
   text-shadow: 0.1vw 0.1vw 0 black;
   padding: 0.5vw;
+  margin-bottom: 2vw;
 }
 .countdown .clock-item .count-text {
   background: rgb(0, 0, 0);
