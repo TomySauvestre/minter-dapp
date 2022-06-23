@@ -852,13 +852,13 @@ section {
 
 .minted-container h4 {
   font-size: 2vw;
-  margin-bottom: 1vw;
+  margin-bottom: 0.5vw;
   color: white;
 }
 
 .minted-container p {
   margin: 1vw 0;
-  font-size: 1.4vw;
+  font-size: 1.2vw;
 }
 
 
