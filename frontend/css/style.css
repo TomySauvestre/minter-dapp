@@ -539,6 +539,7 @@ strong
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  background: #000000;
 }
 .question{
   width: 100%;
@@ -560,6 +561,7 @@ strong
   margin-left: 0.5vw;
   padding: 1vw 1vw;
   font-size: 2vw;
+  color: white;
 }
 
 .visible-panel img{
@@ -567,6 +569,8 @@ strong
   width: 5vw;
   cursor: pointer;
 }
+
+
 /* BUTTONS */
 .btn {
   display: inline-block;
