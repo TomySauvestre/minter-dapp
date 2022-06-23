@@ -430,7 +430,7 @@ function change() {
   direction = -1;
   carousel.style.justifyContent = 'flex-start';
   slider.style.transform = 'translate(-20%)';
-  setTimeout(change, 3600);
+  setTimeout(change, 4000);
 }
 
 next.addEventListener('click', function() {
