@@ -549,6 +549,7 @@ strong
 }
 
 .faq > .container > h2{
+  align-items: center;
   margin-bottom: 5vw;
 }
 .question{
