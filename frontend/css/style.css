@@ -555,7 +555,6 @@ strong
   align-items: center;
   border-radius: 0.5vw;
   position: relative;
-  z-index: 10;  
   border: solid 2px red;
 }
 
@@ -570,6 +569,7 @@ strong
   margin-right: 1vw;
   width: 5vw;
   cursor: pointer;
+  z-index: 2;
 }
 
 
