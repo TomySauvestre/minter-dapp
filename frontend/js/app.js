@@ -433,7 +433,7 @@ next.addEventListener('click', function() {
   change();
 });
 
-setTimeout(change, 2000);
+setTimeout(change, 4000);
 
 slider.addEventListener('transitionend', function() {
   if (direction === -1) {
