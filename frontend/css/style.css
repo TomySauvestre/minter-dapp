@@ -550,7 +550,7 @@ strong
 
 .faq > .container > h2{
   align-items: center;
-  margin-bottom: 5vw;
+  margin: auto auto 0.2vw auto;
 }
 .question{
   width: 100%;
