@@ -434,7 +434,9 @@ function change() {
 }
 
 next.addEventListener('click', function() {
-  change();
+  direction = -1;
+  carousel.style.justifyContent = 'flex-start';
+  slider.style.transform = 'translate(-20%)';
 });
 
 
