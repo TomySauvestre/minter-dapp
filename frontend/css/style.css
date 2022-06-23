@@ -839,7 +839,7 @@ section {
   top: 15vw;
   height: 32vw;
   border-radius: 0.5vw;
-  border: 0.2vw dashed black;
+  border: 0.5vw dashed black;
   z-index: 2;
   padding-right: 1vw;
   padding-left: 1vw;
@@ -853,11 +853,12 @@ section {
 .minted-container h4 {
   font-size: 2vw;
   margin-bottom: 1vw;
+  color: white;
 }
 
 .minted-container p {
   margin: 1vw 0;
-  font-size: 1vw;
+  font-size: 1.4vw;
 }
 
 
