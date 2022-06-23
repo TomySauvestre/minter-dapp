@@ -2,7 +2,7 @@ const contractAddress = "0x5a69A3dd2B5E41186f8594d842B44E4F7dA2DF76"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Vengeful Slimes NFT Project!!";
-const welcome_h2 = "Connect to MetaMask to Get Started and see the countdown";
+const welcome_h2 = "Connect to your Wallet to Get Started and see the countdown";
 const welcome_p = 'The Vengeful Slimes NFT Project is a P2E project';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Open!";
