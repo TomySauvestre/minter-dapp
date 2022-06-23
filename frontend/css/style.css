@@ -648,7 +648,7 @@ strong
   left: 29%;
   top: 15vw;
   width: 40%;
-  height: 26vw;
+  height: 32vw;
   z-index: 2;
 }
 
@@ -832,6 +832,7 @@ section {
 
 .total-price-container p {
   color: var(--accent-color);
+  border: solid 2px cyan;
 }
 
 
