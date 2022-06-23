@@ -843,7 +843,7 @@ section {
   left: 29%;
   top: 27vw;
   height: 72vw;
-  background-color: rgb(12, 94, 129);
+  background-color: var(--accent-color);
   border-radius: 0.5vw;
   border: 0.1vw solid var(--accent-color);
   box-shadow: var(--card-shadow);
