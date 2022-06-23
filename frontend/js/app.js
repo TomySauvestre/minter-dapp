@@ -519,11 +519,11 @@ const wallet_btn = document.querySelector('.wallet-btn');
 
 wallet_btn.addEventListener("mouseenter", () => {
   wallet_btn.style.color = "white";
-  wallet_btn.style.background  = "#E00000";
+  wallet_btn.style.background  = "#9d0012";
 })
 
 wallet_btn.addEventListener("mouseout", () => {
-  wallet_btn.style.color = "#55000a";
+  wallet_btn.style.color = "#9d0012";
   wallet_btn.style.background  = "white";
 })
 
@@ -533,22 +533,22 @@ const jTwitter = document.querySelector('.jTwitter');
 
 jDiscord.addEventListener("mouseenter", () => {
   jDiscord.style.color = "white";
-  jDiscord.style.background  = "#E00000";
+  jDiscord.style.background  = "#9d0012";
 })
 
 jDiscord.addEventListener("mouseout", () => {
-  jDiscord.style.color = "#55000a";
+  jDiscord.style.color = "#9d0012";
   jDiscord.style.background  = "white";
 })
 
 
 jTwitter.addEventListener("mouseenter", () => {
   jTwitter.style.color = "white";
-  jTwitter.style.background  = "#E00000";
+  jTwitter.style.background  = "#9d0012";
 })
 
 jTwitter.addEventListener("mouseout", () => {
-  jTwitter.style.color = "#55000a";
+  jTwitter.style.color = "#9d0012";
   jTwitter.style.background  = "white";
 })
 
@@ -557,12 +557,24 @@ const actionBTN = document.querySelector('#actionButton');
 
 actionBTN.addEventListener("mouseenter", () => {
   actionBTN.style.color = "white";
-  actionBTN.style.background  = "#E00000";
+  actionBTN.style.background  = "#9d0012";
 })
 
 actionBTN.addEventListener("mouseout", () => {
-  actionBTN.style.color = "#55000a";
+  actionBTN.style.color = "#9d0012";
   actionBTN.style.background  = "white";
+})
+
+const mintBTN = document.querySelector('.mint-btn');
+
+mintBTN.addEventListener("mouseenter", () => {
+  mintBTN.style.color = "white";
+  mintBTN.style.background  = "#9d0012";
+})
+
+mintBTN.addEventListener("mouseout", () => {
+  mintBTN.style.color = "#9d0012";
+  mintBTN.style.background  = "white";
 })
 
 
@@ -573,7 +585,7 @@ allCross.forEach(element => {
 
     const height = this.parentNode.parentNode.childNodes[3].scrollHeight;
     const currentChoice = this.parentNode.parentNode.childNodes[3];
-    
+
     if (this.src.includes('plus')){
       this.src = '../images/x-icon/less.png';
       gsap.to(currentChoice, {duration: 0.2, height: height + 40, opacity: 1, padding: '20px 15px'})
