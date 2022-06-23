@@ -776,7 +776,7 @@ section {
   justify-content: space-between;
   width: 100%;
   text-align: center;
-  margin-bottom: 1vw;
+  margin-bottom: 0.5vw;
 }
 
 .info-container h3
@@ -800,13 +800,13 @@ section {
 .mint-btn {
   display: flex;
   align-items: center;
-  gap: 3vw;
+  gap: 1vw;
   margin: auto;
 }
 
 .input-number {
   height: 100%;
-  padding: 1vw;
+  padding: 0.5vw;
   vertical-align: top;
   text-align: center;
   outline: none;
@@ -822,11 +822,12 @@ section {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 1vw 0 2vw;
+  padding: 0.5vw 0 1vw;
 }
 
 .total-price-container p {
   color: var(--accent-color);
+  font-size: 1vw;
 }
 
 
