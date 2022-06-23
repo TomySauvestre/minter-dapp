@@ -237,7 +237,7 @@ header .container {
   left: 30%;
   font-size: 3vw;
   text-shadow: 0.1vw 0.1vw 0 black;
-  color:rgb(0, 61, 76);
+  color:rgb(0, 104, 130);
 }
 
 .collection > .container > .Cimg > img
@@ -676,11 +676,10 @@ section {
   margin-top: 0.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
-  border: solid 2px red;
+
 }
 
 .countdown h4 {
-  margin-top: 0.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
