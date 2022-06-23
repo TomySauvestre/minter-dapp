@@ -531,10 +531,15 @@ strong
 
 
 
-
+.faq{
+  position: relative;
+  height: auto;
+  width: 100%;
+  background: #000000;
+}
 
 .faq > .container{
-  width: 70%;
+  width: 80%;
   height: auto;
   margin: 1vw auto 0;
   display: flex;
