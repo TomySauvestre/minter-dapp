@@ -415,11 +415,25 @@ const next = document.querySelector('#arrow');
 
 var direction;
 
-next.addEventListener('click', function() {
+function sleep(milliseconds) {
+  var start = new Date().getTime();
+  for (var i = 0; i < 1e7; i++) {
+    if ((new Date().getTime() - start) > milliseconds){
+      break;
+    }
+  }
+}
+
+function change() {
   direction = -1;
   carousel.style.justifyContent = 'flex-start';
   slider.style.transform = 'translate(-20%)';
+}
+next.addEventListener('click', function() {
+  change();
 });
+
+setTimeout(change, 2000);
 
 slider.addEventListener('transitionend', function() {
   if (direction === -1) {
