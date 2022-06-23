@@ -547,7 +547,10 @@ strong
   justify-content: center;
   align-items: flex-start;
   background: #000000;
-  top: 40%;
+}
+
+.faq > .container > h2{
+  margin-bottom: 5vw;
 }
 .question{
   width: 100%;
