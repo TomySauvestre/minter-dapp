@@ -531,6 +531,8 @@ strong
 
 
 
+
+
 .faq > .container{
   width: 70%;
   height: auto;
@@ -544,14 +546,13 @@ strong
 .question{
   width: 100%;
   height: auto; 
-  margin: 1vw;
+  margin: 0.5vw;
 }
 
 .visible-panel{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: black;
   border-radius: 0.5vw;
   position: relative;
   z-index: 10;  
@@ -559,7 +560,7 @@ strong
 
 .visible-panel h4{
   margin-left: 0.5vw;
-  padding: 1vw 1vw;
+  padding: 0.2vw 0.2vw;
   font-size: 1vw;
   color: white;
 }
