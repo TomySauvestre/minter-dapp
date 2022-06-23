@@ -529,6 +529,44 @@ strong
   font-size: 1.5vw;
 }
 
+
+
+.faq > .container{
+  width: 70%;
+  height: auto;
+  margin: 1vw auto 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.question{
+  width: 100%;
+  height: auto; 
+  margin: 1vw;
+}
+
+.visible-panel{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  border-radius: 0.5vw;
+  position: relative;
+  z-index: 10;  
+}
+
+.visible-panel h4{
+  margin-left: 0.5vw;
+  padding: 1vw 1vw;
+  font-size: 2vw;
+}
+
+.visible-panel img{
+  margin-right: 1vw;
+  width: 5vw;
+  cursor: pointer;
+}
 /* BUTTONS */
 .btn {
   display: inline-block;
