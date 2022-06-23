@@ -583,7 +583,7 @@ strong
 .toggle-panel p{
   font-size: 1vw;
   line-height: 1.5;
-  margin-left: 1vw;
+  padding-left: 20px;
 }
 
 
