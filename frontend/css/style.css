@@ -549,8 +549,7 @@ strong
 }
 
 .faq > .container > h2{
-  align-items: center;
-  margin: auto auto 0.2vw auto;
+  margin-bottom: 5vw;
 }
 .question{
   width: 100%;
@@ -571,6 +570,7 @@ strong
   font-size: 1.8vw;
   color: white;
   margin-bottom: 1.5vw;
+  align-items: center;
 }
 
 .visible-panel img{
