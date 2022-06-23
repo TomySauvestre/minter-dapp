@@ -556,6 +556,7 @@ strong
   border-radius: 0.5vw;
   position: relative;
   z-index: 10;  
+  border: solid 2px red;
 }
 
 .visible-panel h4{
