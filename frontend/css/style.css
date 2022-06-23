@@ -378,7 +378,7 @@ strong
   left: 19%;
   
   color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 rgb(59, 0, 0);
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
 }
 
 #r2
@@ -387,7 +387,7 @@ strong
   top: 41%;
   left: 26%;
   color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 rgb(59, 0, 0);
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
 }
 #r3
 {
@@ -395,7 +395,7 @@ strong
   top: 60%;
   left: 13%;
   color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 rgb(59, 0, 0);
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
 
 }
 #r4
@@ -404,7 +404,7 @@ strong
   top: 79.3%;
   left: 34%;
   color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 rgb(59, 0, 0);
+  text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
 
 }
 
@@ -498,7 +498,7 @@ strong
   left: 59%;
   text-decoration: none;
   background: white;
-  color: #55000a;
+  color: var(--accent-color);
   border-radius: 0.5vw;
   width: 15%;
   height: 4vw;
@@ -515,7 +515,7 @@ strong
   left: 62%;
   text-decoration: none;
   background: white;
-  color: #55000a;
+  color: var(--accent-color);
   border-radius: 0.5vw;
   width: 15%;
   height: 4vw;
@@ -768,7 +768,6 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: solid 2px yellow;
 
 }
 
@@ -778,13 +777,11 @@ section {
   width: 100%;
   text-align: center;
   margin-bottom: 1vw;
-  border: solid 2px green;
 }
 
 .info-container h3
 {
   margin-bottom: 0.5vw;
-  border: solid 2px brown;
 }
 
 .mint-qty {
@@ -794,7 +791,6 @@ section {
   padding: 1.4vw;
   background-color: var(--accent-color);
   border-radius: 0.5vw;
-  border: solid 2px pink;
 }
 
 .mint-qty > span {
@@ -806,7 +802,6 @@ section {
   align-items: center;
   gap: 3vw;
   margin: auto;
-  border: solid 2px blue;
 }
 
 .input-number {
@@ -832,7 +827,6 @@ section {
 
 .total-price-container p {
   color: var(--accent-color);
-  border: solid 2px cyan;
 }
 
 
