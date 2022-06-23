@@ -572,7 +572,6 @@ strong
 
 .visible-panel img{
   margin-right: 1vw;
-  width: 5vw;
   cursor: pointer;
   z-index: 2;
 }
