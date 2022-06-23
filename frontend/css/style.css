@@ -570,7 +570,8 @@ strong
   font-size: 1.8vw;
   color: white;
   margin-bottom: 1.5vw;
-  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .visible-panel img{
