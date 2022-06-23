@@ -571,7 +571,6 @@ allCross.forEach(element => {
 
     const height = this.parentNode.parentNode.childNodes[3].scrollHeight;
     const currentChoice = this.parentNode.parentNode.childNodes[3];
-    console.log(this.parentNode.parentNode.childNodes);
     if (this.src.includes('plus')){
       this.src = '../images/x-icon/less.png';
       gsap.to(currentChoice, {duration: 0.2, height: height + 40, opacity: 1, padding: '1vw 1vw'})
