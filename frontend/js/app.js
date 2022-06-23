@@ -562,3 +562,25 @@ actionBTN.addEventListener("mouseout", () => {
   actionBTN.style.color = "#55000a";
   actionBTN.style.background  = "white";
 })
+
+
+const allCross = document.querySelectorAll('.visible-panel img');
+
+allCross.forEach(element => {
+  element.addEventListener('click', function(){
+
+    const height = this.parentNode.parentNode.childNodes[3].scrollHeight;
+    const currentChoice = this.parentNode.parentNode.childNodes[3];
+
+    if (this.src.includes('plus')){
+      this.src = '../images/x-icon/less.png';
+      gsap.to(currentChoice, {duration: 0.2, height: height + 40, opacity: 1, padding: '1vw 1vw'})
+    } else if (this.src.includes('less')){
+      this.src = '../images/x-icon/plus.png';
+      gsap.to(currentChoice, {duration: 0.2, height: 0, opacity: 0, padding: '0vw 1vw'})
+    }
+
+  })
+
+
+})

@@ -575,14 +575,15 @@ strong
   z-index: 2;
 }
 
-/*.toggle-panel{
+.toggle-panel{
   height: 0px;
   opacity: 0;
-}*/
+}
 
 .toggle-panel p{
   font-size: 1vw;
   line-height: 1.5;
+  margin-left: 1vw;
 }
 
 
