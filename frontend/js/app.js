@@ -654,8 +654,6 @@ more1.addEventListener('click', function() {
   more1.style.zIndex = -2;
   close1.style.opacity = 1;
   close1.style.zIndex = 2;
-  console.log("APPUYE");
-  console.log(d1.style.opacity);
 })
 
 more2.addEventListener('click', function() {
