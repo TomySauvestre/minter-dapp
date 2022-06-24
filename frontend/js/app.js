@@ -715,3 +715,40 @@ close4.addEventListener('click', function() {
   close4.style.opacity = 0;
   close4.style.zIndex = -1;
 })
+
+
+
+close1.addEventListener("mouseenter", () => {
+  close1.style.color = "#ec001c";
+})
+
+close1.addEventListener("mouseout", () => {
+  close1.style.color = "#9d0012";
+})
+
+close2.addEventListener("mouseenter", () => {
+  close2.style.color = "#ec001c";
+})
+
+close2.addEventListener("mouseout", () => {
+  close2.style.color = "#9d0012";
+})
+
+
+close3.addEventListener("mouseenter", () => {
+  close3.style.color = "#ec001c";
+})
+
+close3.addEventListener("mouseout", () => {
+  close3.style.color = "#9d0012";
+})
+
+
+close4.addEventListener("mouseenter", () => {
+  close4.style.color = "#ec001c";
+})
+
+close4.addEventListener("mouseout", () => {
+  close4.style.color = "#9d0012";
+})
+
