@@ -440,6 +440,26 @@ strong
   left: 5%;
 }
 
+#d1 > p{
+  top: 30%;
+  left: 15%
+}
+
+#d2{
+  top: 50%;
+  left: 15%
+}
+
+#d3{
+  top: 70%;
+  left: 15%
+}
+
+#d4{
+  top: 90%;
+  left: 15%;
+}
+
 #close1{
   top: 25%;
   left: 80%;
