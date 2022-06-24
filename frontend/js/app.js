@@ -610,7 +610,7 @@ const more3 = document.querySelector('#more3');
 const more4 = document.querySelector('#more4');
 
 more1.addEventListener("mouseenter", () => {
-  more1.style.color = "#bf0016";
+  more1.style.color = "#ce0018";
 })
 
 more1.addEventListener("mouseout", () => {
@@ -618,7 +618,7 @@ more1.addEventListener("mouseout", () => {
 })
 
 more2.addEventListener("mouseenter", () => {
-  actimore2onBTN.style.color = "#bf0016";
+  more2.style.color = "#ce0018";
 })
 
 more2.addEventListener("mouseout", () => {
@@ -626,7 +626,7 @@ more2.addEventListener("mouseout", () => {
 })
 
 more3.addEventListener("mouseenter", () => {
-  more3.style.color = "#bf0016";
+  more3.style.color = "#ce0018";
 })
 
 more3.addEventListener("mouseout", () => {
@@ -634,7 +634,7 @@ more3.addEventListener("mouseout", () => {
 })
 
 more4.addEventListener("mouseenter", () => {
-  more4.style.color = "#bf0016";
+  more4.style.color = "#ce0018";
 })
 
 more4.addEventListener("mouseout", () => {
