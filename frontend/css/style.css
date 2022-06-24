@@ -422,18 +422,42 @@ strong
 
 #d1{
   top: 20%;
+  left: 5%
 }
 
 #d2{
   top: 40%;
+  left: 5%
 }
 
 #d3{
   top: 60%;
+  left: 5%
 }
 
 #d4{
   top: 80%;
+  left: 5%;
+}
+
+#close1{
+  top: 25%;
+  left: 80%;
+}
+
+#close2{
+  top: 45%;
+  left: 80%;
+}
+
+#close3{
+  top: 65%;
+  left: 80%;
+}
+
+#close4{  
+  top: 85%;
+  left: 80%;
 }
 
 
