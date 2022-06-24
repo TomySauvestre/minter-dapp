@@ -376,6 +376,7 @@ strong
   color: var(--accent-color);
   font-size: 1.2vw;
   text-shadow: 0.1vw 0.1vw 0 black;
+  font-family: var(--font-primary);
 }
 
 #more1{
