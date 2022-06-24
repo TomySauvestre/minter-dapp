@@ -384,6 +384,7 @@ strong
   height: 2vw;
   align-items: center;
   background: #e4e4e4;
+  border: dashed 1px black;
 }
 
 
@@ -394,13 +395,13 @@ strong
 
 #more2{
   top: 49%;
-  left: 70.5%;
+  left: 71%;
 }
 
 
 #more3{
   top: 67%;
-  left: 45.5%;
+  left: 45%;
 }
 
 #more4{
