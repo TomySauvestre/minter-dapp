@@ -413,10 +413,15 @@ strong
 .detailsPanel{
   z-index: 10;
   opacity: 0;
-  width: 100%;
-  height: 50vw;
-  border: solid 2px red;
+}
+
+.grp{
   position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  border: solid 2px red;
 }
 
 .close{
@@ -424,7 +429,7 @@ strong
   z-index: -2;
 }
 
-
+/*
 #d1{
   top: 20%;
   left: 5%
@@ -449,7 +454,7 @@ strong
   position: absolute;
   top: 30%;
   left: 15%
-}
+}*/
 
 
 #close1{
