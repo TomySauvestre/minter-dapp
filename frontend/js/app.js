@@ -595,3 +595,32 @@ allCross.forEach(element => {
     }
   })
 })
+
+
+
+
+
+const d1 = document.querySelector('#d1');
+const d2 = document.querySelector('#d2');
+const d3 = document.querySelector('#d3');
+const d4 = document.querySelector('#d4');
+const more1 = document.querySelector('#more1');
+const more2 = document.querySelector('#more2');
+const more3 = document.querySelector('#more3');
+const more4 = document.querySelector('#more4');
+
+more1.addEventListener('click', function() {
+  d1.style.opacity = 1;
+});
+
+more2.addEventListener('click', function() {
+  d2.style.opacity = 1;
+});
+
+more3.addEventListener('click', function() {
+  d3.style.opacity = 1;
+});
+
+more4.addEventListener('click', function() {
+  d4.style.opacity = 1;
+});
