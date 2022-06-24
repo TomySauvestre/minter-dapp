@@ -411,7 +411,6 @@ strong
 }
 
 .detailsPanel{
-  position: fixed;
   z-index: 4;
   opacity: 0;
 }
