@@ -374,28 +374,29 @@ strong
 .more{
   position: absolute;
   color: var(--accent-color);
-  font-size: 1vw;
+  font-size: 1.2vw;
+  text-shadow: 0.1vw 0.1vw 0 black;
 }
 
 #more1{
-  top: 26%;
-  left: 49%;
+  top: 28%;
+  left: 51%;
 }
 
 #more2{
-  top: 47%;
-  left: 52%;
+  top: 48%;
+  left: 30%;
 }
 
 
 #more3{
-  top: 66%;
-  left: 48%;
+  top: 68%;
+  left: 61%;
 }
 
 #more4{
-  top: 86%;
-  left: 52%;
+  top: 88%;
+  left: 65%;
 }
 
 .detailsPanel{
