@@ -516,7 +516,7 @@ strong
 .question{
   width: 100%;
   height: auto; 
-  margin: 0.5vw;
+  margin: 0.5vw 0.5vw 1.5vw 0.5vw;
 }
 
 .visible-panel{
