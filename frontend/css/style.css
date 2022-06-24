@@ -413,6 +413,9 @@ strong
 .detailsPanel{
   z-index: 10;
   opacity: 0;
+  width: 100%;
+  height: auto;
+  border: solid 2px red;
 }
 
 .close{
@@ -445,20 +448,6 @@ strong
   left: 15%
 }
 
-#d2{
-  top: 50%;
-  left: 15%
-}
-
-#d3{
-  top: 70%;
-  left: 15%
-}
-
-#d4{
-  top: 90%;
-  left: 15%;
-}
 
 #close1{
   top: 25%;
