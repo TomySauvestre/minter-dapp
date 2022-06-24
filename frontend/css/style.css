@@ -380,7 +380,7 @@ strong
   text-decoration: none;
   cursor: pointer;
   border-radius: 0.5vw;
-  width: 18%;
+  width: 17%;
   height: 2vw;
   align-items: center;
 }
@@ -388,7 +388,7 @@ strong
 
 #more1{
   top: 28.5%;
-  left: 52%;
+  left: 50%;
 }
 
 #more2{
@@ -399,12 +399,12 @@ strong
 
 #more3{
   top: 67%;
-  left: 48%;
+  left: 46%;
 }
 
 #more4{
   top: 86.5%;
-  left: 66%;
+  left: 65%;
 }
 
 .detailsPanel{
