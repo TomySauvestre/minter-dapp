@@ -610,7 +610,7 @@ const more3 = document.querySelector('#more3');
 const more4 = document.querySelector('#more4');
 
 more1.addEventListener("mouseenter", () => {
-  more1.style.color = "#ce0018";
+  more1.style.color = "#ec001c";
 })
 
 more1.addEventListener("mouseout", () => {
@@ -618,7 +618,7 @@ more1.addEventListener("mouseout", () => {
 })
 
 more2.addEventListener("mouseenter", () => {
-  more2.style.color = "#ce0018";
+  more2.style.color = "#ec001c";
 })
 
 more2.addEventListener("mouseout", () => {
@@ -626,7 +626,7 @@ more2.addEventListener("mouseout", () => {
 })
 
 more3.addEventListener("mouseenter", () => {
-  more3.style.color = "#ce0018";
+  more3.style.color = "#ec001c";
 })
 
 more3.addEventListener("mouseout", () => {
@@ -634,7 +634,7 @@ more3.addEventListener("mouseout", () => {
 })
 
 more4.addEventListener("mouseenter", () => {
-  more4.style.color = "#ce0018";
+  more4.style.color = "##ec001c";
 })
 
 more4.addEventListener("mouseout", () => {
@@ -645,16 +645,24 @@ more4.addEventListener("mouseout", () => {
 
 more1.addEventListener('click', function() {
   d1.style.opacity = 1;
+  more1.style.opacity = 0;
+  more1.style.z-index = -1;
 });
 
 more2.addEventListener('click', function() {
   d2.style.opacity = 1;
+  more2.style.opacity = 0;
+  more2.style.z-index = -1;
 });
 
 more3.addEventListener('click', function() {
   d3.style.opacity = 1;
+  more3.style.opacity = 0;
+  more3.style.z-index = -1;
 });
 
 more4.addEventListener('click', function() {
   d4.style.opacity = 1;
+  more4.style.opacity = 0;
+  more4.style.z-index = -1;
 });
