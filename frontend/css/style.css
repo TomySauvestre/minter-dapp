@@ -379,7 +379,12 @@ strong
   font-family: var(--font-primary);
   text-decoration: none;
   cursor: pointer;
+  border-radius: 0.5vw;
+  width: 10%;
+  height: 2vw;
+  align-items: center;
 }
+
 
 #more1{
   top: 28.5%;
