@@ -413,14 +413,27 @@ strong
 .detailsPanel{
   z-index: 10;
   opacity: 0;
-  position: fixed;
-  width: 100%;
-  height: 100%;
 }
 
 .close{
   opacity: 0;
   z-index: -2;
+}
+
+#d1{
+  top: 20%;
+}
+
+#d2{
+  top: 40%;
+}
+
+#d3{
+  top: 60%;
+}
+
+#d4{
+  top: 80%;
 }
 
 
