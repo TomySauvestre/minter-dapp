@@ -413,7 +413,14 @@ strong
 .detailsPanel{
   z-index: 1;
   opacity: 0;
+  position: absolute;
+}
+
+.grp{
   position: relative;
+  height: 100%;
+  width: 100%;
+  border: solid 2px red;
 }
 
 .close{
@@ -442,8 +449,8 @@ strong
   left: 5%;
 }
 
-.rmP{
-  position: absolute;
+#d1 > p{
+  posi
   top: 30%;
   left: 15%
 }
