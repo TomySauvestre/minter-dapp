@@ -3,15 +3,7 @@
 
 :root {
   --font-primary: "Press Start 2P", sans-serif;
-  --font-secondary: "Press Start 2P", serif;
-  --font-code: "Odibee Sans", monospace;
-  --bg-color: #062867;
-  --bg-color-transparent: #00163f80;
-  --font-color: #000000;
-  --btn-bg-color: #ffffff;
   --accent-color: #9d0012;
-  --header-shadow: black 0vw 0vw 0.2vw;
-  --card-shadow: var(--accent-color) 0vw 0vw 0.2vw;
 }
 
 * {
@@ -23,7 +15,7 @@
 body {
   display: flex;
   flex-flow: column;
-  color: var(--font-color);
+  color: black;
   font-family: var(--font-primary);
   max-width: 100%;
 }
@@ -50,7 +42,6 @@ h2
 }
 
 
-
 /* HEADER */
 header {
   background-color: rgb(5, 0, 24);
@@ -60,7 +51,7 @@ header {
   opacity: 0.8;
   z-index: 3;
   align-items: center;
-  box-shadow: var(--header-shadow);
+  box-shadow: black 0vw 0vw 0.2vw;
 }
 
 header .container {
@@ -95,10 +86,6 @@ header .container {
   width: 2vw;
   height: auto;
 }
-
-
-
-
 
 
 /*HOME */
@@ -145,8 +132,6 @@ header .container {
 }
 
 
-
-
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
@@ -189,9 +174,6 @@ header .container {
 }*/
 
 
-
-
-
 /* THE COLLECTION */
 .collection > .container{
   height: 47vw;
@@ -200,8 +182,6 @@ header .container {
   position: relative;
   background-image: url("../images/x-icon/bricks.png");
 }
-
-
 
 .collection > .container > h2
 {
@@ -245,9 +225,6 @@ header .container {
 }
 
 
-
-
-
 /* SNEAK PEEK */
 .sneak-peek > .container
 {
@@ -255,7 +232,6 @@ header .container {
   width: 100%;
   position: relative;
 }
-
 
 .sneak-peek h2
 {
@@ -306,7 +282,6 @@ header .container {
   gap: 20%;
 }
 
-
 #arrow
 {
   width: 8%;
@@ -316,7 +291,6 @@ header .container {
   z-index: 1;
   left: 65%;
 }
-
 
 .sneak-peek img:not(#arrow, #space)
 {
@@ -341,8 +315,6 @@ header .container {
 }
 
 
-
-
 /* ROADMAP */
 .roadmap > .container 
 {
@@ -355,7 +327,6 @@ header .container {
 {
   margin-top: 22%;
   margin-left: 8%;
-
 }
 
 .roadmap > .container > .informations > p
@@ -371,45 +342,38 @@ strong
 }
 
 
-#r1
+.milestone
 {
   position: absolute;
+  color: #000000;
+  text-shadow: 0.1vw 0.1vw 0 black;
+}
+
+#m1
+{
   top: 21.5%;
   left: 19%;
-  
-  color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 black;
 }
 
-#r2
+#m2
 {
-  position: absolute;
   top: 41%;
   left: 26%;
-  color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 black;
 }
-#r3
+#m3
 {
-  position: absolute;
   top: 60%;
   left: 13%;
-  color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 black;
-
 }
-#r4
+#m4
 {
-  position: absolute;
   top: 79.3%;
   left: 34%;
-  color: #000000;
-  text-shadow: 0.1vw 0.1vw 0 black;
-
 }
 
 
 
+/* THE GAME */
 .game > .container
 {
   height: 47vw;
@@ -417,17 +381,16 @@ strong
   position: relative;
 }
 
-.game > .container > h2
-{
-  text-align: center;
-  position: absolute;
-  top: 5%;
-  width: 100%;
-}
-
 .game > .container > *
 {
   position: absolute;
+}
+
+.game > .container > h2
+{
+  text-align: center;
+  top: 5%;
+  width: 100%;
 }
 
 .game > .container > .right > p
@@ -440,13 +403,11 @@ strong
   margin-bottom: 6%;
 }
 
-
 .left{
   height: 55%;
   top: 30%;
   width: 45%;
   left: 5%;
-  position: absolute;
 }
 
 .right{
@@ -454,7 +415,6 @@ strong
   top: 30%;
   width: 45%;
   left: 50%;
-  position: absolute;
 }
 
 #game{
@@ -464,71 +424,8 @@ strong
   position: absolute;
 }
 
-.join > .container{
-  height: 5vw;
-  width: 100%;
-  position: relative;
-  background-color: black;
-}
 
-.join > .container > p{
-  position: absolute;
-  left: 5%;
-  width: 60%;
-  top: 18%;
-}
-
-.end > .container {
-  height: 10vw;
-  width: 100%;
-  background-color: black;
-  position: relative;
-}
-
-.end > .container > p{
-  font-size: 0.9vw;
-  position: absolute;
-  left: 5%;
-  top: 20%;
-}
-
-
-.jDiscord{
-  position: absolute;
-  left: 59%;
-  text-decoration: none;
-  background: white;
-  color: var(--accent-color);
-  border-radius: 0.5vw;
-  width: 15%;
-  height: 4vw;
-  align-items: center;
-  position: relative;
-  font-family: var(--font-primary);
-  font-style: italic;
-  cursor: pointer;
-  font-size: 1.5vw;
-}
-
-.jTwitter{
-  position: absolute;
-  left: 62%;
-  text-decoration: none;
-  background: white;
-  color: var(--accent-color);
-  border-radius: 0.5vw;
-  width: 15%;
-  height: 4vw;
-  align-items: center;
-  position: relative;
-  font-family: var(--font-primary);
-  font-style: italic;
-  cursor: pointer;
-  font-size: 1.5vw;
-}
-
-
-
+/* FAQ */
 .faq{
   position: relative;
   height: auto;
@@ -592,20 +489,86 @@ strong
 }
 
 
+/* Join */
+.join > .container{
+  height: 5vw;
+  width: 100%;
+  position: relative;
+  background-color: black;
+}
+
+.join > .container > p{
+  position: absolute;
+  left: 5%;
+  width: 60%;
+  top: 18%;
+}
+
+.jDiscord{
+  position: absolute;
+  left: 59%;
+  text-decoration: none;
+  background: white;
+  color: var(--accent-color);
+  border-radius: 0.5vw;
+  width: 15%;
+  height: 4vw;
+  align-items: center;
+  position: relative;
+  font-family: var(--font-primary);
+  font-style: italic;
+  cursor: pointer;
+  font-size: 1.5vw;
+}
+
+.jTwitter{
+  position: absolute;
+  left: 62%;
+  text-decoration: none;
+  background: white;
+  color: var(--accent-color);
+  border-radius: 0.5vw;
+  width: 15%;
+  height: 4vw;
+  align-items: center;
+  position: relative;
+  font-family: var(--font-primary);
+  font-style: italic;
+  cursor: pointer;
+  font-size: 1.5vw;
+}
+
+
+/* End */
+.end > .container {
+  height: 10vw;
+  width: 100%;
+  background-color: black;
+  position: relative;
+}
+
+.end > .container > p{
+  font-size: 0.9vw;
+  position: absolute;
+  left: 5%;
+  top: 20%;
+}
+
+
 /* BUTTONS */
 .btn {
   display: inline-block;
   padding: 1vw 2vw;
-  background: var(--btn-bg-color);
+  background: #062867;
   color: var(--accent-color);
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   font-style: italic;
   font-weight: bold;
   font-size: 1vw;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: var(--header-shadow);
+  box-shadow: black 0vw 0vw 0.2vw;
   cursor: pointer;
   position: relative;
   text-decoration: none;
@@ -637,11 +600,7 @@ strong
 }
 
 
-
-
-
 /* CARD */
-
 .CountCard{
   position: relative;
   
@@ -660,7 +619,6 @@ strong
   width: 100%;
   height: 100%;
   border: 0.5vw dashed black;
-
 }
 
 .show-card {
@@ -669,46 +627,48 @@ strong
 }
 
 
-
-
-
-
 /* COUNTDOWN SECTION */
-section {
+section 
+{
   flex: 1 1 auto;
 }
 
-#countdown {
+#countdown 
+{
   display: none;
   text-align: center;
 }
 
-.countdown {
+.countdown 
+{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
   height: 100%;
-
 }
 
-.countdown ul {
+.countdown ul 
+{
   display: flex;
   gap: 1.9vw;
-  
 }
-.countdown .clock-item {
+
+.countdown .clock-item 
+{
   list-style: none;
   width: 8vw;
   height: auto;
 }
-.countdown .clock-item .count-number {
+
+.countdown .clock-item .count-number 
+{
   background: rgb(30, 0, 0);
   color: rgb(255, 239, 239);
   font-size: 2vw;
   font-weight: 700;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -718,9 +678,10 @@ section {
   padding: 0.5vw;
 
 }
-.countdown .clock-item .count-text {
+.countdown .clock-item .count-text 
+{
   background: rgb(0, 0, 0);
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   text-shadow: 0.1vw 0.1vw 0 black;
   font-size: 1.1vw;
   color: rgb(255, 239, 239);
@@ -733,7 +694,8 @@ section {
   margin-bottom: 2vw;
 }
 
-.countdown h3 {
+.countdown h3 
+{
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
   font-size: 1.5vw;
@@ -742,35 +704,35 @@ section {
   margin-bottom: 0.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
-
 }
 
-.countdown h4 {
+.countdown h4 
+{
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
-.countdown > p {
+.countdown > p 
+{
   font-size: 1.1vw;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   text-align: center;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
 
-
-
-
 /* MINT CONTAINER */
-.mint-container {
+.mint-container 
+{
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.info-container {
+.info-container
+{
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -783,7 +745,8 @@ section {
   margin-bottom: 0.5vw;
 }
 
-.mint-qty {
+.mint-qty 
+{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -792,18 +755,21 @@ section {
   border-radius: 0.5vw;
 }
 
-.mint-qty > span {
+.mint-qty > span 
+{
   display: flex;
 }
 
-.mint-btn {
+.mint-btn 
+{
   display: flex;
   align-items: center;
   gap: 3vw;
   margin: auto;
 }
 
-.input-number {
+.input-number 
+{
   height: 100%;
   padding: 1vw;
   vertical-align: top;
@@ -813,24 +779,28 @@ section {
 
 .input-number,
 .input-number-decrement,
-.input-number-increment {
+.input-number-increment 
+{
   user-select: none;
 }
 
-.total-price-container {
+.total-price-container 
+{
   display: flex;
   justify-content: space-between;
   width: 100%;
   padding: 1vw 0 2vw;
 }
 
-.total-price-container p {
+.total-price-container p 
+{
   color: var(--accent-color);
 }
 
 
 /* MINTED CONTAINER */
-.minted-container {
+.minted-container 
+{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -847,25 +817,24 @@ section {
   padding-left: 1vw;
 }
 
-.minted-container h3 {
+.minted-container h3 
+{
   font-size: 5vw;
   margin-bottom: 2vw;
 }
 
-.minted-container h4 {
+.minted-container h4 
+{
   font-size: 2vw;
   margin-bottom: 0.5vw;
   color: white;
 }
 
-.minted-container p {
+.minted-container p 
+{
   margin: 1vw 0;
   font-size: 1.2vw;
 }
-
-
-
-
 
 /* SLIDDER 
 .splide {
@@ -893,15 +862,9 @@ section {
 }*/
 
 
-
-
-
 /* MEDIA QUERIES */
 @media screen and (max-width: 768px) {
 }
-
-
-
 
 
 /* UTILITIES */
