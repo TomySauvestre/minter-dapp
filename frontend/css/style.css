@@ -503,7 +503,7 @@ strong
 }
 
 .faq > .container > h2{
-  margin-bottom: 10vw;
+  margin-bottom: 5vw;
 }
 .question{
   width: 100%;
@@ -523,7 +523,7 @@ strong
 .visible-panel h4{
   font-size: 1.8vw;
   color: white;
-  margin-bottom: 1.5vw;
+  margin-bottom: 2vw;
   margin-top: auto;
   margin-bottom: auto;
 }
