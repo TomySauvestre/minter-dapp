@@ -607,7 +607,7 @@ strong
 .btn {
   display: inline-block;
   padding: 1vw 2vw;
-  background: #062867;
+  background: white;
   color: var(--accent-color);
   font-family: var(--font-primary);
   font-style: italic;
