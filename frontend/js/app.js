@@ -609,6 +609,11 @@ const more2 = document.querySelector('#more2');
 const more3 = document.querySelector('#more3');
 const more4 = document.querySelector('#more4');
 
+const close1 = document.querySelector('#close1');
+const close2 = document.querySelector('#close2');
+const close3 = document.querySelector('#close3');
+const close4 = document.querySelector('#close4');
+
 more1.addEventListener("mouseenter", () => {
   more1.style.color = "#ec001c";
 })
