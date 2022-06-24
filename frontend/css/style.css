@@ -374,22 +374,26 @@ strong
 #more1{
   top: 25%;
   left: 50%;
+  position: absolute;
 }
 
 #more2{
   top: 45%;
   left: 50%;
+  position: absolute;
 }
 
 
 #more3{
   top: 65%;
   left: 50%;
+  position: absolute;
 }
 
 #more4{
   top: 85%;
   left: 50%;
+  position: absolute;
 }
 
 .detailsPanel{
