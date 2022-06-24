@@ -412,6 +412,7 @@ strong
 
 .detailsPanel{
   opacity: 0;
+  position: fixed;
 }
 
 
