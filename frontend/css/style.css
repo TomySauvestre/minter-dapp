@@ -377,6 +377,8 @@ strong
   font-size: 1.2vw;
   text-shadow: 0.1vw 0.1vw 0 black;
   font-family: var(--font-primary);
+  text-decoration: none;
+  cursor: pointer;
 }
 
 #more1{
