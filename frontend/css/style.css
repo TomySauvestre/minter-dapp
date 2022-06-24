@@ -371,29 +371,31 @@ strong
   left: 34%;
 }
 
-#more1{
-  top: 25%;
-  left: 50%;
+.more{
   position: absolute;
+  color: var(--accent-color);
+  font-size: 1vw;
+}
+
+#more1{
+  top: 26%;
+  left: 49%;
 }
 
 #more2{
-  top: 45%;
-  left: 50%;
-  position: absolute;
+  top: 47%;
+  left: 52%;
 }
 
 
 #more3{
-  top: 65%;
-  left: 50%;
-  position: absolute;
+  top: 66%;
+  left: 48%;
 }
 
 #more4{
-  top: 85%;
-  left: 50%;
-  position: absolute;
+  top: 86%;
+  left: 52%;
 }
 
 .detailsPanel{
