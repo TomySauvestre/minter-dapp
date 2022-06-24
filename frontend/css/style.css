@@ -411,9 +411,24 @@ strong
 }
 
 .detailsPanel{
-  opacity: 0;
   position: fixed;
   z-index: 1;
+}
+
+#d1{
+  opacity: 0;
+}
+
+#d2{
+  opacity: 0;
+}
+
+#d3{
+  opacity: 0;
+}
+
+#d4{
+  opacity: 0;
 }
 
 .close{
