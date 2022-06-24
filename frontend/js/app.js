@@ -651,23 +651,67 @@ more4.addEventListener("mouseout", () => {
 more1.addEventListener('click', function() {
   d1.style.opacity = 1;
   more1.style.opacity = 0;
-  more1.style.z-index = -1;
-});
+  more1.style.zIndex = -1;
+  close1.style.opacity = 1;
+  close1.style.zIndex = 2;
+})
 
 more2.addEventListener('click', function() {
   d2.style.opacity = 1;
   more2.style.opacity = 0;
-  more2.style.z-index = -1;
-});
+  more2.style.zIndex = -1;
+  close2.style.opacity = 1;
+  close2.style.zIndex = 2;
+})
 
 more3.addEventListener('click', function() {
   d3.style.opacity = 1;
   more3.style.opacity = 0;
-  more3.style.z-index = -1;
-});
+  more3.style.zIndex = -1;
+  close3.style.opacity = 1;
+  close3.style.zIndex = 2;
+})
 
 more4.addEventListener('click', function() {
   d4.style.opacity = 1;
   more4.style.opacity = 0;
-  more4.style.z-index = -1;
-});
+  more4.style.zIndex = -1;
+  close4.style.opacity = 1;
+  close4.style.zIndex = 2;
+})
+
+
+
+
+
+close1.addEventListener('click', function() {
+  d1.style.opacity = 0;
+  more1.style.opacity = 1;
+  more1.style.zIndex = 2;
+  close1.style.opacity = 0;
+  close1.style.zIndex = -1;
+})
+
+close2.addEventListener('click', function() {
+  d2.style.opacity = 0;
+  more2.style.opacity = 1;
+  more2.style.zIndex = 2;
+  close2.style.opacity = 0;
+  close2.style.zIndex = -1;
+})
+
+close3.addEventListener('click', function() {
+  d3.style.opacity = 0;
+  more3.style.opacity = 1;
+  more3.style.zIndex = 2;
+  close3.style.opacity = 0;
+  close3.style.zIndex = -1;
+})
+
+close4.addEventListener('click', function() {
+  d4.style.opacity = 0;
+  more4.style.opacity = 1;
+  more4.style.zIndex = 2;
+  close4.style.opacity = 0;
+  close4.style.zIndex = -1;
+})

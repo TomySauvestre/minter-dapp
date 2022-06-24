@@ -415,6 +415,11 @@ strong
   position: fixed;
 }
 
+.close{
+  opacity: 0;
+  z-index: -1;
+}
+
 
 
 /* THE GAME */
