@@ -422,6 +422,10 @@ strong
   position: absolute;
 }
 
+.detailsPanel > p{
+  z-index: 3;
+}
+
 
 
 
