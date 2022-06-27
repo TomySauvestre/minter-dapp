@@ -597,7 +597,7 @@ allCross.forEach(element => {
 })
 
 
-
+/*
 
 
 const d1 = document.querySelector('#d1');
@@ -752,3 +752,4 @@ close4.addEventListener("mouseout", () => {
   close4.style.color = "#9d0012";
 })
 
+*/
