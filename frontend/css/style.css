@@ -372,6 +372,11 @@ strong
   left: 34%;
 }
 
+#moreDetails{
+  position: absolute;
+  top: 90%;
+  left: 20%;
+}
 /*
 
 .more{
