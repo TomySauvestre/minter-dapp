@@ -379,8 +379,7 @@ strong
 }
 
 .link{
-  text-decoration: underline;
-  text-decoration-color: white;
+  text-decoration: none;
   color: var(--accent-color);
 }
 .link:hover{
