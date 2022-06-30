@@ -379,7 +379,8 @@ strong
 }
 
 .link{
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: white;
   color: var(--accent-color);
 }
 .link:target{
