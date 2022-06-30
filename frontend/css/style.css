@@ -377,6 +377,12 @@ strong
   top: 94%;
   left: 3%;
 }
+
+.link{
+  text-decoration: none;
+  color: var(--accent-color);
+
+}
 /*
 
 .more{
