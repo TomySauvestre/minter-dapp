@@ -1005,5 +1005,7 @@ section
 
 #test{
   z-index: 20;
-  
+  width: auto;
+  height: auto;
+
 }
