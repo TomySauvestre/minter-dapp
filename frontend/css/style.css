@@ -1005,4 +1005,5 @@ section
 
 .test{
   z-index: 20;
+  max-width: 100%;
 }
