@@ -345,7 +345,7 @@ strong
 .milestone
 {
   position: absolute;
-  color: #000000;
+  color: black;
   text-shadow: 0.1vw 0.1vw 0 black;
 }
 
@@ -354,12 +354,14 @@ strong
 {
   top: 21.5%;
   left: 19%;
+  color: black;
 }
 
 #m2
 {
   top: 41%;
   left: 26%;
+  color: black;
 }
 #m3
 {
