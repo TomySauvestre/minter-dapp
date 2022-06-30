@@ -381,7 +381,9 @@ strong
 .link{
   text-decoration: none;
   color: var(--accent-color);
-
+}
+.link:target{
+  color: red;
 }
 /*
 
