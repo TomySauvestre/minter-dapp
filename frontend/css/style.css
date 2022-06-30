@@ -383,9 +383,10 @@ strong
   text-decoration-color: white;
   color: var(--accent-color);
 }
-.link:target{
+.link:hover{
   color: red;
 }
+
 /*
 
 .more{
