@@ -643,7 +643,6 @@ strong
   height: 4vw;
   align-items: center;
   position: relative;
-  font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
   font-size: 1.5vw;
@@ -660,7 +659,6 @@ strong
   height: 4vw;
   align-items: center;
   position: relative;
-  font-family: var(--font-primary);
   font-style: italic;
   cursor: pointer;
   font-size: 1.5vw;
@@ -689,7 +687,6 @@ strong
   padding: 1vw 2vw;
   background: white;
   color: var(--accent-color);
-  font-family: var(--font-primary);
   font-style: italic;
   font-weight: bold;
   font-size: 1vw;
@@ -796,7 +793,6 @@ section
   color: rgb(255, 239, 239);
   font-size: 2vw;
   font-weight: 700;
-  font-family: var(--font-primary);
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -809,7 +805,6 @@ section
 .countdown .clock-item .count-text 
 {
   background: rgb(0, 0, 0);
-  font-family: var(--font-primary);
   text-shadow: 0.1vw 0.1vw 0 black;
   font-size: 1.1vw;
   color: rgb(255, 239, 239);
@@ -843,7 +838,6 @@ section
 .countdown > p 
 {
   font-size: 1.1vw;
-  font-family: var(--font-primary);
   text-align: center;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;

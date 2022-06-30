@@ -578,7 +578,7 @@ mintBTN.addEventListener("mouseout", () => {
 })
 
 
-const allCross = document.querySelectorAll('.visible-panel img');
+const allCross = document.querySelectorAll('.visible-panel');
 
 allCross.forEach(element => {
   element.addEventListener('click', function(){
