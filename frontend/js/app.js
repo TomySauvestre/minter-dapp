@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       updateConnectStatus();
     });
   }
-}); A MODIFIER   */
+});
 const updateConnectStatus = async () => {
   const onboarding = new MetaMaskOnboarding();
   const onboardButton = document.getElementById("connectWallet");
@@ -367,6 +367,8 @@ async function mint() {
     }
   }
 }
+
+*/
 
 var img = [];
 img[0] = "../images/x-icon/img1.png";
