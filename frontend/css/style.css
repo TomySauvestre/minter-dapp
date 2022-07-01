@@ -97,6 +97,7 @@ header .container {
 
 .links{
   display: flex;
+  gap: 0.2vw;
 }
 
 /*HOME */
