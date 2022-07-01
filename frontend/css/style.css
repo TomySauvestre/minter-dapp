@@ -95,11 +95,15 @@ header .container {
   border: solid 2px purple;
 }
 
-.links a{
+.links{
   display: flex;
   gap: 1vw;
-  font-size: 1vw;
+  
+}
+
+.links a{
   color: rgb(255, 250, 250);
+  font-size: 1vw;
 }
 
 /*HOME */
