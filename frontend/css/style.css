@@ -95,7 +95,7 @@ header .container {
   border: solid 2px purple;
 }
 
-.links{
+.links a{
   display: flex;
   gap: 1vw;
   font-size: 1vw;
