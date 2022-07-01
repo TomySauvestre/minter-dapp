@@ -460,7 +460,7 @@ arrow.addEventListener("mouseout", ()=> {
 })
 
 
-
+/*
 const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
@@ -472,7 +472,7 @@ opensea.addEventListener("mouseout", ()=> {
   opensea.src = "../images/header/opensea.png";
   opensea.style.width = "2vw";
 })
-
+*/
 
 
 
@@ -504,7 +504,7 @@ discord.addEventListener("mouseout", ()=> {
   discord.style.width = "2vw";
 })
 
-
+/*
 const wallet_btn = document.querySelector('.wallet-btn');
 
 wallet_btn.addEventListener("mouseenter", () => {
@@ -515,7 +515,7 @@ wallet_btn.addEventListener("mouseenter", () => {
 wallet_btn.addEventListener("mouseout", () => {
   wallet_btn.style.color = "#9d0012";
   wallet_btn.style.background  = "white";
-})
+})*/
 
 
 const jDiscord = document.querySelector('.jDiscord');
@@ -542,7 +542,7 @@ jTwitter.addEventListener("mouseout", () => {
   jTwitter.style.background  = "white";
 })
 
-
+/*
 const actionBTN = document.querySelector('#actionButton');
 
 actionBTN.addEventListener("mouseenter", () => {
@@ -565,7 +565,7 @@ mintBTN.addEventListener("mouseenter", () => {
 mintBTN.addEventListener("mouseout", () => {
   mintBTN.style.color = "#9d0012";
   mintBTN.style.background  = "white";
-})
+})*/
 
 
 const allCross = document.querySelectorAll('.visible-panel img');
