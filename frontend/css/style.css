@@ -72,6 +72,7 @@ header .container {
   height: auto;
   position: absolute;
   top: 12%;
+  border: solid 2px red;
 }
 
 
@@ -82,12 +83,14 @@ header .container {
   gap: 2vw;
   align-items: center;
   width: 30%;
+  border: solid 2px green;
 }
 
 .menu img
 {
   width: 2vw;
   height: auto;
+  border: solid 2px purple;
 }
 
 
