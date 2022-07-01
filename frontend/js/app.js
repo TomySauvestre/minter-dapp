@@ -32,7 +32,7 @@ let accounts;
       updateConnectStatus();
     });
   }
-});*/   A MODIFIER
+});   A MODIFIER */
 const updateConnectStatus = async () => {
   const onboarding = new MetaMaskOnboarding();
   const onboardButton = document.getElementById("connectWallet");
