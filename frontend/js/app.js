@@ -1,7 +1,7 @@
 let accounts;
 
 // METAMASK CONNECTION
-window.addEventListener("DOMContentLoaded", async () => {
+/*window.addEventListener("DOMContentLoaded", async () => {
   //const welcomeH1 = document.getElementById("welcomeH1");
   const welcomeH2 = document.getElementById("welcomeH2");
   //const welcomeP = document.getElementById("welcomeP");
@@ -24,18 +24,6 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
-  /*const splide = new Splide(".splide", {
-    type: "loop",
-    arrows: false,
-    perMove: 3,
-    pagination: false,
-    autoplay: true,
-    direction: 'ttb',
-    height: "calc(100vh - 90px)",
-    width: '30vw',
-    autoHeight: true,
-  });
-  splide.mount();*/
 
   updateConnectStatus();
   if (MetaMaskOnboarding.isMetaMaskInstalled()) {
@@ -44,7 +32,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       updateConnectStatus();
     });
   }
-});
+});*/   A MODIFIER
 const updateConnectStatus = async () => {
   const onboarding = new MetaMaskOnboarding();
   const onboardButton = document.getElementById("connectWallet");
