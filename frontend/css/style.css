@@ -79,15 +79,17 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 1vw;
+  gap: 1.5vw;
   align-items: center;
   width: 30%;
+  border: solid 2px red;
 }
 
 .menu img
 {
   width: 2vw;
   height: auto;
+  border: solid 2px green;
 }
 
 .links{
