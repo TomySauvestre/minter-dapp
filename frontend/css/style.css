@@ -98,6 +98,8 @@ header .container {
 .links{
   display: flex;
   gap: 1vw;
+  font-size: 1vw;
+  color: rgb(255, 250, 250);
 }
 
 /*HOME */
