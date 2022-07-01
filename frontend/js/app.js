@@ -1,5 +1,5 @@
 let accounts;
-
+/*
 // METAMASK CONNECTION
 window.addEventListener("DOMContentLoaded", async () => {
   //const welcomeH1 = document.getElementById("welcomeH1");
@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", async () => {
       updateConnectStatus();
     });
   }
-});   
+}); A MODIFIER   */
 const updateConnectStatus = async () => {
   const onboarding = new MetaMaskOnboarding();
   const onboardButton = document.getElementById("connectWallet");
