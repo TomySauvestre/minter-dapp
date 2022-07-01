@@ -95,6 +95,9 @@ header .container {
   border: solid 2px purple;
 }
 
+.links{
+  display: flex;
+}
 
 /*HOME */
 .home > .container{
