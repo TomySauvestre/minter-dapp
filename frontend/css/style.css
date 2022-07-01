@@ -72,8 +72,16 @@ header .container {
   height: auto;
   position: absolute;
   top: 12%;
-  left: 30%;
 }
+
+.logo{
+  width: 15%;
+  height: auto;
+  position: absolute;
+  top: 12%;
+  left: 20%;
+}
+
 
 .menu {
   display: flex;
