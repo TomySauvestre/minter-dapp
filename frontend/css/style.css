@@ -104,6 +104,11 @@ header .container {
 .links a{
   color: rgb(255, 250, 250);
   font-size: 1vw;
+  text-decoration: none;
+}
+
+.links a:hover{
+  color: var(--accent-color);
 }
 
 /*HOME */
