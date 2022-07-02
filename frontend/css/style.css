@@ -61,10 +61,10 @@ header .container {
   align-items: center;
   height: 5vw;
   background-color: rgb(5, 0, 24);
-  width: 96%;
+  width: 98%;
   position: relative;
-  left: 2%;
-  right: 2%;
+  left: 1%;
+  right: 1%;
 }
 
 .logo img{
@@ -79,7 +79,7 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 1.5vw;
+  gap: 1vw;
   align-items: center;
   width: 30%;
   justify-content: flex-end;
