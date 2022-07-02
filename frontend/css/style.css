@@ -82,7 +82,6 @@ header .container {
   gap: 1.5vw;
   align-items: center;
   width: 30%;
-  border: solid 2px red;
   justify-content: flex-end;
 }
 
@@ -90,7 +89,6 @@ header .container {
 {
   width: 2vw;
   height: auto;
-  border: solid 2px green;
 }
 
 .links{
