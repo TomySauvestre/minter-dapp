@@ -70,13 +70,7 @@ header .container {
 #logo img{
   width: 15%;
   height: auto;
-  position: absolute;
-  
-}
-
-#logo{
-  border: solid 10px red;
-  height: 2vw;
+  border: solid 2px red;
 }
 
 
