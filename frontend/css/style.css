@@ -83,7 +83,7 @@ header .container {
   align-items: center;
   width: 30%;
   border: solid 2px red;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .menu img
