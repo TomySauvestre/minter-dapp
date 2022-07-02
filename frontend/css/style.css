@@ -67,11 +67,10 @@ header .container {
   right: 1%;
 }
 
-.logo img{
+#logo img{
   width: 15%;
-  height: 100%;
+  height: auto;
   position: absolute;
-  top: 12%;
   
 }
 
