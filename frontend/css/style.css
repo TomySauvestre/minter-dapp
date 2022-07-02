@@ -69,10 +69,14 @@ header .container {
 
 #logo img{
   width: 100%;
-  height: auto;
+  height: 100%;
   border: solid 2px red;
 }
 
+#logo{
+  width: 15%;
+  height: 10vw;
+}
 
 
 
