@@ -1,5 +1,5 @@
-const contractAddress = "0x5a69A3dd2B5E41186f8594d842B44E4F7dA2DF76"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x56bd81936398e6f2EaBA9F93A5f7485790aAd01f"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Vengeful Slimes NFT Project!!";
 const welcome_h2 = "Connect to your Wallet to Get Started and see the countdown";
