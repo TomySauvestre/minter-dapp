@@ -74,7 +74,7 @@ header .container {
   
 }
 
-.logo{
+#logo{
   border: solid 10px red;
   height: 2vw;
 }
