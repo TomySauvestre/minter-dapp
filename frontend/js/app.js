@@ -1,5 +1,5 @@
 let accounts;
-/*MODIFIER */
+/*MODIFIER 
 // METAMASK CONNECTION
 window.addEventListener("DOMContentLoaded", async () => {
   //const welcomeH1 = document.getElementById("welcomeH1");
@@ -367,8 +367,7 @@ async function mint() {
     }
   }
 }
-
-   /* MODIFIER*/
+MODIFIER*/
 
 var img = [];
 img[0] = "../images/x-icon/img1.png";
@@ -460,7 +459,7 @@ arrow.addEventListener("mouseout", ()=> {
 })
 
 
-/* MODIFER */
+/*
 const opensea = document.querySelector('#opensea');
 
 opensea.addEventListener("mouseenter", ()=> {
@@ -472,7 +471,7 @@ opensea.addEventListener("mouseout", ()=> {
   opensea.src = "../images/header/opensea.png";
   opensea.style.width = "2vw";
 })
-/*MODIFIER*/
+MODIFIER*/
 
 
 
@@ -504,7 +503,7 @@ discord.addEventListener("mouseout", ()=> {
   discord.style.width = "2vw";
 })
 
-/* MODIIFER */
+/* MODIIFER 
 const wallet_btn = document.querySelector('.wallet-btn');
 
 wallet_btn.addEventListener("mouseenter", () => {
@@ -515,7 +514,7 @@ wallet_btn.addEventListener("mouseenter", () => {
 wallet_btn.addEventListener("mouseout", () => {
   wallet_btn.style.color = "#9d0012";
   wallet_btn.style.background  = "white";
-}) /* MODIFIER*/
+})MODIFIER*/
 
 
 const jDiscord = document.querySelector('.jDiscord');
@@ -542,7 +541,7 @@ jTwitter.addEventListener("mouseout", () => {
   jTwitter.style.background  = "white";
 })
 
-/* MODIFIER */
+/*
 const actionBTN = document.querySelector('#actionButton');
 
 actionBTN.addEventListener("mouseenter", () => {
@@ -565,7 +564,7 @@ mintBTN.addEventListener("mouseenter", () => {
 mintBTN.addEventListener("mouseout", () => {
   mintBTN.style.color = "#9d0012";
   mintBTN.style.background  = "white";
-})    /*MODIFIER*/
+})MODIFIER*/
 
 
 const allCross = document.querySelectorAll('.visible-panel img');
