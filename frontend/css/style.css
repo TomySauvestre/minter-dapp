@@ -224,7 +224,7 @@ header .container {
 .Cimg
 {
   position: absolute;
-  left: 2%;
+  left: 1%;
   top: 10%;
   width: 38%;
 }
@@ -233,7 +233,7 @@ header .container {
 {
   position: absolute;
   top: 90%;
-  left: 30%;
+  left: 29%;
   font-size: 3vw;
   text-shadow: 0.1vw 0.1vw 0 black;
   color:rgb(0, 104, 130);
