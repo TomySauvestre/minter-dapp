@@ -79,7 +79,7 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 2vw; /* A MODIFIER = gap: 1.5vw*/
+  gap: 2.5vw; /* A MODIFIER = gap: 1.5vw*/
   align-items: center;
   width: 30%;
   justify-content: center; /* A MODIFIER = justify-content: flex-start out flex-end ou ne rien changer je me rappelle plus*/
