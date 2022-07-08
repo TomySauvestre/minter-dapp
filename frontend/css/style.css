@@ -781,7 +781,7 @@ strong
 }
 
 .card p{
-  font-size: 1vw;
+  font-size: 1.2vw;
 }
 
 
@@ -883,9 +883,6 @@ section
   font-size: 1vw;
 }
 
-.info-container p{
-  font-size: 1vw;
-}
 
 
 /* MINT CONTAINER */
