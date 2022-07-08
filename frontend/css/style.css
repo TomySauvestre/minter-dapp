@@ -820,7 +820,7 @@ section
 {
   background: rgb(30, 0, 0);
   color: rgb(255, 239, 239);
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-weight: 700;
   font-family: var(--font-primary);
   display: inline-block;
@@ -837,7 +837,7 @@ section
   background: rgb(0, 0, 0);
   font-family: var(--font-primary);
   text-shadow: 0.1vw 0.1vw 0 black;
-  font-size: 1.1vw;
+  font-size: 1vw;
   color: rgb(255, 239, 239);
   display: inline-block;
   width: 100%;
@@ -852,7 +852,7 @@ section
 {
   text-shadow: 0.1vw 0.1vw 0 var(--accent-color);
   font-style: italic;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   text-align: center;
   margin-top: 1vw;
   margin-bottom: 0.5vw;
@@ -868,7 +868,7 @@ section
 
 .countdown > p 
 {
-  font-size: 1.1vw;
+  font-size: 1vw;
   font-family: var(--font-primary);
   text-align: center;
   color: rgb(255, 239, 239);
