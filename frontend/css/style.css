@@ -829,7 +829,7 @@ section
   line-height: 1;
   border-radius: 0.5vw 0.5vw 0 0;
   text-shadow: 0.1vw 0.1vw 0 black;
-  padding: 0.5vw;
+  padding: 0.3vw;
 
 }
 .countdown .clock-item .count-text 
@@ -844,8 +844,8 @@ section
   text-align: center;
   line-height: 1;
   border-radius: 0 0 0.5vw 0.5vw;
-  padding: 0.3vw;
-  margin-bottom: 2vw;
+  padding: 0.2vw;
+  margin-bottom: 1vw;
 }
 
 .countdown h3 
@@ -854,7 +854,7 @@ section
   font-style: italic;
   font-size: 1.2vw;
   text-align: center;
-  margin-top: 1vw;
+  margin-top: 0.5vw;
   margin-bottom: 0.5vw;
   color: rgb(255, 239, 239);
   text-shadow: 0.1vw 0.1vw 0 black;
