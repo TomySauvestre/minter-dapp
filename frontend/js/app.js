@@ -1,5 +1,5 @@
 let accounts;
-/*MODIFIER 
+
 // METAMASK CONNECTION
 window.addEventListener("DOMContentLoaded", async () => {
   //const welcomeH1 = document.getElementById("welcomeH1");
@@ -367,7 +367,7 @@ async function mint() {
     }
   }
 }
-MODIFIER*/
+
 
 var img = [];
 img[0] = "../images/x-icon/img1.png";

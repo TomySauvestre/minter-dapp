@@ -743,7 +743,7 @@ strong
   z-index: 2;
   width: 20vw;
   height: 100%;
-  display: none; /*MODIFIER*/
+  /*display: none; MODIFIER*/
 }
 
 .hero-btn {
