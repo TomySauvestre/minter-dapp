@@ -780,6 +780,10 @@ strong
   transform: translateY(0);
 }
 
+.card p{
+  font-size: 1vw;
+}
+
 
 /* COUNTDOWN SECTION */
 section 
